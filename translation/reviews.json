@@ -7,7 +7,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "f8f10c590b4db3efb193b8d7a1e9ed0b3c6b337957dbd65c6a24dbd8ddc08f97",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf002:printed3-line0",
+          "core:pdf002:printed3-line1",
+          "core:pdf002:printed3-line2",
+          "core:pdf002:printed3-line3",
+          "core:pdf002:printed3-line4",
+          "core:pdf002:printed3-line5"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "core-credits": {
       "content_sha256": "353d4d6a588f855c76a963514f22a23c4aa3ccd73385b4c75168ae6987f8cbc6",
@@ -15,7 +31,53 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "353d4d6a588f855c76a963514f22a23c4aa3ccd73385b4c75168ae6987f8cbc6",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf003:printed4-line1",
+          "core:pdf003:printed4-line10",
+          "core:pdf003:printed4-line11",
+          "core:pdf003:printed4-line12",
+          "core:pdf003:printed4-line13",
+          "core:pdf003:printed4-line14",
+          "core:pdf003:printed4-line15",
+          "core:pdf003:printed4-line16",
+          "core:pdf003:printed4-line17",
+          "core:pdf003:printed4-line18",
+          "core:pdf003:printed4-line19",
+          "core:pdf003:printed4-line2",
+          "core:pdf003:printed4-line20",
+          "core:pdf003:printed4-line21",
+          "core:pdf003:printed4-line22",
+          "core:pdf003:printed4-line23",
+          "core:pdf003:printed4-line24",
+          "core:pdf003:printed4-line25",
+          "core:pdf003:printed4-line26",
+          "core:pdf003:printed4-line27",
+          "core:pdf003:printed4-line28",
+          "core:pdf003:printed4-line29",
+          "core:pdf003:printed4-line3",
+          "core:pdf003:printed4-line30",
+          "core:pdf003:printed4-line31",
+          "core:pdf003:printed4-line32",
+          "core:pdf003:printed4-line33",
+          "core:pdf003:printed4-line34",
+          "core:pdf003:printed4-line35",
+          "core:pdf003:printed4-line36",
+          "core:pdf003:printed4-line4",
+          "core:pdf003:printed4-line5",
+          "core:pdf003:printed4-line6",
+          "core:pdf003:printed4-line7",
+          "core:pdf003:printed4-line8",
+          "core:pdf003:printed4-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "introduction": {
       "content_sha256": "b3d591ccacea2de506067f4707a7c8394ccd63c528221fbc1c805c181411044b",
@@ -23,7 +85,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "b3d591ccacea2de506067f4707a7c8394ccd63c528221fbc1c805c181411044b",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf005:printed6-line4",
+          "core:pdf005:printed6-line6",
+          "core:pdf005:printed6-line7",
+          "core:pdf005:printed6-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "roleplaying": {
       "content_sha256": "9c78b6bd9c6141ce3d870f078d49e70ca9bcf72d341306ec01a383240228daef",
@@ -31,15 +107,54 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "9c78b6bd9c6141ce3d870f078d49e70ca9bcf72d341306ec01a383240228daef",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf006:printed7-line5",
+          "core:pdf006:printed7-line6",
+          "core:pdf006:printed7-line7",
+          "core:pdf006:printed7-line8",
+          "core:pdf006:printed7-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "play-materials": {
-      "content_sha256": "c960b41a26a26d5f0c34b542d7a6a3b20a5f49f97a60c20e46ed32477b5ee61e",
+      "content_sha256": "7b460c66be32e1901e168a88a26c4a956fcbb5863b26650ee8f3b66f7d10b7d6",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "7b460c66be32e1901e168a88a26c4a956fcbb5863b26650ee8f3b66f7d10b7d6",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf007:printed8-line10",
+          "core:pdf007:printed8-line11",
+          "core:pdf007:printed8-line12",
+          "core:pdf007:printed8-line13",
+          "core:pdf007:printed8-line5",
+          "core:pdf007:printed8-line6",
+          "core:pdf007:printed8-line7",
+          "core:pdf007:printed8-line8",
+          "core:pdf007:printed8-line9",
+          "core:pdf008:printed9-line4",
+          "core:pdf008:printed9-line5",
+          "core:pdf008:printed9-line6",
+          "core:pdf008:printed9-line7",
+          "core:pdf008:printed9-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "dragonia-land": {
       "content_sha256": "8e4f31f8facf905cde2f920b75a20c1555aba93513171193ca1db72e8b8e9e65",
@@ -47,7 +162,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "8e4f31f8facf905cde2f920b75a20c1555aba93513171193ca1db72e8b8e9e65",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf009:printed10-line2",
+          "core:pdf009:printed10-line3",
+          "core:pdf009:printed10-line5",
+          "core:pdf009:printed10-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "capital": {
       "content_sha256": "6b68ef48184d6f9ae7d8270872651a13bb52720c70c3003b85b471104f5a7b00",
@@ -55,7 +184,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "6b68ef48184d6f9ae7d8270872651a13bb52720c70c3003b85b471104f5a7b00",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf010:printed11-line5",
+          "core:pdf010:printed11-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "council": {
       "content_sha256": "15b702cc393b6de805bfd00df58bbd721e76da0afeab88a4484677e7168b9e13",
@@ -63,7 +204,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "15b702cc393b6de805bfd00df58bbd721e76da0afeab88a4484677e7168b9e13",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf011:printed12-line5",
+          "core:pdf011:printed12-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "society-gender": {
       "content_sha256": "43bb2a4a925cbbfabc4a793ea0488d6985b0e0cfc1bcc9c1ce788826c4b874c1",
@@ -71,7 +224,33 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "43bb2a4a925cbbfabc4a793ea0488d6985b0e0cfc1bcc9c1ce788826c4b874c1",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf012:printed13-line10",
+          "core:pdf012:printed13-line11",
+          "core:pdf012:printed13-line12",
+          "core:pdf012:printed13-line13",
+          "core:pdf012:printed13-line14",
+          "core:pdf012:printed13-line15",
+          "core:pdf012:printed13-line16",
+          "core:pdf012:printed13-line24",
+          "core:pdf012:printed13-line25",
+          "core:pdf012:printed13-line26",
+          "core:pdf012:printed13-line27",
+          "core:pdf012:printed13-line28",
+          "core:pdf012:printed13-line5",
+          "core:pdf012:printed13-line6",
+          "core:pdf012:printed13-line8",
+          "core:pdf012:printed13-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "hatchery-guardians": {
       "content_sha256": "f61cce4f04dda355a0d163a11ed913d17c9b93f80cd03e49d72d79f576235b50",
@@ -79,7 +258,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "f61cce4f04dda355a0d163a11ed913d17c9b93f80cd03e49d72d79f576235b50",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf013:printed14-line5",
+          "core:pdf013:printed14-line6",
+          "core:pdf013:printed14-line8",
+          "core:pdf013:printed14-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "age-society": {
       "content_sha256": "ce260abdf750ca8116382b8f0853c0f0167a7ef259af3c2e5e21796b2ca07875",
@@ -87,7 +280,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "ce260abdf750ca8116382b8f0853c0f0167a7ef259af3c2e5e21796b2ca07875",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf014:printed15-line5",
+          "core:pdf014:printed15-line6",
+          "core:pdf014:printed15-line7",
+          "core:pdf014:printed15-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "age-raw-scaled": {
       "content_sha256": "0efd33869d965f1a5a258d8b413c977260e7145c623291893cc3f475661aa186",
@@ -95,7 +302,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "0efd33869d965f1a5a258d8b413c977260e7145c623291893cc3f475661aa186",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf015:printed16-line5",
+          "core:pdf015:printed16-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "age-winged": {
       "content_sha256": "a0edb8e3f1c3256d7ed0d7c5b4126c3dbbc056b85ff8f78944180ec3ea6e16ac",
@@ -103,7 +322,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "a0edb8e3f1c3256d7ed0d7c5b4126c3dbbc056b85ff8f78944180ec3ea6e16ac",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf015:printed16-line8",
+          "core:pdf015:printed16-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "age-bearded": {
       "content_sha256": "27c6dab7cfde83f34754a420ff4ea6f807c971674eaa2276e5cb04ab4b501db4",
@@ -111,7 +342,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "27c6dab7cfde83f34754a420ff4ea6f807c971674eaa2276e5cb04ab4b501db4",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf016:printed17-line8",
+          "core:pdf016:printed17-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "age-long-toothed": {
       "content_sha256": "29fe38343100e8f5234155fd388ddb23cd7b89bcc081da23c2d541addab676cc",
@@ -119,7 +362,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "29fe38343100e8f5234155fd388ddb23cd7b89bcc081da23c2d541addab676cc",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf016:printed17-line5",
+          "core:pdf016:printed17-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "age-elder": {
       "content_sha256": "48de00f7ccbbcaa14c40e222d32aca363101235357ae360f6c6dc85cdac5e5f6",
@@ -127,7 +382,20 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "48de00f7ccbbcaa14c40e222d32aca363101235357ae360f6c6dc85cdac5e5f6",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf017:printed18-line5",
+          "core:pdf017:printed18-line6",
+          "core:pdf017:printed18-line7"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ancients-mystics-lore": {
       "content_sha256": "746077a7c998f96f3f12b6f85eb38b9e2229e7f62e87ea79b9c9ae77b56d7e68",
@@ -135,7 +403,22 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "746077a7c998f96f3f12b6f85eb38b9e2229e7f62e87ea79b9c9ae77b56d7e68",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf017:printed18-line10",
+          "core:pdf017:printed18-line11",
+          "core:pdf017:printed18-line9",
+          "core:pdf018:printed19-line4",
+          "core:pdf018:printed19-line5"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "young-potential": {
       "content_sha256": "7ae54a3693e5ae06b03f03e98eccd75ddb81e735c6247366cf646e8963a7956a",
@@ -143,7 +426,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "7ae54a3693e5ae06b03f03e98eccd75ddb81e735c6247366cf646e8963a7956a",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf019:printed20-line5",
+          "core:pdf019:printed20-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "great-houses": {
       "content_sha256": "d2a9fc4b819e0a29e207069483a744d93a78988fee1cbbb887b1a549df8f4d8a",
@@ -151,15 +446,45 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "d2a9fc4b819e0a29e207069483a744d93a78988fee1cbbb887b1a549df8f4d8a",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf020:printed21-line5",
+          "core:pdf020:printed21-line6",
+          "core:pdf020:printed21-line7",
+          "core:pdf020:printed21-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "house-brynback": {
-      "content_sha256": "95ea3d4efc1ae9f0eb242d1c0a887154e484db0bc57d50dd92eeddc5405bcb5d",
+      "content_sha256": "475067d9914a849ed581a7e91b450d21d6b61ebb34a9fbe9678f4209653742e6",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "475067d9914a849ed581a7e91b450d21d6b61ebb34a9fbe9678f4209653742e6",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf021:printed22-line10",
+          "core:pdf021:printed22-line5",
+          "core:pdf021:printed22-line6",
+          "core:pdf021:printed22-line7",
+          "core:pdf021:printed22-line8",
+          "core:pdf021:printed22-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "house-kebros": {
       "content_sha256": "bbe90c475639e33d023164b24334a43b4421fb765b4c51a0823128745a2eb8d1",
@@ -167,7 +492,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "bbe90c475639e33d023164b24334a43b4421fb765b4c51a0823128745a2eb8d1",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf022:printed23-line10",
+          "core:pdf022:printed23-line5",
+          "core:pdf022:printed23-line6",
+          "core:pdf022:printed23-line7",
+          "core:pdf022:printed23-line8",
+          "core:pdf022:printed23-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "house-myndoth": {
       "content_sha256": "0fe72208d230b77e5b1b3f7379b00e277b962a8440beaafa299ee81bb2cead0d",
@@ -175,7 +516,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "0fe72208d230b77e5b1b3f7379b00e277b962a8440beaafa299ee81bb2cead0d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf023:printed24-line10",
+          "core:pdf023:printed24-line5",
+          "core:pdf023:printed24-line6",
+          "core:pdf023:printed24-line7",
+          "core:pdf023:printed24-line8",
+          "core:pdf023:printed24-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "house-rothscar": {
       "content_sha256": "273c3746e5267057b7ab840fc9e565a1720930b40f08fd066fd2acb0085f4757",
@@ -183,7 +540,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "273c3746e5267057b7ab840fc9e565a1720930b40f08fd066fd2acb0085f4757",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf024:printed25-line10",
+          "core:pdf024:printed25-line5",
+          "core:pdf024:printed25-line6",
+          "core:pdf024:printed25-line7",
+          "core:pdf024:printed25-line8",
+          "core:pdf024:printed25-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "house-semscale": {
       "content_sha256": "1f533fa88d33b49e94ef5299a96ca217d9d636a334fa06cf8001888516673821",
@@ -191,7 +564,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "1f533fa88d33b49e94ef5299a96ca217d9d636a334fa06cf8001888516673821",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf025:printed26-line10",
+          "core:pdf025:printed26-line5",
+          "core:pdf025:printed26-line6",
+          "core:pdf025:printed26-line7",
+          "core:pdf025:printed26-line8",
+          "core:pdf025:printed26-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "house-tessith": {
       "content_sha256": "70206efaaedad6e0db63aa88f45b1491e4da1570fbcc9ce1082b8e1fcda7e217",
@@ -199,7 +588,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "70206efaaedad6e0db63aa88f45b1491e4da1570fbcc9ce1082b8e1fcda7e217",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf026:printed27-line10",
+          "core:pdf026:printed27-line5",
+          "core:pdf026:printed27-line6",
+          "core:pdf026:printed27-line7",
+          "core:pdf026:printed27-line8",
+          "core:pdf026:printed27-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "moon-origins": {
       "content_sha256": "55a426c6894653e42631750b136e9ce7f1543eba29355e0b9b9ee5b36c7b162e",
@@ -207,15 +612,46 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "55a426c6894653e42631750b136e9ce7f1543eba29355e0b9b9ee5b36c7b162e",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf027:printed28-line5",
+          "core:pdf027:printed28-line6",
+          "core:pdf027:printed28-line7"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "five-moons": {
-      "content_sha256": "be3718dde38225960318f5a90ae4c6f9e9e1edacc54a6386cb21559984ebdfbf",
+      "content_sha256": "adb0a2ad9c36e25e9ba27fbb412557d03fa6895d381d12ee42923540b483e421",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "adb0a2ad9c36e25e9ba27fbb412557d03fa6895d381d12ee42923540b483e421",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf028:printed29-line10",
+          "core:pdf028:printed29-line11",
+          "core:pdf028:printed29-line4",
+          "core:pdf028:printed29-line5",
+          "core:pdf028:printed29-line6",
+          "core:pdf028:printed29-line7",
+          "core:pdf028:printed29-line8",
+          "core:pdf028:printed29-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "wilderness": {
       "content_sha256": "acb7d666efb3ec1c42ce21b4e771cfe716934d6cdd6123ebb9e9747a99aebe9d",
@@ -223,7 +659,20 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "acb7d666efb3ec1c42ce21b4e771cfe716934d6cdd6123ebb9e9747a99aebe9d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf029:printed30-line5",
+          "core:pdf029:printed30-line6",
+          "core:pdf029:printed30-line7"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "monsters": {
       "content_sha256": "d69da5a89db01123a66ce34f87cd0d5b45cee7388a3f4ca9e6f0f45fa8511646",
@@ -231,7 +680,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "d69da5a89db01123a66ce34f87cd0d5b45cee7388a3f4ca9e6f0f45fa8511646",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf030:printed31-line5",
+          "core:pdf030:printed31-line6",
+          "core:pdf030:printed31-line7",
+          "core:pdf030:printed31-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "clutches": {
       "content_sha256": "1f5ae5020f6a721bb84687432e05a66c6c181502fa0e1b1be18a166b2aec7a72",
@@ -239,7 +702,27 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "1f5ae5020f6a721bb84687432e05a66c6c181502fa0e1b1be18a166b2aec7a72",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf031:printed32-line10",
+          "core:pdf031:printed32-line11",
+          "core:pdf031:printed32-line12",
+          "core:pdf031:printed32-line13",
+          "core:pdf031:printed32-line14",
+          "core:pdf031:printed32-line5",
+          "core:pdf031:printed32-line6",
+          "core:pdf031:printed32-line7",
+          "core:pdf031:printed32-line8",
+          "core:pdf031:printed32-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "war-of-shadow": {
       "content_sha256": "b37b063ad4adf61534a333a9f416673a245e8fe9a7558c55206e4dbab011dc87",
@@ -247,7 +730,22 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "b37b063ad4adf61534a333a9f416673a245e8fe9a7558c55206e4dbab011dc87",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf032:printed33-line5",
+          "core:pdf032:printed33-line6",
+          "core:pdf033:printed34-line4",
+          "core:pdf033:printed34-line5",
+          "core:pdf033:printed34-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "darkness-today": {
       "content_sha256": "858545ce4f21d07ad6aefa61411545d089e6e53eac78b4af2f7795b095617766",
@@ -255,47 +753,134 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "858545ce4f21d07ad6aefa61411545d089e6e53eac78b4af2f7795b095617766",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf034:printed35-line5",
+          "core:pdf034:printed35-line6",
+          "core:pdf034:printed35-line7",
+          "core:pdf034:printed35-line8",
+          "core:pdf034:printed35-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "choose-playbook": {
-      "content_sha256": "36cb3f181f832efad36d25b007978a555cb5f54b39dc602f78d2e88c91c3a550",
+      "content_sha256": "849f186142aa0a4fbc982948142dc5110a75ac7266facd35393c2ecdf85b1c3c",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "849f186142aa0a4fbc982948142dc5110a75ac7266facd35393c2ecdf85b1c3c",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf035:printed36-line2",
+          "core:pdf035:printed36-line4",
+          "core:pdf035:printed36-line5",
+          "core:pdf035:printed36-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "name-look": {
-      "content_sha256": "3c7fedaf6db3cd8e54475c7909cdb8fe0c3f4a1c47f33d6764e74d6b67aadd2d",
+      "content_sha256": "5c7c684113322620fcd39cdefca0c6c429394230efcbf5fc087f0b4c593b746b",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "5c7c684113322620fcd39cdefca0c6c429394230efcbf5fc087f0b4c593b746b",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf036:printed37-line5",
+          "core:pdf036:printed37-line7",
+          "core:pdf036:printed37-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "color-house-creation": {
-      "content_sha256": "0bb882fc8ea0d4c09d880e193f37bf099858f49b3cf5c2dd4d2bb7ae211859e4",
+      "content_sha256": "4c68133ab94ff669fa5826bc61f5a5a46d81df21d08387dde8a6e9d702035962",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "4c68133ab94ff669fa5826bc61f5a5a46d81df21d08387dde8a6e9d702035962",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf037:printed38-line10",
+          "core:pdf037:printed38-line5",
+          "core:pdf037:printed38-line6",
+          "core:pdf037:printed38-line8",
+          "core:pdf037:printed38-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "character-stats": {
-      "content_sha256": "3b7a133b722e7b946e02ffb62e889908b35da08ac7cc7991e7d12266daf8523b",
+      "content_sha256": "10086095ece1e084cbbc718377f8a7b25556c8aaea78465e3dc3b68445345d30",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "10086095ece1e084cbbc718377f8a7b25556c8aaea78465e3dc3b68445345d30",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf038:printed39-line10",
+          "core:pdf038:printed39-line5",
+          "core:pdf038:printed39-line6",
+          "core:pdf038:printed39-line7",
+          "core:pdf038:printed39-line8",
+          "core:pdf038:printed39-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "virtues-gems-creation": {
-      "content_sha256": "4e3146970346614691e9867d28f5ebf39ad29e40d2f62e31e92ecba89ef0ecfa",
+      "content_sha256": "38ce052beb521c2b15c375b01e4a9ff79c165446bb514a0d12e07f1b8244a75a",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "38ce052beb521c2b15c375b01e4a9ff79c165446bb514a0d12e07f1b8244a75a",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf039:printed40-line5",
+          "core:pdf039:printed40-line6",
+          "core:pdf039:printed40-line8",
+          "core:pdf039:printed40-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "fellowship-creation": {
       "content_sha256": "90eb208611f017d275fca852c982db858f79bdd2e3b91dce58d6b5be9c501a39",
@@ -303,15 +888,46 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "90eb208611f017d275fca852c982db858f79bdd2e3b91dce58d6b5be9c501a39",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf040:printed41-line10",
+          "core:pdf040:printed41-line8",
+          "core:pdf040:printed41-line9",
+          "core:pdf041:fellowship-fill-in-example",
+          "core:pdf041:printed42-line4",
+          "core:pdf041:printed42-line5",
+          "core:pdf041:printed42-line6",
+          "core:pdf041:printed42-line8",
+          "core:pdf041:printed42-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "picking-moves": {
-      "content_sha256": "46ff8374aa04a0ee7bf3476ee7c88090cdaa47d740f8ed3889c1ed61058b0c81",
+      "content_sha256": "59968eda6419cc810c664850953b866891d9a9fa8481284e953e873afcf568be",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "59968eda6419cc810c664850953b866891d9a9fa8481284e953e873afcf568be",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf040:printed41-line5",
+          "core:pdf040:printed41-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "conversation": {
       "content_sha256": "42ab022879353ea364d3b674b3072bace4d75eeaac43e5b2e6adab696ebca1b2",
@@ -1725,52 +2341,190 @@
       }
     },
     "gm-example-setup": {
-      "content_sha256": "4326b22be2ac8c8362c4aa1f54dbc62d770397d5445fcbe9e584d4115e4313d1",
+      "content_sha256": "ad1625c49f42894af6fedb7b21ecd87a98c5b37a97cadf1910cdccef1e37f902",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "ad1625c49f42894af6fedb7b21ecd87a98c5b37a97cadf1910cdccef1e37f902",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf111:printed112-line10",
+          "core:pdf111:printed112-line11",
+          "core:pdf111:printed112-line12",
+          "core:pdf111:printed112-line13",
+          "core:pdf111:printed112-line5",
+          "core:pdf111:printed112-line6",
+          "core:pdf111:printed112-line7",
+          "core:pdf111:printed112-line8",
+          "core:pdf111:printed112-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-survey": {
-      "content_sha256": "ee6a014ef4587d5c9b081ddacdf6fbd667322526d54293be2a3036ccd65047b1",
+      "content_sha256": "97c482989b92a1a928cb4aaebbc8b800bc25c7088e5675fbb7bf627f9d4d4900",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "97c482989b92a1a928cb4aaebbc8b800bc25c7088e5675fbb7bf627f9d4d4900",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf112:printed113-line10",
+          "core:pdf112:printed113-line4",
+          "core:pdf112:printed113-line5",
+          "core:pdf112:printed113-line6",
+          "core:pdf112:printed113-line7",
+          "core:pdf112:printed113-line8",
+          "core:pdf112:printed113-line9",
+          "core:pdf113:printed114-line10",
+          "core:pdf113:printed114-line4",
+          "core:pdf113:printed114-line5",
+          "core:pdf113:printed114-line6",
+          "core:pdf113:printed114-line7",
+          "core:pdf113:printed114-line8",
+          "core:pdf113:printed114-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-ritual": {
-      "content_sha256": "007e8eb65fa23c038a8f4c06931ba696e80402295dc0262dabcd1af6a2225ef9",
+      "content_sha256": "c48454b4f8cc1705bc662314bf8ace9670884b2f7903a574e0e49a77ccfbb45a",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "c48454b4f8cc1705bc662314bf8ace9670884b2f7903a574e0e49a77ccfbb45a",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf113:printed114-line11",
+          "core:pdf114:printed115-line10",
+          "core:pdf114:printed115-line4",
+          "core:pdf114:printed115-line5",
+          "core:pdf114:printed115-line6",
+          "core:pdf114:printed115-line7",
+          "core:pdf114:printed115-line8",
+          "core:pdf114:printed115-line9",
+          "core:pdf115:printed116-line10",
+          "core:pdf115:printed116-line4",
+          "core:pdf115:printed116-line5",
+          "core:pdf115:printed116-line6",
+          "core:pdf115:printed116-line8",
+          "core:pdf115:printed116-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-misses-trick": {
-      "content_sha256": "136441dc8881a92693cc17a523b0f45e711ae86448bfdf3a24ee77a3414852de",
+      "content_sha256": "c97ab77d0b91dc706b30f0ca7489832fe83bcc6eb57b8e9a0716cd99d266397b",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "c97ab77d0b91dc706b30f0ca7489832fe83bcc6eb57b8e9a0716cd99d266397b",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf116:printed117-line10",
+          "core:pdf116:printed117-line11",
+          "core:pdf116:printed117-line4",
+          "core:pdf116:printed117-line5",
+          "core:pdf116:printed117-line6",
+          "core:pdf116:printed117-line7",
+          "core:pdf116:printed117-line8",
+          "core:pdf116:printed117-line9",
+          "core:pdf117:printed118-line4",
+          "core:pdf117:printed118-line5",
+          "core:pdf117:printed118-line6",
+          "core:pdf117:printed118-line7",
+          "core:pdf117:printed118-line8",
+          "core:pdf117:printed118-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-queen": {
-      "content_sha256": "5e247a9c8729f70e627dae8568084ba04651fdde653bb5a5137c9e8cf5b1e8e2",
+      "content_sha256": "6530b96f0809931c889fbf374ae76a0a0124e39272521499ce4ab0ec61569b2d",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "6530b96f0809931c889fbf374ae76a0a0124e39272521499ce4ab0ec61569b2d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf118:printed119-line10",
+          "core:pdf118:printed119-line4",
+          "core:pdf118:printed119-line5",
+          "core:pdf118:printed119-line6",
+          "core:pdf118:printed119-line7",
+          "core:pdf118:printed119-line8",
+          "core:pdf118:printed119-line9",
+          "core:pdf119:printed120-line4",
+          "core:pdf119:printed120-line5",
+          "core:pdf119:printed120-line6",
+          "core:pdf119:printed120-line7",
+          "core:pdf119:printed120-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-silverwing": {
-      "content_sha256": "744e8c252e7dad07cad8476646a25978e4e8291808e9d88376b1ff4807621cdd",
+      "content_sha256": "0ec146d5c3907d50bb6848b0f43288f05491b32ad4bc7922f1fb09045e6f0e65",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "0ec146d5c3907d50bb6848b0f43288f05491b32ad4bc7922f1fb09045e6f0e65",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf120:printed121-line10",
+          "core:pdf120:printed121-line11",
+          "core:pdf120:printed121-line12",
+          "core:pdf120:printed121-line13",
+          "core:pdf120:printed121-line4",
+          "core:pdf120:printed121-line5",
+          "core:pdf120:printed121-line6",
+          "core:pdf120:printed121-line7",
+          "core:pdf120:printed121-line8",
+          "core:pdf120:printed121-line9",
+          "core:pdf121:printed122-line4",
+          "core:pdf121:printed122-line5",
+          "core:pdf121:printed122-line6",
+          "core:pdf121:printed122-line7",
+          "core:pdf121:printed122-line8"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-shadowself": {
       "content_sha256": "7b7b8e13184bced7ab056d7b4d595acd6094a7d26d485d334f75c33ce3081711",
@@ -1778,23 +2532,85 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "7b7b8e13184bced7ab056d7b4d595acd6094a7d26d485d334f75c33ce3081711",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf122:printed123-line4",
+          "core:pdf122:printed123-line5",
+          "core:pdf122:printed123-line6",
+          "core:pdf122:printed123-line7",
+          "core:pdf122:printed123-line8",
+          "core:pdf122:printed123-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-finn": {
-      "content_sha256": "cbd19b4d0633fc4c9d99f64019295901b722395864e66dcf425ccdeceb9c88f1",
+      "content_sha256": "adaa1b1cd9c861a87e951ef57379abed9389ecd16f720e2cc0abcdce14243711",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "adaa1b1cd9c861a87e951ef57379abed9389ecd16f720e2cc0abcdce14243711",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf123:printed124-line10",
+          "core:pdf123:printed124-line4",
+          "core:pdf123:printed124-line5",
+          "core:pdf123:printed124-line6",
+          "core:pdf123:printed124-line7",
+          "core:pdf123:printed124-line8",
+          "core:pdf123:printed124-line9",
+          "core:pdf124:printed125-line4",
+          "core:pdf124:printed125-line5",
+          "core:pdf125:printed126-line4",
+          "core:pdf125:printed126-line5"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-example-healing": {
-      "content_sha256": "dd9b4bc520c766cd3a851f48ac38dfd987d23e23392383a1d74719133095ffb2",
+      "content_sha256": "7b9d2a817c41b4830a8c68204cd1c14f5b31a8bf04b76b19d98f0ddbcc9f4f8d",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 05",
+        "content_sha256": "7b9d2a817c41b4830a8c68204cd1c14f5b31a8bf04b76b19d98f0ddbcc9f4f8d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf125:printed126-line10",
+          "core:pdf125:printed126-line11",
+          "core:pdf125:printed126-line12",
+          "core:pdf125:printed126-line6",
+          "core:pdf125:printed126-line7",
+          "core:pdf125:printed126-line8",
+          "core:pdf125:printed126-line9",
+          "core:pdf126:printed127-line4",
+          "core:pdf126:printed127-line5",
+          "core:pdf126:printed127-line6",
+          "core:pdf126:printed127-line7",
+          "core:pdf127:printed128-line2",
+          "core:pdf127:printed128-line3",
+          "core:pdf127:printed128-line4",
+          "core:pdf127:printed128-line5"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "gm-hazards-introduction": {
       "content_sha256": "9c322f185faaccbb9153f2b084cda3db137d32b9a7a541f306d84c1902821965",
@@ -2173,7 +2989,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "31f0bcc83f16d69e9d97b97027b121edd2deff9307996a71bebe611ae1bb7157",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf143:printed144-line3",
+          "core:pdf143:printed144-line4",
+          "core:pdf143:printed144-line5",
+          "core:pdf143:printed144-line6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "core-mediography": {
       "content_sha256": "52ff75b2943329cb7b20c8e222fa1aa60933665dd8afa559ff12b62d8e3c9300",
@@ -2181,7 +3011,42 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "52ff75b2943329cb7b20c8e222fa1aa60933665dd8afa559ff12b62d8e3c9300",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf144:printed145-line10",
+          "core:pdf144:printed145-line11",
+          "core:pdf144:printed145-line12",
+          "core:pdf144:printed145-line13",
+          "core:pdf144:printed145-line14",
+          "core:pdf144:printed145-line15",
+          "core:pdf144:printed145-line16",
+          "core:pdf144:printed145-line17",
+          "core:pdf144:printed145-line18",
+          "core:pdf144:printed145-line19",
+          "core:pdf144:printed145-line20",
+          "core:pdf144:printed145-line21",
+          "core:pdf144:printed145-line22",
+          "core:pdf144:printed145-line23",
+          "core:pdf144:printed145-line24",
+          "core:pdf144:printed145-line25",
+          "core:pdf144:printed145-line26",
+          "core:pdf144:printed145-line27",
+          "core:pdf144:printed145-line3",
+          "core:pdf144:printed145-line4",
+          "core:pdf144:printed145-line5",
+          "core:pdf144:printed145-line6",
+          "core:pdf144:printed145-line7",
+          "core:pdf144:printed145-line8",
+          "core:pdf144:printed145-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "core-playbooks-overview": {
       "content_sha256": "00346a756b667ac76e13468e28bfd86d87f5ead88bf9ce97dcbd272d7ca44a8c",
@@ -2189,7 +3054,42 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "00346a756b667ac76e13468e28bfd86d87f5ead88bf9ce97dcbd272d7ca44a8c",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:pdf145:printed146-line10",
+          "core:pdf145:printed146-line11",
+          "core:pdf145:printed146-line12",
+          "core:pdf145:printed146-line13",
+          "core:pdf145:printed146-line14",
+          "core:pdf145:printed146-line15",
+          "core:pdf145:printed146-line16",
+          "core:pdf145:printed146-line17",
+          "core:pdf145:printed146-line5",
+          "core:pdf145:printed146-line6",
+          "core:pdf145:printed146-line7",
+          "core:pdf145:printed146-line8",
+          "core:pdf145:printed146-line9",
+          "core:pdf146:printed147-line10",
+          "core:pdf146:printed147-line11",
+          "core:pdf146:printed147-line12",
+          "core:pdf146:printed147-line13",
+          "core:pdf146:printed147-line2",
+          "core:pdf146:printed147-line3",
+          "core:pdf146:printed147-line4",
+          "core:pdf146:printed147-line5",
+          "core:pdf146:printed147-line6",
+          "core:pdf146:printed147-line7",
+          "core:pdf146:printed147-line8",
+          "core:pdf146:printed147-line9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "core-xp-track-lengths": {
       "content_sha256": "da3192a02c3e69ab7f85f35b9444e74ccdcd56c95d6ee033485a54f3f9521a0f",
@@ -2197,7 +3097,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 06",
+        "content_sha256": "da3192a02c3e69ab7f85f35b9444e74ccdcd56c95d6ee033485a54f3f9521a0f",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf001:xp-grid-visual",
+          "playbooks:pdf003:xp-grid-visual",
+          "playbooks:pdf005:xp-grid-visual",
+          "playbooks:pdf007:xp-grid-visual",
+          "playbooks:pdf009:xp-grid-visual",
+          "playbooks:pdf011:xp-grid-visual"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "pb-academic": {
       "content_sha256": "9a18b3a85b164a4dc0b27b7125d0a042a863aff4abb8ba462b1a9f2a2f1107b9",
@@ -3002,36 +3918,115 @@
       }
     },
     "ed-credits": {
-      "content_sha256": "9cbc7695c1176fd5ce27afa30ab7a1b0bd047715136a343e6074e2ef6b364065",
+      "content_sha256": "124a792eafbbef277cf065bc247cd6b916a234df6e249a76da14e541c1ce7b71",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 17",
+        "content_sha256": "124a792eafbbef277cf065bc247cd6b916a234df6e249a76da14e541c1ce7b71",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf002:excerpt-2aa1f6e882fc",
+          "encyclopedia:pdf003:excerpt-0174166251bd",
+          "encyclopedia:pdf003:excerpt-1750db056b60",
+          "encyclopedia:pdf003:excerpt-87c6542bd277",
+          "encyclopedia:pdf004:excerpt-282b83ac4cba"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-introduction": {
-      "content_sha256": "2ff0e540ab391ac13e7b11de48f55c1add4654cb5ac9d1db6966f4df6f7146b7",
+      "content_sha256": "dbad82e343ba687c9a8501c63202327f48ad90b6e2d7dd61cd9c3c0bdcd2789f",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 07",
+        "content_sha256": "dbad82e343ba687c9a8501c63202327f48ad90b6e2d7dd61cd9c3c0bdcd2789f",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf005:excerpt-20d199c4a70c",
+          "encyclopedia:pdf005:excerpt-5e8f4aca0d3c",
+          "encyclopedia:pdf005:excerpt-732ea206cbc4",
+          "encyclopedia:pdf005:excerpt-746ed518781d",
+          "encyclopedia:pdf006:excerpt-60cc1610cb0c",
+          "encyclopedia:pdf006:excerpt-b4823e32a130",
+          "encyclopedia:pdf006:excerpt-d543e17adb2f"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-sage-story": {
-      "content_sha256": "ea3df1a2dcb7601434a5e637b548b61c0116143024667c144ae71e92911a9e71",
+      "content_sha256": "12e769c39f0ef2c063039ca4bcccd3f15266638c7da8d0f7f06b4c1a0aecc867",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 07",
+        "content_sha256": "12e769c39f0ef2c063039ca4bcccd3f15266638c7da8d0f7f06b4c1a0aecc867",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf007:excerpt-3ad7053d7d57",
+          "encyclopedia:pdf008:excerpt-65387f90eeed",
+          "encyclopedia:pdf008:excerpt-6fe1fdab32ac",
+          "encyclopedia:pdf008:excerpt-cc499624aa33",
+          "encyclopedia:pdf008:excerpt-cd170ebd7f05",
+          "encyclopedia:pdf008:excerpt-ce87377286fc",
+          "encyclopedia:pdf009:excerpt-0ae480818425",
+          "encyclopedia:pdf009:excerpt-20cab0bb9dc0",
+          "encyclopedia:pdf009:excerpt-9aae61a684ca",
+          "encyclopedia:pdf009:excerpt-9d265f9beb95",
+          "encyclopedia:pdf010:excerpt-31d534e75908",
+          "encyclopedia:pdf010:excerpt-bc925e12526a",
+          "encyclopedia:pdf010:excerpt-f037b95f7fff",
+          "encyclopedia:pdf010:excerpt-f784602a9776",
+          "encyclopedia:pdf011:excerpt-13edd8771316",
+          "encyclopedia:pdf011:excerpt-9ba929929842",
+          "encyclopedia:pdf011:excerpt-b5801e05db8f",
+          "encyclopedia:pdf012:excerpt-43ffa520672b",
+          "encyclopedia:pdf012:excerpt-703c62096f6f",
+          "encyclopedia:pdf012:excerpt-a7b180fbf3ec",
+          "encyclopedia:pdf012:excerpt-d4f101f2378e",
+          "encyclopedia:pdf013:excerpt-33c9351a2954",
+          "encyclopedia:pdf013:excerpt-3ca524bb668f",
+          "encyclopedia:pdf013:excerpt-5f46bc91569c",
+          "encyclopedia:pdf013:excerpt-7fa5f9e576f6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-sage-moves": {
-      "content_sha256": "4d94c5f932e6b90d2f09577cc72de641b0e7475793fb20e39747b114f76e913c",
+      "content_sha256": "e6360636039b1c4a8c75dc2d4a61a4f06413a958d1d1752f1195dcc20fd53a7d",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 07",
+        "content_sha256": "e6360636039b1c4a8c75dc2d4a61a4f06413a958d1d1752f1195dcc20fd53a7d",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf014:excerpt-78d31771a5af",
+          "encyclopedia:pdf014:excerpt-9de7d4633856"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-monastery-story": {
       "content_sha256": "8425d33965e2fdec84e53cc0b3dd7b9af7e902ef45c20c2c22108eb3422fc9b7",
@@ -3039,111 +4034,435 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 07",
+        "content_sha256": "8425d33965e2fdec84e53cc0b3dd7b9af7e902ef45c20c2c22108eb3422fc9b7",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf015:excerpt-1dca30db60f6",
+          "encyclopedia:pdf016:excerpt-546e96178b6c",
+          "encyclopedia:pdf016:excerpt-7c78d490f891",
+          "encyclopedia:pdf016:excerpt-97f2fbb36d0c",
+          "encyclopedia:pdf017:excerpt-13e20ea82d2f",
+          "encyclopedia:pdf017:excerpt-371549849ad7",
+          "encyclopedia:pdf017:excerpt-fc53a06d865e",
+          "encyclopedia:pdf018:excerpt-18298fae4e1b",
+          "encyclopedia:pdf018:excerpt-6091a5fc69f4",
+          "encyclopedia:pdf018:excerpt-862206add3ee",
+          "encyclopedia:pdf019:excerpt-1c753ec08a38",
+          "encyclopedia:pdf019:excerpt-44d52c7daf9d",
+          "encyclopedia:pdf019:excerpt-bec272fbda72",
+          "encyclopedia:pdf020:excerpt-2ab2443a169a",
+          "encyclopedia:pdf020:excerpt-42771b7cc8b3",
+          "encyclopedia:pdf020:excerpt-4a0f92291971",
+          "encyclopedia:pdf021:excerpt-45b849c987a7",
+          "encyclopedia:pdf021:excerpt-50322c622fc1",
+          "encyclopedia:pdf021:excerpt-a974c520c09b",
+          "encyclopedia:pdf022:excerpt-595c50728232"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-monastery-moves": {
-      "content_sha256": "67e566f2a832b594458d113025e99317849e1fdd3871049b70364f3becfe5bc5",
+      "content_sha256": "c1fff515a4a6742ba4725981443ce4909d2c2e138bc0f5b6f7e5afe37ad0dddd",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 07",
+        "content_sha256": "c1fff515a4a6742ba4725981443ce4909d2c2e138bc0f5b6f7e5afe37ad0dddd",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf022:excerpt-306b7a081374",
+          "encyclopedia:pdf022:excerpt-97010a5449aa",
+          "encyclopedia:pdf022:excerpt-b0b49488f6c4",
+          "encyclopedia:pdf022:excerpt-cb22ab89fc98",
+          "encyclopedia:pdf022:excerpt-f3a75c4ad436",
+          "encyclopedia:pdf022:excerpt-f833d5377024"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-yeraktos-story": {
-      "content_sha256": "65e686ffbaec55d6b1aa89aa8e043f6f5f86ad517b08866bcb4accd447606869",
+      "content_sha256": "f847b21ba8b332ef1c6c00821c15bfad46c82877d2850ec958c51f0012e7c207",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 08",
+        "content_sha256": "f847b21ba8b332ef1c6c00821c15bfad46c82877d2850ec958c51f0012e7c207",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf023:excerpt-4d7253bcdd5d",
+          "encyclopedia:pdf023:excerpt-d0ac6f080b31",
+          "encyclopedia:pdf024:excerpt-1b46143ed66f",
+          "encyclopedia:pdf024:excerpt-34a53af83528",
+          "encyclopedia:pdf024:excerpt-3eb6b610f688",
+          "encyclopedia:pdf024:excerpt-bc89972b52e5",
+          "encyclopedia:pdf025:excerpt-10fbe8129a95",
+          "encyclopedia:pdf025:excerpt-17f2f5b01e1a",
+          "encyclopedia:pdf025:excerpt-56421f38c349",
+          "encyclopedia:pdf026:excerpt-07565d352f5e",
+          "encyclopedia:pdf026:excerpt-c1fa7c455a93",
+          "encyclopedia:pdf026:excerpt-d0d010f4eaa7",
+          "encyclopedia:pdf027:excerpt-345f2a810bd1",
+          "encyclopedia:pdf027:excerpt-d544ad986741",
+          "encyclopedia:pdf027:excerpt-f2284e0a14f8",
+          "encyclopedia:pdf027:excerpt-f8564f0cfe41",
+          "encyclopedia:pdf028:excerpt-1d251e865e58",
+          "encyclopedia:pdf028:excerpt-27fad79a9bb7",
+          "encyclopedia:pdf028:excerpt-9677096f07d4",
+          "encyclopedia:pdf028:excerpt-a8f4d46a519c",
+          "encyclopedia:pdf029:excerpt-6a9046a23fb5",
+          "encyclopedia:pdf029:excerpt-85b13b640d52",
+          "encyclopedia:pdf029:excerpt-c3da383f40dd"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-yeraktos-moves": {
-      "content_sha256": "8a35a59fd100b6c444e2eb7d2d75694f01c2da0088754791a168a3b1507faebc",
+      "content_sha256": "4a3bb758e3d43f945009adc0afeadbd156b1b41841320a97669c8d2de9dd9ff9",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 08",
+        "content_sha256": "4a3bb758e3d43f945009adc0afeadbd156b1b41841320a97669c8d2de9dd9ff9",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf030:excerpt-649ca45cf469",
+          "encyclopedia:pdf030:excerpt-b5b11474f6ac"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-cellani-story": {
-      "content_sha256": "0adcb8fe1fdc2b312cf547ec91ee8b9f5ffb9e06f2cb6d31520e937446aac64f",
+      "content_sha256": "42a0602ab9f86d02754555c5e7fb7f6c8cb6e1bab95fbc59e3da0633d68e7406",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 08",
+        "content_sha256": "42a0602ab9f86d02754555c5e7fb7f6c8cb6e1bab95fbc59e3da0633d68e7406",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf031:excerpt-95a057c3de68",
+          "encyclopedia:pdf032:excerpt-23bb8ad62529",
+          "encyclopedia:pdf032:excerpt-9d0dbd5775b4",
+          "encyclopedia:pdf032:excerpt-c13dbec84bd7",
+          "encyclopedia:pdf032:excerpt-e2b11c37446c",
+          "encyclopedia:pdf033:excerpt-3b3148a9896b",
+          "encyclopedia:pdf033:excerpt-5208929eeac8",
+          "encyclopedia:pdf033:excerpt-5ed8062a89ba",
+          "encyclopedia:pdf033:excerpt-dcdc00c551c8",
+          "encyclopedia:pdf034:excerpt-2390e9cb8df3",
+          "encyclopedia:pdf034:excerpt-5dc232930738",
+          "encyclopedia:pdf034:excerpt-7ae706f06151",
+          "encyclopedia:pdf034:excerpt-bf5337438e1b",
+          "encyclopedia:pdf035:excerpt-3060177e6379",
+          "encyclopedia:pdf035:excerpt-331c25ca8275",
+          "encyclopedia:pdf035:excerpt-453b0a8061d0",
+          "encyclopedia:pdf035:excerpt-970d6c557af2",
+          "encyclopedia:pdf036:excerpt-086dacc0ad26",
+          "encyclopedia:pdf036:excerpt-0a58dc297ada",
+          "encyclopedia:pdf036:excerpt-ebd5c5572fe3",
+          "encyclopedia:pdf036:excerpt-f9085b6b1b29",
+          "encyclopedia:pdf037:excerpt-14731249eeba",
+          "encyclopedia:pdf037:excerpt-37996fe747e2",
+          "encyclopedia:pdf037:excerpt-823a1caabac6",
+          "encyclopedia:pdf037:excerpt-e0b35db51b93"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-cellani-moves": {
-      "content_sha256": "dda969c97e847c9e9652315213673cfb41e5fd9179e2380706931265ed624a1e",
+      "content_sha256": "790e97a8fb4cf8db8bdec1dec14459c63e1333a3b0dca1c518003841fe435fe1",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 08",
+        "content_sha256": "790e97a8fb4cf8db8bdec1dec14459c63e1333a3b0dca1c518003841fe435fe1",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf038:excerpt-08d0a1418b5c",
+          "encyclopedia:pdf038:excerpt-3a5107443eb4",
+          "encyclopedia:pdf038:excerpt-4307a8809adb",
+          "encyclopedia:pdf038:excerpt-4413233a3dcf",
+          "encyclopedia:pdf038:excerpt-4c76cb3d3928",
+          "encyclopedia:pdf038:excerpt-8dd7efec51f5",
+          "encyclopedia:pdf038:excerpt-a1c246db0b0f",
+          "encyclopedia:pdf038:excerpt-b6f38ac9f22f",
+          "encyclopedia:pdf038:excerpt-e07e8e709923"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-sky-city-story": {
-      "content_sha256": "af7896bacc0735305b084886080595c1002bacce64c61b9e174e9ce55c5f49fd",
+      "content_sha256": "e0ffd40d9a27654f94f3bec592d8e9425c23e25d6fb651e92930c6849b1a804b",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 09",
+        "content_sha256": "e0ffd40d9a27654f94f3bec592d8e9425c23e25d6fb651e92930c6849b1a804b",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf039:excerpt-50a586045d22",
+          "encyclopedia:pdf040:excerpt-21019b47bfe3",
+          "encyclopedia:pdf040:excerpt-7d0482e2972e",
+          "encyclopedia:pdf040:excerpt-a02c5f475326",
+          "encyclopedia:pdf041:excerpt-2e4a7460dc29",
+          "encyclopedia:pdf041:excerpt-4f8507da317c",
+          "encyclopedia:pdf042:excerpt-8f7c0661b2cd",
+          "encyclopedia:pdf042:excerpt-d2151e52f07a",
+          "encyclopedia:pdf042:excerpt-fb643ddb784b",
+          "encyclopedia:pdf043:excerpt-b84d18170691",
+          "encyclopedia:pdf043:excerpt-c46a6bde0bcb",
+          "encyclopedia:pdf043:excerpt-f95f72281672",
+          "encyclopedia:pdf044:excerpt-1c824b0ec708",
+          "encyclopedia:pdf044:excerpt-2a2d2207f612",
+          "encyclopedia:pdf044:excerpt-e27bddc86f4d",
+          "encyclopedia:pdf045:excerpt-2d5912a94341",
+          "encyclopedia:pdf045:excerpt-60ee3fc50989",
+          "encyclopedia:pdf045:excerpt-da67197adaa2",
+          "encyclopedia:pdf045:excerpt-dd3c6872a357",
+          "encyclopedia:pdf046:excerpt-b810f2893ff0"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-sky-city-move": {
-      "content_sha256": "191932f2d7bf436125f48a760ee92e60abaf6cd854faacc546241645904f0d0e",
+      "content_sha256": "4b25e57b72df633ac089555a8ad1cf46fd1fd58166561d68ea504cd53b7d2987",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 09",
+        "content_sha256": "4b25e57b72df633ac089555a8ad1cf46fd1fd58166561d68ea504cd53b7d2987",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf046:excerpt-6ff467eb3fe2"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-umbra-story": {
-      "content_sha256": "52fd98f5f743398f22e13399363a1b1d25bdeda00949db3ed0b400e865966e59",
+      "content_sha256": "f52a4aec90f70abaaf495d7fa38cfaa17eba08f33f4560f85267176d852c2485",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 09",
+        "content_sha256": "f52a4aec90f70abaaf495d7fa38cfaa17eba08f33f4560f85267176d852c2485",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf047:excerpt-f8d2dabd64a3",
+          "encyclopedia:pdf048:excerpt-165916c3a56c",
+          "encyclopedia:pdf048:excerpt-1758e5043e19",
+          "encyclopedia:pdf048:excerpt-607f6310d7dc",
+          "encyclopedia:pdf048:excerpt-90a76e5d155a",
+          "encyclopedia:pdf048:excerpt-d856d8f10a21",
+          "encyclopedia:pdf049:excerpt-6df360d16049",
+          "encyclopedia:pdf049:excerpt-9325bad5df4b",
+          "encyclopedia:pdf049:excerpt-d8293585e4ed",
+          "encyclopedia:pdf050:excerpt-1a52d1bbfd8e",
+          "encyclopedia:pdf050:excerpt-6d4bce1aa430",
+          "encyclopedia:pdf050:excerpt-b83b70c2da37",
+          "encyclopedia:pdf050:excerpt-cf3a07ca3880",
+          "encyclopedia:pdf051:excerpt-080b7fa1923d",
+          "encyclopedia:pdf051:excerpt-488e85aaedf0",
+          "encyclopedia:pdf051:excerpt-6cd8258dcf38",
+          "encyclopedia:pdf052:excerpt-14722677d238",
+          "encyclopedia:pdf052:excerpt-602616b70718",
+          "encyclopedia:pdf052:excerpt-85fbe3a99a2f",
+          "encyclopedia:pdf052:excerpt-eddd851a2848",
+          "encyclopedia:pdf053:excerpt-292aae7723a8",
+          "encyclopedia:pdf053:excerpt-3efe4fbde570",
+          "encyclopedia:pdf053:excerpt-8345db7b4384",
+          "encyclopedia:pdf053:excerpt-ca010f70f621",
+          "encyclopedia:pdf054:excerpt-07745baf1c94",
+          "encyclopedia:pdf054:excerpt-8761be34f120",
+          "encyclopedia:pdf054:excerpt-a8fe6888493d",
+          "encyclopedia:pdf054:excerpt-ddd1a4a3af6c"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-umbra-move": {
-      "content_sha256": "0fc5a6dec3dfefa7ed02923b92e58688ce713918695d11df2ebb262e1ef26110",
+      "content_sha256": "2606ca72fe519b34e0ff7db360f68bf6b253781fe55aa96177159a79a6e64e72",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 09",
+        "content_sha256": "2606ca72fe519b34e0ff7db360f68bf6b253781fe55aa96177159a79a6e64e72",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf054:excerpt-f083b91608fc"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-stellar-story": {
-      "content_sha256": "cf52a1875779d9a7416dba179b16c209de15bc1249263462f996323946fc2f57",
+      "content_sha256": "a84c4737d933eb83a8409d9e718c977e725aee4740f0d0c2d48bba152fa79ab5",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 10",
+        "content_sha256": "a84c4737d933eb83a8409d9e718c977e725aee4740f0d0c2d48bba152fa79ab5",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf055:excerpt-c4c12219f0fb",
+          "encyclopedia:pdf056:excerpt-11fd6431e772",
+          "encyclopedia:pdf056:excerpt-5dded6576e49",
+          "encyclopedia:pdf056:excerpt-9c4dacb3598d",
+          "encyclopedia:pdf057:excerpt-5f8f19e3922d",
+          "encyclopedia:pdf057:excerpt-60eebf1bab65",
+          "encyclopedia:pdf057:excerpt-9b16738bc539",
+          "encyclopedia:pdf058:excerpt-55b1835bb56d",
+          "encyclopedia:pdf058:excerpt-cdf1734df009",
+          "encyclopedia:pdf058:excerpt-fe44084dfa3b",
+          "encyclopedia:pdf059:excerpt-5cb96874e3f5",
+          "encyclopedia:pdf059:excerpt-63d59f3f8b70",
+          "encyclopedia:pdf059:excerpt-fa72d3ebee0e",
+          "encyclopedia:pdf060:excerpt-0fcaf400b005",
+          "encyclopedia:pdf060:excerpt-498cfe9f77ea",
+          "encyclopedia:pdf060:excerpt-95a0e9a561f4",
+          "encyclopedia:pdf061:excerpt-62bc0f93ff05",
+          "encyclopedia:pdf061:excerpt-b270a9c746ae"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-stellar-moves": {
-      "content_sha256": "e7af99169e2bcf6282728dfce94c4200640956bd3dd4cd33b61a320bec09f69e",
+      "content_sha256": "de9792d10edc95e867c3223548ebefa3285aca3666daa9bbdad65d1dc31b05ba",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 10",
+        "content_sha256": "de9792d10edc95e867c3223548ebefa3285aca3666daa9bbdad65d1dc31b05ba",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf062:excerpt-436475fdd2d8",
+          "encyclopedia:pdf062:excerpt-6cf331fe4c5b",
+          "encyclopedia:pdf062:excerpt-701b95678ab9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-far-reaches-story": {
-      "content_sha256": "cff1e82600669409d0a3b0ae9836fbc1f3a5fe749438f1abe4abf29110ea318b",
+      "content_sha256": "d79461c0cf67383ff31ff9288508c0fa8c9f33898907e9d8a831ff99143d55ef",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 10",
+        "content_sha256": "d79461c0cf67383ff31ff9288508c0fa8c9f33898907e9d8a831ff99143d55ef",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf063:excerpt-60fc3a73d6a8",
+          "encyclopedia:pdf064:excerpt-2bc7af85eb61",
+          "encyclopedia:pdf064:excerpt-d2c911947c4e",
+          "encyclopedia:pdf064:excerpt-e9338d4bb69d",
+          "encyclopedia:pdf065:excerpt-88782565939e",
+          "encyclopedia:pdf065:excerpt-c0d3aac231c5",
+          "encyclopedia:pdf065:excerpt-d4fb47a64514",
+          "encyclopedia:pdf066:excerpt-9eaad6ce4992",
+          "encyclopedia:pdf066:excerpt-be5fb53ca1d3",
+          "encyclopedia:pdf066:excerpt-d26da95e3266",
+          "encyclopedia:pdf067:excerpt-02b4c06dafa5",
+          "encyclopedia:pdf067:excerpt-3dcb854c4b8b",
+          "encyclopedia:pdf067:excerpt-af23e7964c9c",
+          "encyclopedia:pdf068:excerpt-01e4af017da1",
+          "encyclopedia:pdf068:excerpt-28f32eb877f1",
+          "encyclopedia:pdf068:excerpt-646209c3acd7",
+          "encyclopedia:pdf069:excerpt-07cbfa0dad39",
+          "encyclopedia:pdf069:excerpt-13b6008b5c09",
+          "encyclopedia:pdf069:excerpt-8b9039ac7e1e",
+          "encyclopedia:pdf070:excerpt-4daef2cfad1c",
+          "encyclopedia:pdf070:excerpt-7051ca6ccb94",
+          "encyclopedia:pdf070:excerpt-abe449d6ac20"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-far-reaches-move": {
-      "content_sha256": "50dd54e70986b1a7ccf208bbd1de1ed494cbf4fb1992fb6d2bc72125e045bd1a",
+      "content_sha256": "bf5d43f7624be3270b587ff2ab240be3b9b5661fc2f3ca7ff4d93223e6b84fbd",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 10",
+        "content_sha256": "bf5d43f7624be3270b587ff2ab240be3b9b5661fc2f3ca7ff4d93223e6b84fbd",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf071:excerpt-075868d2c829",
+          "encyclopedia:pdf071:excerpt-08dc2cb5e31b",
+          "encyclopedia:pdf071:excerpt-3916c8cec0c9",
+          "encyclopedia:pdf071:excerpt-743d0dfa48b8",
+          "encyclopedia:pdf071:excerpt-799b2f450158",
+          "encyclopedia:pdf071:excerpt-ce14c11ed57e"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-epigraph": {
       "content_sha256": "3fb76664728d45a1147e91fffd15d07ba8a223e770b031d70384c3cf21532444",
@@ -3151,127 +4470,424 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "3fb76664728d45a1147e91fffd15d07ba8a223e770b031d70384c3cf21532444",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf072:excerpt-f0cfc7d54eda"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-steel": {
-      "content_sha256": "3fde55cd2640c15dc436a1611fe4595bd613205756ab27a50372be005afb1524",
+      "content_sha256": "d937940ea4559e4621c904b81ad79c2df190bdf922e159f695a3d77750f6588c",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "d937940ea4559e4621c904b81ad79c2df190bdf922e159f695a3d77750f6588c",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf073:excerpt-30c2400e5ca2",
+          "encyclopedia:pdf073:excerpt-60838c40facc",
+          "encyclopedia:pdf073:excerpt-b31c400c6784",
+          "encyclopedia:pdf073:excerpt-cb8cfd356c3d",
+          "encyclopedia:pdf074:excerpt-236b6740ce6c",
+          "encyclopedia:pdf074:excerpt-840d6e0a5dc4"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-ruby": {
-      "content_sha256": "1111ad59a0edb68c51769589ffb13a592716ac5fe344904905e687231b451035",
+      "content_sha256": "15861728a51c9904b97d697045d166e81f244b3ec705c02a13321f224b9792e7",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "15861728a51c9904b97d697045d166e81f244b3ec705c02a13321f224b9792e7",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf075:excerpt-564b8c1ca9ad",
+          "encyclopedia:pdf075:excerpt-7675e22885cd",
+          "encyclopedia:pdf075:excerpt-840d6e0a5dc4",
+          "encyclopedia:pdf075:excerpt-a58277a2ef8f"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-oak": {
-      "content_sha256": "c4baf738d28f379709699d7ef0f40df84ccd1af0c1b488e9912a828e64a20d31",
+      "content_sha256": "e4510c4af39ba928899ea25dc198f1d886d8ee04366602603cede52e357f0279",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "e4510c4af39ba928899ea25dc198f1d886d8ee04366602603cede52e357f0279",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf076:excerpt-5dd596d6c376",
+          "encyclopedia:pdf076:excerpt-840d6e0a5dc4",
+          "encyclopedia:pdf076:excerpt-a112b4f9d062",
+          "encyclopedia:pdf076:excerpt-b03014868b6c",
+          "encyclopedia:pdf076:excerpt-b5f919f157ae"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-gold": {
-      "content_sha256": "8dd1e1671d405ec01f357d078027d9e27c0a6a70a039e888e94004624bb50cc6",
+      "content_sha256": "00e5888717e19cb5508a1aec31f424406eb046d516b0f47060ff22bf744f8610",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "00e5888717e19cb5508a1aec31f424406eb046d516b0f47060ff22bf744f8610",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf077:excerpt-5540720f528d",
+          "encyclopedia:pdf077:excerpt-8ef9c979d27a",
+          "encyclopedia:pdf077:excerpt-a85316d3ea7a",
+          "encyclopedia:pdf077:excerpt-c06edae3323a",
+          "encyclopedia:pdf077:excerpt-e09ac458b9e6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-jade": {
-      "content_sha256": "80ae52b97880d8f7583d55b0eedda3e9ee959a20f9a0b4c615d77acd313e7a0f",
+      "content_sha256": "88d22999433a912955300a71b26de78e187820db85dd372c7b87521c348aeb94",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "88d22999433a912955300a71b26de78e187820db85dd372c7b87521c348aeb94",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf078:excerpt-32e96241ee24",
+          "encyclopedia:pdf078:excerpt-34f0b0ac7260",
+          "encyclopedia:pdf078:excerpt-6b21632fc19b",
+          "encyclopedia:pdf078:excerpt-70bb5dc84f5a",
+          "encyclopedia:pdf078:excerpt-840d6e0a5dc4"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rites-diamond": {
-      "content_sha256": "f7aba02658633dd66094b5135d5ca4221035601f8e5567df96aad31be9122874",
+      "content_sha256": "6a24a8a4301c447b34b09205412fba4e40ea85af277b4b490edf89b7cae85f79",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 11",
+        "content_sha256": "6a24a8a4301c447b34b09205412fba4e40ea85af277b4b490edf89b7cae85f79",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf079:excerpt-1424bce990f9",
+          "encyclopedia:pdf079:excerpt-840d6e0a5dc4",
+          "encyclopedia:pdf079:excerpt-9d87d543f24c",
+          "encyclopedia:pdf079:excerpt-e147b42bf6a6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-tessith-story": {
-      "content_sha256": "9b58b6c3e25c04324ff3d0062fd0cfc198c0e7ce73ce979538fef007a436ca5f",
+      "content_sha256": "43518579644050c017da66146322d66a2162c043dc9344b421556d91dcf01d3a",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 12",
+        "content_sha256": "43518579644050c017da66146322d66a2162c043dc9344b421556d91dcf01d3a",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf080:excerpt-e4c7f028e4a7",
+          "encyclopedia:pdf081:excerpt-42267653da83",
+          "encyclopedia:pdf081:excerpt-49688e0d5ffc",
+          "encyclopedia:pdf081:excerpt-9c064cdb8718",
+          "encyclopedia:pdf081:excerpt-e21d73b7749d",
+          "encyclopedia:pdf082:excerpt-576fa23a3d34",
+          "encyclopedia:pdf082:excerpt-86ef2ff181d2",
+          "encyclopedia:pdf082:excerpt-b68323f2ca21",
+          "encyclopedia:pdf082:excerpt-bb37ceae5311",
+          "encyclopedia:pdf083:excerpt-99852c9d5114",
+          "encyclopedia:pdf083:excerpt-a4b8717952b8",
+          "encyclopedia:pdf083:excerpt-d7a24dfbe526",
+          "encyclopedia:pdf083:excerpt-ff0975004307",
+          "encyclopedia:pdf084:excerpt-4b92d85c6b30",
+          "encyclopedia:pdf084:excerpt-8641812b2ea7",
+          "encyclopedia:pdf084:excerpt-a1edfce2bb4c",
+          "encyclopedia:pdf084:excerpt-e6af1076816e",
+          "encyclopedia:pdf085:excerpt-13d9c1227505",
+          "encyclopedia:pdf085:excerpt-1427194e52c1",
+          "encyclopedia:pdf085:excerpt-464031bb49fc",
+          "encyclopedia:pdf085:excerpt-86a9222fcecc",
+          "encyclopedia:pdf086:excerpt-5dc1b887d474",
+          "encyclopedia:pdf086:excerpt-c688feca2a91",
+          "encyclopedia:pdf086:excerpt-e8735efb7358"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-tessith-move": {
-      "content_sha256": "90a825c330c0ec444eb00dbfbab8c7444b6b244a9ab269a7ca5c6e180aedba72",
+      "content_sha256": "b66b82ac26af3be68a58c912e931cdc6e35fab04ff678d90374f734e87c437ff",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 12",
+        "content_sha256": "b66b82ac26af3be68a58c912e931cdc6e35fab04ff678d90374f734e87c437ff",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf086:excerpt-5903edba81ca"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-kebros-story": {
-      "content_sha256": "a407cb0df988426b8a3c3c535d4d89f6e08a797c5d1e99124d4fb70b67802133",
+      "content_sha256": "622b9b37e51e48a01375d3dcb9a840ffa351f33907fc3cdd88c67abef09ffe8c",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 12",
+        "content_sha256": "622b9b37e51e48a01375d3dcb9a840ffa351f33907fc3cdd88c67abef09ffe8c",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf087:excerpt-a206d804e045",
+          "encyclopedia:pdf088:excerpt-0185ef91b217",
+          "encyclopedia:pdf088:excerpt-15bd39917c83",
+          "encyclopedia:pdf088:excerpt-dfc42d4978c3",
+          "encyclopedia:pdf089:excerpt-b241a182bb7b",
+          "encyclopedia:pdf089:excerpt-ec98dbbb6dc7",
+          "encyclopedia:pdf090:excerpt-522ba1885579",
+          "encyclopedia:pdf090:excerpt-7fb92ee3d6ce",
+          "encyclopedia:pdf090:excerpt-c2cef6260fb0",
+          "encyclopedia:pdf091:excerpt-bfa8dda7e064",
+          "encyclopedia:pdf091:excerpt-e0ab6e9615e1",
+          "encyclopedia:pdf091:excerpt-f906aaadaa26",
+          "encyclopedia:pdf092:excerpt-a81a153a2667",
+          "encyclopedia:pdf092:excerpt-ad63999c0b84",
+          "encyclopedia:pdf093:excerpt-185135f91996",
+          "encyclopedia:pdf093:excerpt-6980b832db9e",
+          "encyclopedia:pdf093:excerpt-b81a49bb885f",
+          "encyclopedia:pdf094:excerpt-3899f57d8576",
+          "encyclopedia:pdf094:excerpt-8d16e1eb58f2",
+          "encyclopedia:pdf094:excerpt-a580e8be2f73",
+          "encyclopedia:pdf095:excerpt-f77c407bcc83",
+          "encyclopedia:pdf095:excerpt-ff451850440f"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-kebros-move": {
-      "content_sha256": "50f4127d274bc598abd62383e3fddf4d283c8522801012276033341ed657c752",
+      "content_sha256": "409567eb6e2a9cf800839ddb3a4dd51f07be5c0caf930008319b06a2f5fd40f3",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 12",
+        "content_sha256": "409567eb6e2a9cf800839ddb3a4dd51f07be5c0caf930008319b06a2f5fd40f3",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf095:excerpt-e04f4120af01"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-legends-story": {
-      "content_sha256": "3860465d2e32a94db80d86731877134cba1629217ac72337e7a8ec9988f20f3b",
+      "content_sha256": "5265783cab1a01434ab5e09d2f6e0deb769d35499f0870b1606f6f4b52f72488",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 18",
+        "content_sha256": "5265783cab1a01434ab5e09d2f6e0deb769d35499f0870b1606f6f4b52f72488",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf096:excerpt-073e198d0c7d",
+          "encyclopedia:pdf097:excerpt-3fa53dfb928b",
+          "encyclopedia:pdf097:excerpt-433a16dd4b38",
+          "encyclopedia:pdf097:excerpt-5c4cf8164440",
+          "encyclopedia:pdf097:excerpt-74b735e75443",
+          "encyclopedia:pdf098:excerpt-086e82031dc7",
+          "encyclopedia:pdf098:excerpt-7c0a8085411d",
+          "encyclopedia:pdf098:excerpt-7c30c35b0619",
+          "encyclopedia:pdf098:excerpt-a26b4b640739",
+          "encyclopedia:pdf098:excerpt-aeac6d7985d3",
+          "encyclopedia:pdf099:excerpt-0e01032880d8",
+          "encyclopedia:pdf099:excerpt-6e031aac50d7",
+          "encyclopedia:pdf099:excerpt-e8a23952a400",
+          "encyclopedia:pdf100:excerpt-726f03145813",
+          "encyclopedia:pdf100:excerpt-77f6f5d6e2f4",
+          "encyclopedia:pdf100:excerpt-fd44c061c121",
+          "encyclopedia:pdf101:excerpt-4ee862431f53",
+          "encyclopedia:pdf101:excerpt-e1902e0f5707",
+          "encyclopedia:pdf101:excerpt-e40344436168",
+          "encyclopedia:pdf102:excerpt-28021dc49bfa",
+          "encyclopedia:pdf102:excerpt-5ab63d834318"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-legends-move": {
-      "content_sha256": "d82c34a1ce404a19e2b1296e192ecf7ace081b1acc408217d76cb2898c41214d",
+      "content_sha256": "87b522037e15d92096bc3264a64f7f940ceec58a8fa323aaad70654f4310351f",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 13",
+        "content_sha256": "87b522037e15d92096bc3264a64f7f940ceec58a8fa323aaad70654f4310351f",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf102:excerpt-93e2de65b906",
+          "encyclopedia:pdf102:excerpt-c8d019ab9987"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-icons-story": {
-      "content_sha256": "f35d8a4d678d8f9922eba5be2f02d455f12f989e3fadfecfe2682ae279881088",
+      "content_sha256": "4fe844f496662b051520787b625f736a398e6b4fcf27c7be4b3e5ba0b554f273",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 13",
+        "content_sha256": "4fe844f496662b051520787b625f736a398e6b4fcf27c7be4b3e5ba0b554f273",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf103:excerpt-5daa7c29fa15",
+          "encyclopedia:pdf104:excerpt-7e9202657fd8",
+          "encyclopedia:pdf104:excerpt-9336a55c1df5",
+          "encyclopedia:pdf104:excerpt-bd8a1091f2f4",
+          "encyclopedia:pdf105:excerpt-a0601dd972d9",
+          "encyclopedia:pdf105:excerpt-e62e72918323",
+          "encyclopedia:pdf106:excerpt-ca52108b3f8f",
+          "encyclopedia:pdf107:excerpt-3a258759087d",
+          "encyclopedia:pdf107:excerpt-9c16c40b4196",
+          "encyclopedia:pdf107:excerpt-e1e5ec65c07d",
+          "encyclopedia:pdf108:excerpt-28a81c8cba7e",
+          "encyclopedia:pdf108:excerpt-e07d4de3025a"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-icons-moves": {
-      "content_sha256": "f202ceb88b8f6df26fd763d3ddffbb00e8ea48ed678843b7ea7a8a1994fe79e4",
+      "content_sha256": "d9a52be4dda619eae26a69ccd0d5fd511eef767c0297aa415d26864daa8f97b7",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 18",
+        "content_sha256": "d9a52be4dda619eae26a69ccd0d5fd511eef767c0297aa415d26864daa8f97b7",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf105:excerpt-b35ac47f38ab",
+          "encyclopedia:pdf106:excerpt-2fb9bf81cbed",
+          "encyclopedia:pdf106:excerpt-31ebc1338023",
+          "encyclopedia:pdf106:excerpt-3dcc76b6b75b",
+          "encyclopedia:pdf106:excerpt-547101686492",
+          "encyclopedia:pdf106:excerpt-c23978e67ad2",
+          "encyclopedia:pdf106:excerpt-e6c5ee1d2566",
+          "encyclopedia:pdf106:excerpt-ffaa4e6a00c6"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-festival-story": {
-      "content_sha256": "b51f9e342087ad9e445d04c2894455265204a70d4325e03bae3cfc54f01afdfe",
+      "content_sha256": "9a99b3d4356996dfd5ca754ec027a97a75c6adab192bbd82c856fea3bb05aef2",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 18",
+        "content_sha256": "9a99b3d4356996dfd5ca754ec027a97a75c6adab192bbd82c856fea3bb05aef2",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf109:excerpt-5103acaef03e",
+          "encyclopedia:pdf110:excerpt-15363f164ff0",
+          "encyclopedia:pdf110:excerpt-55f1ed22a45c",
+          "encyclopedia:pdf110:excerpt-bdacb5f6924a",
+          "encyclopedia:pdf111:excerpt-22dcaa5e780b",
+          "encyclopedia:pdf111:excerpt-aaffd4d01204",
+          "encyclopedia:pdf111:excerpt-b5a3171f81a0",
+          "encyclopedia:pdf112:excerpt-198fa251be99",
+          "encyclopedia:pdf112:excerpt-de674cae6086",
+          "encyclopedia:pdf113:excerpt-13b238d07b26",
+          "encyclopedia:pdf113:excerpt-a2df94cb8709",
+          "encyclopedia:pdf113:excerpt-ed9237fb639b",
+          "encyclopedia:pdf114:excerpt-940774dfe0bc",
+          "encyclopedia:pdf114:excerpt-987f433dfb0e",
+          "encyclopedia:pdf114:excerpt-abba777adbf1",
+          "encyclopedia:pdf115:excerpt-60eb48f7fffe"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-festival-move": {
       "content_sha256": "189ecf5c035bc716f978b23d37a12fa35d4a30b0af822d35145ac2077a789bae",
@@ -3279,15 +4895,51 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 14",
+        "content_sha256": "189ecf5c035bc716f978b23d37a12fa35d4a30b0af822d35145ac2077a789bae",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf115:excerpt-06b87cae3f10",
+          "encyclopedia:pdf115:excerpt-1d6ce0349ecd",
+          "encyclopedia:pdf115:excerpt-ae563e7ac976"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-seekers-story": {
-      "content_sha256": "262b17fb1be38c45fd5b33f9b5ee905dcbe8f11f0573530b0a30836be20b2808",
+      "content_sha256": "adbbc2c435702ddff0c17782066ff95b793490e482ae29b902e8f96b23a2303e",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 14",
+        "content_sha256": "adbbc2c435702ddff0c17782066ff95b793490e482ae29b902e8f96b23a2303e",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf116:excerpt-28bd5b1ae515",
+          "encyclopedia:pdf117:excerpt-20636aa5332a",
+          "encyclopedia:pdf117:excerpt-8263559fc02f",
+          "encyclopedia:pdf118:excerpt-1c15d77bda70",
+          "encyclopedia:pdf118:excerpt-675ebd4459b5",
+          "encyclopedia:pdf119:excerpt-40d8e961d85b",
+          "encyclopedia:pdf119:excerpt-71655cafb2b5",
+          "encyclopedia:pdf120:excerpt-675c1b3e805c",
+          "encyclopedia:pdf120:excerpt-b2f5512d539c",
+          "encyclopedia:pdf121:excerpt-065479773946",
+          "encyclopedia:pdf121:excerpt-39d49ae89e7c",
+          "encyclopedia:pdf121:excerpt-9cab96b25c80",
+          "encyclopedia:pdf122:excerpt-b4eee6cf2585"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-seekers-move": {
       "content_sha256": "3758a96a7d84d71c6fb6c0a221380769bdaf9cbe0485c8736da226cd1aa5ab7b",
@@ -3295,55 +4947,177 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 14",
+        "content_sha256": "3758a96a7d84d71c6fb6c0a221380769bdaf9cbe0485c8736da226cd1aa5ab7b",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf122:excerpt-57098c04440a",
+          "encyclopedia:pdf122:excerpt-79fc06ac9757",
+          "encyclopedia:pdf122:excerpt-cca936837f4c",
+          "encyclopedia:pdf122:excerpt-dddc43512824",
+          "encyclopedia:pdf122:excerpt-edbbbe994547"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-reckoning-story": {
-      "content_sha256": "8ca672ae19b284afe35adefe809b34bd7a30933f3c516ab7fcda64624d72e53d",
+      "content_sha256": "e21ecb373e3a3e61d1d332fa56baf524f0d3fb8194ae729b95b028938e076ec6",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 15",
+        "content_sha256": "e21ecb373e3a3e61d1d332fa56baf524f0d3fb8194ae729b95b028938e076ec6",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf123:excerpt-36b22eefe2ac",
+          "encyclopedia:pdf124:excerpt-3d40b7a4fada",
+          "encyclopedia:pdf124:excerpt-84205b487f6f",
+          "encyclopedia:pdf125:excerpt-6d06bd7b66b6",
+          "encyclopedia:pdf125:excerpt-779aeaadbaf2",
+          "encyclopedia:pdf125:excerpt-7e0dfe4663b9",
+          "encyclopedia:pdf126:excerpt-7f1c676b3ec5",
+          "encyclopedia:pdf126:excerpt-b36e5de0f72a",
+          "encyclopedia:pdf127:excerpt-3391f82fd6d1",
+          "encyclopedia:pdf127:excerpt-5bfc70c617ed",
+          "encyclopedia:pdf127:excerpt-79095821dfb2",
+          "encyclopedia:pdf128:excerpt-8d934bb60b5d",
+          "encyclopedia:pdf128:excerpt-b23545bc20e8",
+          "encyclopedia:pdf129:excerpt-1b4dad76195f",
+          "encyclopedia:pdf130:excerpt-34d3fc4b2205",
+          "encyclopedia:pdf130:excerpt-e0712fde4293"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-reckoning-moves": {
-      "content_sha256": "11c4c8644476993bf7ab9a43ce7791283236bee24378c5fe793b3284d8f57493",
+      "content_sha256": "1e0f8b4156d83b76396836de4ce1b18723ea7c82fb329549d4b92113e473219b",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 18",
+        "content_sha256": "1e0f8b4156d83b76396836de4ce1b18723ea7c82fb329549d4b92113e473219b",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf131:excerpt-98a1395deb54",
+          "encyclopedia:pdf131:excerpt-dff4c1ffd3b5",
+          "encyclopedia:pdf131:excerpt-f691cd30a1d4"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-kraken-story": {
-      "content_sha256": "ffeb2252d9eaaa95ba0afcf515a8fa9abeca59598d87bb3e83783aedd04ab2b5",
+      "content_sha256": "d7f0cb59a8973d153ec34421ff9f3da0f13dd83281ed9f5d7a218fb6f258fcad",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 15",
+        "content_sha256": "d7f0cb59a8973d153ec34421ff9f3da0f13dd83281ed9f5d7a218fb6f258fcad",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf132:excerpt-063677b10836",
+          "encyclopedia:pdf133:excerpt-36b210efd5c3",
+          "encyclopedia:pdf133:excerpt-50bc00b0ed5b",
+          "encyclopedia:pdf134:excerpt-3d0659b5eee2",
+          "encyclopedia:pdf134:excerpt-756cd1121f4e",
+          "encyclopedia:pdf134:excerpt-d5f8f49aaa1e",
+          "encyclopedia:pdf135:excerpt-1ede45012c95",
+          "encyclopedia:pdf135:excerpt-2bf9561f60ef",
+          "encyclopedia:pdf135:excerpt-61ec73f8a072",
+          "encyclopedia:pdf136:excerpt-77a21875385a",
+          "encyclopedia:pdf136:excerpt-cc5f8032d672",
+          "encyclopedia:pdf136:excerpt-d93a9196b9ca",
+          "encyclopedia:pdf137:excerpt-4662ce5ed963",
+          "encyclopedia:pdf137:excerpt-b81c662de170",
+          "encyclopedia:pdf137:excerpt-c72e9d5617da"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-kraken-moves": {
-      "content_sha256": "8866333b50295918489e71623d1fb87a3c31904d9011f21396b58018cf378fc4",
+      "content_sha256": "0d9c4b07ae68576cbbe351a3974afefbf19066f3d0f44ad2bc8921a82feb656a",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 15",
+        "content_sha256": "0d9c4b07ae68576cbbe351a3974afefbf19066f3d0f44ad2bc8921a82feb656a",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf138:excerpt-f398a50300c6",
+          "encyclopedia:pdf138:excerpt-f4803992e59a"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-playbooks-intro": {
-      "content_sha256": "c00c9c1194dc4028eecca70ca91447a7ae51928d84e964d37aabd611cf2e4475",
+      "content_sha256": "f195aa8f654c631121c9379d94059d97ae523ab6f34158dcfc1dd61e5cc5c67c",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "f195aa8f654c631121c9379d94059d97ae523ab6f34158dcfc1dd61e5cc5c67c",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf140:excerpt-023e655a66ba",
+          "encyclopedia:pdf140:excerpt-20535e1d04a6",
+          "encyclopedia:pdf140:excerpt-48e125699255",
+          "encyclopedia:pdf140:excerpt-b71778a3eebc",
+          "encyclopedia:pdf140:excerpt-bcf15d72b815",
+          "encyclopedia:pdf140:excerpt-d4f86ea39b70",
+          "encyclopedia:pdf140:excerpt-e0a7473f9a00"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-elementalist-dm": {
-      "content_sha256": "9619f4ef130974a2d09e420a17cba20a3230915c342e88fa4b147e7ec1f46423",
+      "content_sha256": "aeab19e8f5235410ad52dd3f273405f7e21ebd95423545775ac6be13e34e3f70",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "aeab19e8f5235410ad52dd3f273405f7e21ebd95423545775ac6be13e34e3f70",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf141:excerpt-26680dae0dc7",
+          "encyclopedia:pdf141:excerpt-52e6bc1fe9e5",
+          "encyclopedia:pdf141:excerpt-b1a729d4acd3",
+          "encyclopedia:pdf141:excerpt-bf1806b79e85"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-envoy-dm": {
       "content_sha256": "b8ae36cff59f9202a4578f15525000250724d574496f97577d99d4ae3ee28e14",
@@ -3351,7 +5125,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "b8ae36cff59f9202a4578f15525000250724d574496f97577d99d4ae3ee28e14",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf142:excerpt-14d32c1be33b",
+          "encyclopedia:pdf142:excerpt-3509bc95eb11",
+          "encyclopedia:pdf142:excerpt-9401aa416131",
+          "encyclopedia:pdf142:excerpt-ac63bc646e71"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-orphan-dm": {
       "content_sha256": "c2317ff1e2e5384063a7bd96a47675cfa6165a86aa38c3c9effaa69cbee90ecd",
@@ -3359,7 +5147,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "c2317ff1e2e5384063a7bd96a47675cfa6165a86aa38c3c9effaa69cbee90ecd",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf143:excerpt-598c1f0bec1b",
+          "encyclopedia:pdf143:excerpt-6803e3341c82",
+          "encyclopedia:pdf143:excerpt-6864260f52c3",
+          "encyclopedia:pdf143:excerpt-8da2dbdea023"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rebel-dm": {
       "content_sha256": "8abb26ed19257286c20da6aba48fe10bc4c9bbe2215dbd399d11e5b0877c8837",
@@ -3367,23 +5169,74 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "8abb26ed19257286c20da6aba48fe10bc4c9bbe2215dbd399d11e5b0877c8837",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf144:excerpt-32304ec25645",
+          "encyclopedia:pdf144:excerpt-3a7449ad22e7",
+          "encyclopedia:pdf144:excerpt-446a77ccc5a9",
+          "encyclopedia:pdf144:excerpt-6aa9cb59e171",
+          "encyclopedia:pdf144:excerpt-b7bbf5cf9910"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-stats-appendix": {
-      "content_sha256": "44ff5839fe87b30f17f6ced9b7273baa15092cee3619d0a81a91b2c42423dde7",
+      "content_sha256": "f2d037c2eab470316f932eeefe70c34bd9db6041ecd885d7d2ab5aab45aee964",
       "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 17",
+        "content_sha256": "f2d037c2eab470316f932eeefe70c34bd9db6041ecd885d7d2ab5aab45aee964",
+        "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+        "evidence": [
+          "encyclopedia:pdf153:excerpt-d100257e02c5",
+          "encyclopedia:pdf153:excerpt-f3e15e6c2939"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-elementalist": {
-      "content_sha256": "a9f0b78de2d67ce4195f1634428c3f871d36bfe05fe5dec10e90465d059128c8",
+      "content_sha256": "b6a7eab6d712a1ab9e6a81e0bb2f50c3bcbb2271bb2f1df39ade2e9321a3cdf3",
       "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "b6a7eab6d712a1ab9e6a81e0bb2f50c3bcbb2271bb2f1df39ade2e9321a3cdf3",
+        "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+        "evidence": [
+          "ed-playbooks:pdf001:excerpt-7b03ef2df968",
+          "ed-playbooks:pdf001:excerpt-988d84ce09ef",
+          "ed-playbooks:pdf001:excerpt-ba2685c38533",
+          "ed-playbooks:pdf001:excerpt-ccbbdf9e369a",
+          "ed-playbooks:pdf002:excerpt-0986583d4fe0",
+          "ed-playbooks:pdf002:excerpt-3877a8061913",
+          "ed-playbooks:pdf002:excerpt-54c195818f06",
+          "ed-playbooks:pdf002:excerpt-5ad514af21a5",
+          "ed-playbooks:pdf002:excerpt-61417011fc26",
+          "ed-playbooks:pdf002:excerpt-9b755a29531b",
+          "ed-playbooks:pdf002:excerpt-a92820bbc44e",
+          "ed-playbooks:pdf002:excerpt-ac93b2ff203d",
+          "ed-playbooks:pdf002:excerpt-b529e6b33777",
+          "ed-playbooks:pdf002:excerpt-f72deb015502"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-playbook-growth": {
       "content_sha256": "80b848717c1f61c17a3f6e129b9b01f514aa08c3d50c03923de509233f26dc12",
@@ -3391,31 +5244,123 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "80b848717c1f61c17a3f6e129b9b01f514aa08c3d50c03923de509233f26dc12",
+        "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+        "evidence": [
+          "ed-playbooks:pdf001:excerpt-41ab70d85f99",
+          "ed-playbooks:pdf002:excerpt-f21d01003543",
+          "ed-playbooks:pdf002:excerpt-fd7b5004c1c9",
+          "ed-playbooks:pdf003:excerpt-41ab70d85f99",
+          "ed-playbooks:pdf005:excerpt-02eb7d215024",
+          "ed-playbooks:pdf005:excerpt-41ab70d85f99",
+          "ed-playbooks:pdf007:excerpt-41ab70d85f99"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-envoy": {
-      "content_sha256": "d9a8b63421dc85cd80dba9fdbe6466d5aa198eebac5959097c346ab9f80ff6b8",
+      "content_sha256": "7cc1fd5eb862f224cdd86c4e894e2830c594e5f22ca5de1f02377e0ad1e44f10",
       "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 16",
+        "content_sha256": "7cc1fd5eb862f224cdd86c4e894e2830c594e5f22ca5de1f02377e0ad1e44f10",
+        "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+        "evidence": [
+          "ed-playbooks:pdf003:excerpt-7b03ef2df968",
+          "ed-playbooks:pdf003:excerpt-988d84ce09ef",
+          "ed-playbooks:pdf003:excerpt-ae76680c3fc7",
+          "ed-playbooks:pdf003:excerpt-ba2685c38533",
+          "ed-playbooks:pdf004:excerpt-138484fdeda0",
+          "ed-playbooks:pdf004:excerpt-1760eba65f55",
+          "ed-playbooks:pdf004:excerpt-5d7632a7ee5c",
+          "ed-playbooks:pdf004:excerpt-61cc20bbb9c3",
+          "ed-playbooks:pdf004:excerpt-62ab5be186a5",
+          "ed-playbooks:pdf004:excerpt-7abc54255106",
+          "ed-playbooks:pdf004:excerpt-956a1cc3755e",
+          "ed-playbooks:pdf004:excerpt-b3f7dd6d7062",
+          "ed-playbooks:pdf004:excerpt-c09ec075d4a0"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-orphan": {
-      "content_sha256": "3a4321e8fcaf6bdfe11b161be5d87f2dc527731fdad8498e3ca959b5c8f12607",
+      "content_sha256": "2cbed100847350b117abc73e5ef835c5bb5fa73402da76793cf193fae406da20",
       "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 18",
+        "content_sha256": "2cbed100847350b117abc73e5ef835c5bb5fa73402da76793cf193fae406da20",
+        "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+        "evidence": [
+          "ed-playbooks:pdf005:excerpt-02eb7d215024",
+          "ed-playbooks:pdf005:excerpt-1e4f9aaf428b",
+          "ed-playbooks:pdf005:excerpt-804e716e9fa7",
+          "ed-playbooks:pdf005:excerpt-988d84ce09ef",
+          "ed-playbooks:pdf005:excerpt-d5228dfcfac8",
+          "ed-playbooks:pdf005:excerpt-d673a75965d2",
+          "ed-playbooks:pdf006:excerpt-36c4f0d49912",
+          "ed-playbooks:pdf006:excerpt-53d299e5b55a",
+          "ed-playbooks:pdf006:excerpt-5f2728ddcd09",
+          "ed-playbooks:pdf006:excerpt-74eeb2f3f5cf",
+          "ed-playbooks:pdf006:excerpt-ad92167e6c70",
+          "ed-playbooks:pdf006:excerpt-b0279d589617",
+          "ed-playbooks:pdf006:excerpt-bbc8b8ac01c9",
+          "ed-playbooks:pdf006:excerpt-cffad57ab2c5",
+          "ed-playbooks:pdf006:excerpt-d5f256cc1b18",
+          "ed-playbooks:pdf006:excerpt-e84b31fe131b",
+          "ed-playbooks:pdf006:excerpt-f9744cfa4e69"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     },
     "ed-rebel": {
-      "content_sha256": "c81b9fd827d6a3a0b39841ccf1b0e29586fd825767ba8a003789597fc899d006",
+      "content_sha256": "11efe1b338296c4486bfdb5d69c7c1ad341ba7acbfd3f8ef0af4bb682f68d430",
       "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+      "notes": "已保存逐區塊原文對照與初校；獨立語義複核尚待完成。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / batch 18",
+        "content_sha256": "11efe1b338296c4486bfdb5d69c7c1ad341ba7acbfd3f8ef0af4bb682f68d430",
+        "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+        "evidence": [
+          "ed-playbooks:pdf007:excerpt-41ab70d85f99",
+          "ed-playbooks:pdf007:excerpt-4aa0a689d948",
+          "ed-playbooks:pdf007:excerpt-7b03ef2df968",
+          "ed-playbooks:pdf007:excerpt-988d84ce09ef",
+          "ed-playbooks:pdf007:excerpt-ba2685c38533",
+          "ed-playbooks:pdf008:excerpt-0ff2200fe16d",
+          "ed-playbooks:pdf008:excerpt-256916da851e",
+          "ed-playbooks:pdf008:excerpt-45cd4fbcf48c",
+          "ed-playbooks:pdf008:excerpt-4c098e36e37b",
+          "ed-playbooks:pdf008:excerpt-4d1f6304b574",
+          "ed-playbooks:pdf008:excerpt-613fe14d3601",
+          "ed-playbooks:pdf008:excerpt-73f72e46e169",
+          "ed-playbooks:pdf008:excerpt-8a925c46d6db",
+          "ed-playbooks:pdf008:excerpt-bf08e5e62a96",
+          "ed-playbooks:pdf008:excerpt-db1e47ba05e9"
+        ],
+        "scope": "逐段原文初校；尚未獨立複核。"
+      }
     }
   }
 }
