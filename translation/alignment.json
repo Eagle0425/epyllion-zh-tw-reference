@@ -1324,49 +1324,120 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "81820aabeccb6fbbf35bb5bed97fba1ce894c278d77dd42f5683c220ae7e9770",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 42,
+            "locator": "印刷 43 頁：n this game, you and your friends tell a collaborative tale about your clutch’s adventures",
+            "text_sha256": "c2d63bcd20e823a100c47f4c332ed58fc0099229ee74d0335797d71f241d6a28",
+            "block_id": "core:p043:l002"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 42,
+            "locator": "印刷 43 頁：by helping other dragons, and in turn, growing and changing together. This section is full",
+            "text_sha256": "cb289a9fff2fc58925e64a846333faf5d9a17cb2f099d3b64bc14ac1238ce0b6",
+            "block_id": "core:p043:l003"
+          }
+        ]
       },
       {
         "id": "conversation:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "c5e2afe90bc2f82bc67da86d6995e9994d983c5dd120d33250daf8541061fb99",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 42,
+            "locator": "印刷 43 頁：Epyllion isn’t like playing a traditional board or card game. Instead of taking turns one ",
+            "text_sha256": "2d01333f7f9523793f1ddb71fe5324ecea1fcdc5ac37b0adeb6a4af9858ed216",
+            "block_id": "core:p043:l005"
+          }
+        ]
       },
       {
         "id": "conversation:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "dcdf2e54a309579357c5f013ae059cd6bbc5fff0e2915309510fc43bf0c4c1be",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 42,
+            "locator": "印刷 43 頁：Just like any conversation, pay careful attention to your contributions; if you are talkin",
+            "text_sha256": "590143037760b10893b31b3312b9eeacc049581fb6815f033182e30cf44650d8",
+            "block_id": "core:p043:l006"
+          }
+        ]
       },
       {
         "id": "conversation:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "ea45e0a39656b4409eda742e6092602b301f76add7ca480266797ab565841eac",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 42,
+            "locator": "印刷 43 頁：When you’re not speaking as your character, try to focus. Don’t have side conversations; j",
+            "text_sha256": "15ac27f321c54d0ad83e591c4ea627bc15010ed65463ed320c22575c0fbf72e8",
+            "block_id": "core:p043:l007"
+          }
+        ]
       },
       {
         "id": "conversation:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "568677f83fc3883ae20ddf6cc5c070b03c5468c270496c30d25435de688db270",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 43,
+            "locator": "印刷 44 頁：Through the conversation at the table (and guidance from the DM), the group not only decid",
+            "text_sha256": "3f4dd5151ba64dff9395dcb0b2525cbd49fc9ddb28d39fe1de30f6224ccd169a",
+            "block_id": "core:p044:l005"
+          }
+        ]
       },
       {
         "id": "conversation:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "7573c9ae32d6d7876c9db5ec82e389745910b7645639001b7b9d0a3c0db02f60",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 43,
+            "locator": "印刷 44 頁：Coming up with new setting details makes your game of Epyllion a personal and vibrant envi",
+            "text_sha256": "adbc0884178a487e9a44f534d6d64b6da4d8662c5195142ce0786e70fdd2a133",
+            "block_id": "core:p044:l006"
+          }
+        ]
       },
       {
         "id": "conversation:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "cdd155671e5c81a725d7d9f6bf56802ff60a91b4040e12773666639b4d339ecf",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 43,
+            "locator": "印刷 44 頁：This collaborative style continues when your characters take action and make decisions. Th",
+            "text_sha256": "40389135886273ad0eb3bf305a4d1e0413e23b5b048ebc7b6d5dbe5bab600793",
+            "block_id": "core:p044:l007"
+          }
+        ]
       }
     ],
     "moves-fiction": [
@@ -1375,77 +1446,176 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "51f9b31adedff6c9430915f4df58416f9eb5806aef4d0c73ea351445142ea500",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 44,
+            "locator": "印刷 45 頁：Sometimes, the things your drake does in the story will lead you to trigger a move, a bit ",
+            "text_sha256": "15a27d2b434cc9737b42c06f6af28ad2209f19c7409796f0c5ad4836d1ed3afb",
+            "block_id": "core:p045:l005"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "93d7ea1874bb0e781eb02c13406dfe2fe79872bd0d68d4caf8a7045da1fd5c47",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 44,
+            "locator": "印刷 45 頁：Moves won’t be triggered for every thing you do, though. You don’t need a move to fly, unl",
+            "text_sha256": "ac0fb30ef9d95dc0d8fc690ee54b9ffba9b7559e4fc7aaaa551250c3ed6fb3c7",
+            "block_id": "core:p045:l006"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "e2b6649cbde92d7c6f753388b1a75b79ad6710855d41830fa8a1d4ffdcd2aed3",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 44,
+            "locator": "印刷 45 頁：Each move has a trigger, a phrase that describes when it should be used during play. Pay c",
+            "text_sha256": "c8bf866bdc77cc62d553ce945a01a101af8f72bafdd78a7b0de49b935f1e32d0",
+            "block_id": "core:p045:l007"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "0de89377bded3172bf875650da6d807237cd285f5c4c0d78aee4d3c21792c6ea",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 44,
+            "locator": "印刷 45 頁：Groundswal (an NPC) tells Veri (a PC) to follow him into a side room for a private convers",
+            "text_sha256": "65bc853106a55f1981da7a694957070f2328c1ebdde6759be9d62f4c6d2afba4",
+            "block_id": "core:p045:l008"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "ae9df22302da1c413a0ebbe748c64c382d2ece8ac46057ab1fd54d9c5f880702",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 44,
+            "locator": "印刷 45 頁：Moves are not meant to limit your creativity: instead think of them as a frame that suppor",
+            "text_sha256": "48c5dcd6dc4c19f08c68e208ccbaf4dc1cb5f4de6142f868078cde0ec27acabc",
+            "block_id": "core:p045:l009"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "bcfb5dd004c6bfa8aeb72082dfc9a2ed67889da975f4850eb1e00c5f8b6e4c57",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 45,
+            "locator": "印刷 46 頁：Moves are a way to manage uncertainty in the setting and signal what kinds of conflicts dr",
+            "text_sha256": "0e47e386de8629c816866c62d2064fac8667b5c44501ed739e9668ff96156752",
+            "block_id": "core:p046:l005"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "60f27d559761f3f69bc653b61af7b6c15e172a281ddfe8af3254e65f5a78edf8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 45,
+            "locator": "印刷 46 頁：You’ll only make moves when something is uncertain about the outcome, when you take risks ",
+            "text_sha256": "fcea734ca3750192e71b089e9c024b18cd013de122131f471f6a32ca63d38d6f",
+            "block_id": "core:p046:l006"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "05f617cd7cb11a2c7d3c0bcda0c8402c930ea4b455cc3387d1e52ecdf631ef7a",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 45,
+            "locator": "印刷 46 頁：Not everything interesting triggers a move. Sometimes you follow the fiction and no move i",
+            "text_sha256": "1dd12038c8176866514e76db7940965e1894060de1c53a57b002366c026fdef0",
+            "block_id": "core:p046:l007"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "7ddfcf33f2253150b30bb9b59588902cc925f3fd7293ef20887608718d82c3ee",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 45,
+            "locator": "印刷 46 頁：Can this elder dragon really eat all of the food for the Fire Feast before the guests arri",
+            "text_sha256": "c87419778e6efa4ad06f4b1f942a680161a0975a5f23fe4ed40dc68353f1a98e",
+            "block_id": "core:p046:l008"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p010",
         "field": "paragraphs",
         "index": 9,
         "target_sha256": "3a63a6df5684a7acf0defb6849a16af61de5899add597db54430b7968db523b6",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 45,
+            "locator": "印刷 46 頁：Other times, the answer isn’t so clear and the uncertainty calls for a move to help resolv",
+            "text_sha256": "554499a170310b1dc0b69a92a184d0cece5775f8610dc32508c434ba1a721ffc",
+            "block_id": "core:p046:l009"
+          }
+        ]
       },
       {
         "id": "moves-fiction:p011",
         "field": "paragraphs",
         "index": 10,
         "target_sha256": "d0fea0e6354bb31a457a085e147b674d306bacc8e2e84e6d767baf5058a2951f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 45,
+            "locator": "印刷 46 頁：Is Veri’s passionate speech enough to stand up to Vinn the Insatiable and convince them no",
+            "text_sha256": "3aadcd18d8babd7af6e0d5774275ffb2af91e3318f1959e007cd3f5724e55b20",
+            "block_id": "core:p046:l011"
+          }
+        ]
       }
     ],
     "dice": [
@@ -1454,56 +1624,160 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "d9cac2ebdbca1d421584b98767f00efb1ca7b1fce1e3c816416d36756633c193",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：When a move calls for you to roll, roll two six-sided dice (2d6). Not all moves ask you to",
+            "text_sha256": "7ff23c49cb1b78eaa9f499d14a4a508b165b857d2b64738422fff386eb8de942",
+            "block_id": "core:p047:l005"
+          }
+        ]
       },
       {
         "id": "dice:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "43a24f0a6c50e6e547535776e99059d539ea06427084e35d35d1f963ff9d7d6e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：Veri is rolling to study another dragon. The move asks for them to roll +Charm and Veri ha",
+            "text_sha256": "770b4cd36c0274f9730d3e9e4cdd674cff55004e18a3c09ed3b86c73cad47ffe",
+            "block_id": "core:p047:l006"
+          }
+        ]
       },
       {
         "id": "dice:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "9da255d79752cef0412ba3f6137ee9ef4837fb1652ef08caee936dcb232e1ca8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：There are three kinds of outcomes you can encounter when rolling the dice:",
+            "text_sha256": "e0d4da5f381a06f2cda1d94fced99e7d0c1df792940a3ab31d7a15597ad9d4df",
+            "block_id": "core:p047:l007"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：a 10+ is a hit",
+            "text_sha256": "79c57158752d9c0664bcbed93688a4f00deae6719cbbd620c1108a1491e6a4a7",
+            "block_id": "core:p047:l008"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：a 7 to 9 is a partial hit",
+            "text_sha256": "dd61d0fc9dcc3dd00368279ed5c565044445cb1b55a517c29c1cbf6a35fe1958",
+            "block_id": "core:p047:l009"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：a 6- is a miss",
+            "text_sha256": "19efc1d1dbc8deb5bb9ed2d8dc30d3515d4cc9b035216f2d2c75365589a6baa9",
+            "block_id": "core:p047:l010"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：Note that a 10+ and a 7 to 9 are both considered hits—but a 10+ is a full hit, and a 7 to ",
+            "text_sha256": "914ce33c5af8eefd7f26bcd76e5cf1d1651ec0b8f3c0ec0b7b2aec925b7ff0e9",
+            "block_id": "core:p047:l011"
+          }
+        ]
       },
       {
         "id": "dice:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "b93b3ba7ec51942bacb7a5e423e60ab23cf0836b0cae77aad975d7f955aa2e06",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：Some moves will explain what to do or give you choices for each of these outcomes, but hig",
+            "text_sha256": "46aff5135ab295f106b6d62fc7c407c141a138d3ef73cb35de56bc92a223e256",
+            "block_id": "core:p047:l012"
+          }
+        ]
       },
       {
         "id": "dice:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "f156a00fb3ddbf39133bb8ea27715e3473a425ba9fbd64c7c3d844d36d869308",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 46,
+            "locator": "印刷 47 頁：On a miss (6-), the story takes an unexpected twist; the DM will tell you what interesting",
+            "text_sha256": "33a7ba82824a126288302d40790163d4e46bbe3005638b3b92a92de162d8c8e1",
+            "block_id": "core:p047:l013"
+          }
+        ]
       },
       {
         "id": "dice:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "be5c6b300f37c104a3d4e94433633eed33766b7d792318219562f712f61c5d05",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 47,
+            "locator": "印刷 48 頁：But missing isn’t all bad! When you miss a roll, you gain experience (XP) that helps you s",
+            "text_sha256": "0f295f8a5aa5e1c0b6adfd9660167bf558fba989343cfb5c66c3e38925d6a054",
+            "block_id": "core:p048:l004"
+          }
+        ]
       },
       {
         "id": "dice:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "ccf74dc76140e046737a6ac352464ce760ee242f8ea7871a4c00aa193a4f88e9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 47,
+            "locator": "印刷 48 頁：The DM never rolls dice. Instead, the DM tells you what’s happening and asks what you do. ",
+            "text_sha256": "5f7c919f7b2fc4dc1f43768529e966847a2dec2806e42db76bb30ae174775c94",
+            "block_id": "core:p048:l005"
+          }
+        ]
       },
       {
         "id": "dice:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "90e846526d3709b8bf79d80a280b1e32d4f7aa74feb89e842ca7484b3da24d0f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 47,
+            "locator": "印刷 48 頁：And always remember—not responding, not doing anything or triggering a move, that’s a kind",
+            "text_sha256": "63d5ca8b2b2f831857ad6c38997946794f6910a8f4d55643853a5183acb6bebf",
+            "block_id": "core:p048:l006"
+          }
+        ]
       }
     ],
     "gems": [
@@ -1512,56 +1786,128 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "b4e8309a9ad12b872263b6039590f2919a0f509588746aa8fe5f03e4a7aae262",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 48,
+            "locator": "印刷 49 頁：Friendship gems are an out-of-character way to reward your clutchmates for acting in accor",
+            "text_sha256": "a019fbe1d5b3641483893fb77c261be493d07170c241a710b4dc77c6b0a06dc4",
+            "block_id": "core:p049:l005"
+          }
+        ]
       },
       {
         "id": "gems:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "2cc2a138eeedc7372aaa7a099acad399c9df8228103326a472e4dc1d195b6dce",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 48,
+            "locator": "印刷 49 頁：Clutchmates can give friendship gems to each other for exhibiting each other’s virtues, us",
+            "text_sha256": "b945b42577af26fe6ecf219b47ec748c20e5e5ea272b5a136c590e1b3f81bd6b",
+            "block_id": "core:p049:l006"
+          }
+        ]
       },
       {
         "id": "gems:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "5d4eb963de7079f793f933462291ebe09b49514ef92bbd4a666e0ed662a47727",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 48,
+            "locator": "印刷 49 頁：You give friendship gems to a clutchmate when their dragon displays the virtue your dragon",
+            "text_sha256": "80b06a556a12de2a411af82b074fa7176ac19fa9010ed4a22f9654f28a213965",
+            "block_id": "core:p049:l008"
+          }
+        ]
       },
       {
         "id": "gems:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "a02a19d5bafc76cdafaf3f27328f956b50240a3bcbd4af51bd4a8a4d6892406b",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 48,
+            "locator": "印刷 49 頁：Luneth the Seer has been separated from the rest of the clutch in some abandoned ruins, an",
+            "text_sha256": "ec1904be1709d4f1185e51dd1334347b607c5abad3800ed92350cdd44ecc48a2",
+            "block_id": "core:p049:l009"
+          }
+        ]
       },
       {
         "id": "gems:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "e5249d0b477df763f9074269c6b009d89e510c13c9cfe1a91b7bd63d9f880c52",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 48,
+            "locator": "印刷 49 頁：When you give one of your clutchmates a Friendship Gem, your clutchmate holds on to that G",
+            "text_sha256": "245a7233f2149bbecd743a1b622ea2b36c9df5a37c40b71092d31212cbaa4df9",
+            "block_id": "core:p049:l010"
+          }
+        ]
       },
       {
         "id": "gems:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "359c808939e44e860f9eb0d9898cc4bd042602dac40778d083331ead511ef177",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 49,
+            "locator": "印刷 50 頁：If a move calls for you to roll +Friendship Gems—usually when you’re helping or interferin",
+            "text_sha256": "a9806bf122ef0c4a7ab882e2373d264d7883d33b4ec815e4ffb4618452c3ddae",
+            "block_id": "core:p050:l005"
+          }
+        ]
       },
       {
         "id": "gems:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "6aafe1aff0a211395a9085a4a493f24234a60a0980dab404595fe73088488db8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 49,
+            "locator": "印刷 50 頁：The more gems you have with a dragon, the closer you are to them, the more you know them, ",
+            "text_sha256": "e914dee28269308349298884b00be944d6c91c4df2303187760a8cf51e05ce8e",
+            "block_id": "core:p050:l006"
+          }
+        ]
       },
       {
         "id": "gems:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "e5e4631e7d95b8d285d9760b7e256b9b997fde86ec8ab68cb524e07730a35f49",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 49,
+            "locator": "印刷 50 頁：When you activate moon magic or other abilities that require you to roll +Friendship Gems ",
+            "text_sha256": "6ece90c53ee18676a719604e234e89f75d3c89b1edd58367118abbac82a8074f",
+            "block_id": "core:p050:l008"
+          }
+        ]
       }
     ],
     "shadows": [
@@ -1570,84 +1916,200 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "1cb8e832c6c0b01051963b37c73c51dbb87efac0c2bd37a0b04e74cd9fd60a0d",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：While dragons are strengthened by their friendships with each other, the Darkness is selfi",
+            "text_sha256": "08e6373a195f848f909da4a5ad0fc3f5ef4da4648214d8b60820294b6560ab85",
+            "block_id": "core:p051:l005"
+          }
+        ]
       },
       {
         "id": "shadows:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "3a229fda941f5f0296c0a3a6544e52a6c32715b2208ca9884e02516982686276",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：There are many reasons dragons mark Shadows. You may have to mark a Shadow because you got",
+            "text_sha256": "48d605bd96506540082a960eed93cc9c322178c6d6cf8ff46bebf530ec6d0da6",
+            "block_id": "core:p051:l007"
+          }
+        ]
       },
       {
         "id": "shadows:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "66c6fc0c3551f7b46c54eaea79ad744c816294e43b31e30f3f3b48005d7a810a",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：When you mark a Shadow, check a box on the Shadow Track to represent that a part of you is",
+            "text_sha256": "cead71cbc3ee48fa2584934cfaa5da1b32839a89ab7caa2018676d06a1e3c4b6",
+            "block_id": "core:p051:l008"
+          }
+        ]
       },
       {
         "id": "shadows:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "432a16c019ca10c62944cbd3982c759cc27cd6952a5796bdf5df5e3767044dcc",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：The Shadow Track represents how much hold the Darkness has on you. As you continue to figh",
+            "text_sha256": "5c84b9bb1aa042ffdf2783b0b571a1eb05014b1199b135ac4af656326c4a43bd",
+            "block_id": "core:p051:l010"
+          }
+        ]
       },
       {
         "id": "shadows:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "390c1fa08803ed36a032f6449853851acb18e9d47eb1032d625dd54370bc6c8e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：You can mark Shadows in any order. When you mark a Shadow, you must immediately take one o",
+            "text_sha256": "5d25af63d96575ab35e1b3a5e7965130016abe786112467d25eb9b823cdd9e45",
+            "block_id": "core:p051:l011"
+          }
+        ]
       },
       {
         "id": "shadows:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "5c6ceae39a7f91a3509b63c45ea52e24f8e60d23543f6035856f9da63f05115e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 51,
+            "locator": "印刷 52 頁：Sometimes the DM tells you which Shadow to mark, but make sure you always mark a Shadow th",
+            "text_sha256": "61310f24d658e47e66e7e7682200c3518f2467a19c57a5bf17d2331bdf8f8ae0",
+            "block_id": "core:p052:l004"
+          }
+        ]
       },
       {
         "id": "shadows:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "dc89327ad72c9390a666b1fd94c484d1b8adb1e2ab98159e31cfed0caabcf43f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 51,
+            "locator": "印刷 52 頁：Spirit and dris clutch bravely face down an elder dragon who has been corrupted by the Dar",
+            "text_sha256": "5c9cd8fbd14a4eebcce268d00c0a49bb1d0ed3065bbd5c57097178417e46c4bb",
+            "block_id": "core:p052:l005"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 51,
+            "locator": "印刷 52 頁：separating them from the clutch. The DM tells Spirit to mark a Shadow. Given that Spirit d",
+            "text_sha256": "3b8ac48fb8d97c2abb140b4f0c9357220f8b45212ab7c2c571d7c262579a7877",
+            "block_id": "core:p052:l006"
+          }
+        ]
       },
       {
         "id": "shadows:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "27bca3fd694bcc62bfe481bba78b8eb6b7233306dd4e08b8a39a1efdff19aac5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 51,
+            "locator": "印刷 52 頁：You only need to take one action when you mark a Shadow, but when you fill in all of the S",
+            "text_sha256": "b78cf79ac834f5a5ed64729e533d487ee6d244a29a3f575f5854be860cc279c6",
+            "block_id": "core:p052:l007"
+          }
+        ]
       },
       {
         "id": "shadows:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "af70477d248b3d5b589ca96eaeec65f0addf1d4c4528ea6d3af2aae2262d15f7",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：Anger: Lash out at a friend, break something valuable, escalate a delicate situation.",
+            "text_sha256": "c0096b362bad1e0ffd6b123b772b5d008978d354d60735cbb40e0caff118a3e3",
+            "block_id": "core:p051:l012"
+          }
+        ]
       },
       {
         "id": "shadows:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "8f676f7f34317ca45cd813c25ad52de0b5e519ec258fc821be909a9cedc40160",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：Doubt: Question a friend’s loyalty, steal something valuable, reject a tradition of Dragon",
+            "text_sha256": "2eab2f26854848a4a4dcb87702d1b4fba915963089d2e2a7eef84656d43882ba",
+            "block_id": "core:p051:l013"
+          }
+        ]
       },
       {
         "id": "shadows:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "0423900529f01261f046fcf5a31c35e9810ecbc9478d364e59f4f7d3d28e41c5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：Fear: Hide something from your friends, avoid a difficult task, exaggerate the danger of t",
+            "text_sha256": "b6fb35d9807c8d9e28b3dec845f8be24ec61d3fe022fd824da4fd65eb211a8fe",
+            "block_id": "core:p051:l014"
+          }
+        ]
       },
       {
         "id": "shadows:b004",
         "field": "bullets",
         "index": 3,
         "target_sha256": "b483901ca7ec97b122525dde368fc65b62a39cef3397fd6250dd2237ff2385d9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 50,
+            "locator": "印刷 51 頁：Shame: Blame a friend for your mistakes, mock or belittle someone vulnerable, seek isolati",
+            "text_sha256": "9c83f3089e59fe8b24b1ee10a3c842684030bb99f34c98c2da724d9651c5817f",
+            "block_id": "core:p051:l015"
+          }
+        ]
       }
     ],
     "shadowself": [
@@ -1656,42 +2118,96 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "e167422ce2673dad5cc5d58d711f5fdae12ba9929def6b97330b7996c330bf1d",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 52,
+            "locator": "印刷 53 頁：When you mark the last condition on your Shadow Track, you lose yourself to the Darkness a",
+            "text_sha256": "445a4ff9c56291091d9ff3c5f13f2fa16b7b85200b84df9920d3cc333dc7d987",
+            "block_id": "core:p053:l005"
+          }
+        ]
       },
       {
         "id": "shadowself:p002",
         "field": "paragraphs",
         "index": 1,
-        "target_sha256": "703384fab247c3405f031692cb6fce1f337fcc5df48999a297badb498d757885",
-        "source_blocks": []
+        "target_sha256": "d2a623398d540ab3c89f45c2f92e940d576a5e2643f435db6f7f7ad73ee6b1bf",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 52,
+            "locator": "印刷 53 頁：Each playbook has a unique Shadowself. You might be trapped as your Shadowself for one or ",
+            "text_sha256": "aaacb13fb0864c39fc850f0df9524999f938322906fad9df6127a443108dff8b",
+            "block_id": "core:p053:l006"
+          }
+        ]
       },
       {
         "id": "shadowself:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "ea7fb5180dbb9c1c3b96cf4e7acbedee7e77d407354f0e2782b8db05e874bbb4",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 52,
+            "locator": "印刷 53 頁：You can return from your Shadowself when a friend convinces you to humble yourself and ack",
+            "text_sha256": "73c84ab2edd046b77bac57f6a7ebf20c697c4bf6febe221b6669bb284331ea6d",
+            "block_id": "core:p053:l007"
+          }
+        ]
       },
       {
         "id": "shadowself:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "5d48eba9ef28c385ad1eb27e0ded318bd2537436ffdf9dd5773073f5f30ba540",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 52,
+            "locator": "印刷 53 頁：Hachiro—overcome by dris Shadowself—demands that the clutch follow dris leadership because",
+            "text_sha256": "59b000706be147bbfdd9ee086c73ea76d08837d0c4fb1079b4a330094ab554d2",
+            "block_id": "core:p053:l008"
+          }
+        ]
       },
       {
         "id": "shadowself:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "4373da11bf5a3770b15a003322d0b21b170482b0228d5f97cab75cda58b9f560",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 52,
+            "locator": "印刷 53 頁：Hachiro recites volumes of solar astronomy, but Morning shakes dris head and says, “That i",
+            "text_sha256": "8a8102945da47bddc36da449c555587d7cb753d19286381e7554d8430d56c7f8",
+            "block_id": "core:p053:l009"
+          }
+        ]
       },
       {
         "id": "shadowself:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "b89669a58671bcc23c3c4cebf3f29b54d715cf33c3453f7ff40c61d8cd898c9d",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 52,
+            "locator": "印刷 53 頁：When the rest of the clutch awakens, Hachiro bows before them and apologizes to dris frien",
+            "text_sha256": "2bcd518127abf845e4d7493748dd38699cf4f7d1e57e4ba3cf616a4ba41884bb",
+            "block_id": "core:p053:l010"
+          }
+        ]
       }
     ],
     "act-despite-danger": [
@@ -1700,63 +2216,152 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "5388b8e1987b4812d395b5ce938ecd87bbe004b74a78b805b8c3ad46005b0efb",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 53,
+            "locator": "印刷 54 頁：Throughout the story, every clutchmate will make use of basic moves. The playbooks have ot",
+            "text_sha256": "1479f9ffda6dc72c99303024db950918ec9c1614bab1807c610408ed81afa574",
+            "block_id": "core:p054:l005"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "39bbaff7432c8b8781233eba56b1466c7980343494d4d864efa44c8dff7ce287",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 53,
+            "locator": "印刷 54 頁：Remember that the basic moves are essentially narrative sparks that bring the rules into p",
+            "text_sha256": "1932cc889ec06c3a29091a31a9f10125c125cba6087c8230742fc89b9cacb8fe",
+            "block_id": "core:p054:l006"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 53,
+            "locator": "印刷 54 頁：Here are the basic moves for playing Epyllion. I’ve included a brief explanation of each m",
+            "text_sha256": "b87cd325b80726a5c0904b560d2d00887418eef5197cf75fb927d50fd0fff69d",
+            "block_id": "core:p054:l007"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p003",
         "field": "paragraphs",
         "index": 2,
-        "target_sha256": "4f1279a3a13868d3d7cf6368f4f6061dbeedf54ba1db9e794957e65f9c0909d7",
-        "source_blocks": []
+        "target_sha256": "269586c47134a9c0ffd6ffdfac879d94b61fe686e684f8e339b2cd21bd438141",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 53,
+            "locator": "印刷 54 頁：When you act despite danger, roll +Courage. On a 10+, you succeed despite the odds. On a 7",
+            "text_sha256": "1cef4cca0e85d239e2c46114c090d81c5ce362731767bcc66359dc100a496a06",
+            "block_id": "core:p054:l009"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "99e4c491cf0b2c0a6d14da7ee67361c860e85b6a49b67557bb9472de95aee21b",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 53,
+            "locator": "印刷 54 頁：This move should be interpreted broadly. If you find yourself fighting a dragon high above",
+            "text_sha256": "7a6ac04a5e7bbf7fd7b386a4eb7e929802b1eb768a421c2459edf173c6d37a85",
+            "block_id": "core:p054:l010"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "2487def85d44236f8e9b98c5759eb31908435df3066e1b120119d5e5dc5a78ad",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 53,
+            "locator": "印刷 54 頁：A lot of the cool things that you and your clutch do will be considered acting despite dan",
+            "text_sha256": "7b37d71ba0668563af3b002dc93227ffe705aa5b9c7209e3e0d3f313e692bef9",
+            "block_id": "core:p054:l011"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "135b25bb3e0108d26ee92c30db060ce6455c5473e5d82c86946e18bbfb8ac2b1",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 54,
+            "locator": "印刷 55 頁：Spirit, the Daredevil, is trying to outfly the aggressive lavaflow of an erupting volcano ",
+            "text_sha256": "68fef61033bd2977bee133998c03760e75421a78d51d1324414f415532ee0564",
+            "block_id": "core:p055:l004"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "c1857eb0f3c85febfb66d172af4f961ca0e8b25cc0a886c0d19676f029572d10",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 54,
+            "locator": "印刷 55 頁：…a total of 10+: the DM describes Spirit’s agile form outmaneuvering everything the volcan",
+            "text_sha256": "d5a496c0d9cda2bf23d76d478727378723cfcc10adf2414a20d5814f4c5159cd",
+            "block_id": "core:p055:l005"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "c04207252a43094cf322cfb92030aacbee5f31cbcc1bdbb9c667455de9b8e91c",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 54,
+            "locator": "印刷 55 頁：…a total of 7-9: the DM describes Spirit zipping through the debris at top speed, but comi",
+            "text_sha256": "60127b8897e67095a095ed007161f55e989445f56d2f872744e2347387d72318",
+            "block_id": "core:p055:l006"
+          }
+        ]
       },
       {
         "id": "act-despite-danger:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "f85877ad0355431500ecee731b1bf5cff3206e13965b3daaa770d2267410e1fe",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 54,
+            "locator": "印刷 55 頁：…a total of 6-: the DM describes Spirit zipping between the flaming boulders, but as Spiri",
+            "text_sha256": "400fd4e449cf8b9dff457cd3df82f33ac48ec866d024d752ddd7a7e141204934",
+            "block_id": "core:p055:l007"
+          }
+        ]
       }
     ],
     "stand-up": [
@@ -1765,119 +2370,280 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "92a4d32c7cfc6fb1be97b750abe254c177daf584fba24f1e8a9ac6f98b15cfb8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：When you stand up to an older dragon (NPC), roll +Courage. On a hit, they acknowledge your",
+            "text_sha256": "80042674611548be8d489e46d4288c08deb5fedddd049b30e4bd385d065e5b92",
+            "block_id": "core:p056:l005"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：On a 7-9, also pick one from this list.",
+            "text_sha256": "d7c32cf445c40eebb7638870d78483d113f96f4e8627b76b73ac2b1375dfa67e",
+            "block_id": "core:p056:l009"
+          }
+        ]
       },
       {
         "id": "stand-up:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "6b50779c4ae504b57b535ba95fd9716af38b04c0765ba9864c421cc02183ccf3",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：Older dragons hold the highest status in dragon society—as a young dragon it takes a lot o",
+            "text_sha256": "e057ed22db8eb71dc2415bf1858d8ef366a5880d95c8619653f39592d9ca985a",
+            "block_id": "core:p056:l013"
+          }
+        ]
       },
       {
         "id": "stand-up:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "0b8de67413d4749de2edad5780745c8903ee3fe8716c7b175458cc7d0588b0ec",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：If you delight the older dragon, dre might give you a fancy or useful item pertinent to yo",
+            "text_sha256": "5438c75dffe4b1369be4114c141b7644f932328e58fc2906e5f98db55352a53b",
+            "block_id": "core:p056:l014"
+          }
+        ]
       },
       {
         "id": "stand-up:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "2abc03f8b7473569a55ff5a6160ec4e433301da3a7667d3282e344eb801f425e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：If you impress the older dragon, dre will offer you a favor or accommodation to aid you in",
+            "text_sha256": "30301a53286fa7c766e4e00913fefca38b828d706ea77212c7ca42e88630a813",
+            "block_id": "core:p056:l015"
+          }
+        ]
       },
       {
         "id": "stand-up:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "7ee84bed033eb53e405940d271ea58301e1ac5d2589b176d911eba870bf92c0e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：If you intrigue the older dragon, dre will tell you something useful or interesting. This ",
+            "text_sha256": "054f86c9f2f5bce0ceefafcea32984c5ceac23bea0d92f3b86388b4b85845936",
+            "block_id": "core:p056:l016"
+          }
+        ]
       },
       {
         "id": "stand-up:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "bd82edb5b34699a98c8d81b6b566b821485a6128e7334bc67f69f64e8d0f50b1",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 56,
+            "locator": "印刷 57 頁：When you roll a 7-9, you still get to choose one of the 10+ options above, but you also su",
+            "text_sha256": "1f596ce7ceacf499117506c702cc48dd933efa67da0ac1a1ea234e6f3c7754d7",
+            "block_id": "core:p057:l004"
+          }
+        ]
       },
       {
         "id": "stand-up:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "5c257ef029e41ab4f1ac4a3f9dba4be30325bc0f6cf48be1341c04143933beee",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 56,
+            "locator": "印刷 57 頁：Talon, the Nature Adept, is standing up to Tass the Gigantic (an elder dragon) because Tal",
+            "text_sha256": "782c7394985f873cfe290e3080a7f804b29f751554e4c3276d09e0c8389bbf2f",
+            "block_id": "core:p057:l005"
+          }
+        ]
       },
       {
         "id": "stand-up:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "700448a8db38e10747e8dcce25a1d47f4a7ca7b3c089a0e2baada74813fc2b3c",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 56,
+            "locator": "印刷 57 頁：…a total of 10+: Talon chooses “impress them” and gets a favor… The DM says “Tass grins an",
+            "text_sha256": "90069ec827823337fd6a29b8bb47feb3808faf407c584ece51c590f22a167f4e",
+            "block_id": "core:p057:l006"
+          }
+        ]
       },
       {
         "id": "stand-up:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "c3a77d15ae38e007e1093203c24450b695f8c4f18a12f91ab2378ea95b5b433d",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 56,
+            "locator": "印刷 57 頁：…a total of 7-9: Talon still impresses Tass, but Talon incurs an obligation: “...Tass grin",
+            "text_sha256": "cc1890742cde1a6f48ffa92c567f2c18362b3712eece8fc53046700aa525d42f",
+            "block_id": "core:p057:l007"
+          }
+        ]
       },
       {
         "id": "stand-up:p010",
         "field": "paragraphs",
         "index": 9,
         "target_sha256": "5dea5a35014f12ae6871e58209429e06c12a545d7e915a48e63bd84de0b925e2",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 56,
+            "locator": "印刷 57 頁：...a total of 6-: the DM describes Tass snorting at the small drake: “Tass turns away and ",
+            "text_sha256": "be594ac0d5c61876a3a6378ce34060ab7164f005f0e35acf3a6efd696fb5082c",
+            "block_id": "core:p057:l008"
+          }
+        ]
       },
       {
         "id": "stand-up:p011",
         "field": "paragraphs",
         "index": 10,
         "target_sha256": "dc4e01e3195448e8fdf40b428b9d4ca2209c1bafe609365bac4b0f77bc80b88f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 56,
+            "locator": "印刷 57 頁：This move is not triggered when you stand up to an older clutchmate. They are older, wiser",
+            "text_sha256": "70650504ed53cce6182a05d3e3088d7957a453d959e334c8cce5f679fefbc962",
+            "block_id": "core:p057:l009"
+          }
+        ]
       },
       {
         "id": "stand-up:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "741d3821452db9807dbacf827c6bd4242752081897be43163884b1032b4c1c06",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：You delight them; they give you a useful item or fancy gift.",
+            "text_sha256": "ffb9d5c7736dc93c47a6889495501c5a50e1b6e8b229afc544a1c86606b7fde8",
+            "block_id": "core:p056:l006"
+          }
+        ]
       },
       {
         "id": "stand-up:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "532733b227ea0282c8c86f4b3b37a4f0f120c97027b14de70b6bdf8618529588",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：You impress them; they offer you a favor or accommodation.",
+            "text_sha256": "23e0f30e4d5b2fc656f7a66bdab056802a51f4faae5710f775580a69ca7cbd9a",
+            "block_id": "core:p056:l007"
+          }
+        ]
       },
       {
         "id": "stand-up:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "71ad0354a185a7c5e2e8cb8901952ceeffcc4b5f68802227796b9c57e7ca522f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：You intrigue them; they tell you something useful and interesting.",
+            "text_sha256": "84d7cadff1aafa525e6fa79f4d38c1cb46416f94c6f4882376eaafd6863978bf",
+            "block_id": "core:p056:l008"
+          }
+        ]
       },
       {
         "id": "stand-up:b004",
         "field": "bullets",
         "index": 3,
         "target_sha256": "f40ec50a9daddaebe336c731d0bbfcb033bad53a40634a0c0f39b3740ffc27b5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：You succumb to vanity. Mark a Shadow.",
+            "text_sha256": "636054591d5cd94f7b94601a871bed2961a27954fda7165a43de5b97f214e48b",
+            "block_id": "core:p056:l010"
+          }
+        ]
       },
       {
         "id": "stand-up:b005",
         "field": "bullets",
         "index": 4,
         "target_sha256": "d1669e3a00c8e98aa102ec9c4463436fe0d253d7126d81eaf3c7d44d80bfb647",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：You embarrass a friend. Return a friendship gem.",
+            "text_sha256": "1e2c87f52efc93b187555ca33219f3a9e091617231ed70e7f36b313029a09d7c",
+            "block_id": "core:p056:l011"
+          }
+        ]
       },
       {
         "id": "stand-up:b006",
         "field": "bullets",
         "index": 5,
         "target_sha256": "57f9d58ec5b0ad47464e2e6f6fc41380393c7d4a444cfe2a9c0390769b409ff9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 55,
+            "locator": "印刷 56 頁：You overstep social bounds. You incur an obligation.",
+            "text_sha256": "fff9fe77773bb9ba9c9bfcefbfcee1118a5c5200a676e307c007bff18cdfa0a9",
+            "block_id": "core:p056:l012"
+          }
+        ]
       }
     ],
     "convince": [
@@ -1886,98 +2652,240 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "692e7baa8d5bee0550f6ec7676748ffd313dbc0d7366c7a8d64b121a7daeaa02",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：When you convince a dragon, roll +Charm.",
+            "text_sha256": "781c0ca1ec58b27d9d3fc2cd3f77cd2da22abe2fdbf5023eb3b33287843feab4",
+            "block_id": "core:p058:l005"
+          }
+        ]
       },
       {
         "id": "convince:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "c87dfab78e2479a3e08f3c5e1a2836a8dd28b32f0e1b36dd0ab69df6a232b2de",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：For NPCs: On a hit, they will do it if you offer them a favor, gift, or useful information",
+            "text_sha256": "3b4b2949f735a4b73c6a6139da11949288c9f57cab3df4e09552ac64fdd53653",
+            "block_id": "core:p058:l006"
+          }
+        ]
       },
       {
         "id": "convince:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "8b028e12a4b97dc94a28bd597967720aa8f32d09ed1a01858a70c07b80dac240",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：For Clutchmates: on a 10+, both. On a 7-9, pick one:",
+            "text_sha256": "efb5dde11fdf1ed7f46e5d4f00112e7c30a73792dccf792a6966d17b1cd8f4ed",
+            "block_id": "core:p058:l007"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：if they do it, they mark experience.",
+            "text_sha256": "e9be7f44688e458684bd8dc676fac126653f88bd4bc6d891d3bc520e77d02d3c",
+            "block_id": "core:p058:l008"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：if they don’t do it, they mark a Shadow.",
+            "text_sha256": "927140a7236f30f5d44f6cc5482f66925f894eefd4d34b656dbac693d7837655",
+            "block_id": "core:p058:l009"
+          }
+        ]
       },
       {
         "id": "convince:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "499a0966b2122a9d32dbaf10b1a447d295e248c6db1df453036341e59e174d74",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：Younger dragons are not backed by the social order of Dragonia the way that older dragons ",
+            "text_sha256": "cc03d8b07eb2a71b8f23b283167f8cb8c8fe18b5719703d3cfd120d9a18c3c8c",
+            "block_id": "core:p058:l010"
+          }
+        ]
       },
       {
         "id": "convince:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "276513acca637be79e8c0d94bfb8657efac0835c1833879855c7c678f0a51dd3",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：But because you are an older dragon, young drakes will expect favors, gifts, or informatio",
+            "text_sha256": "a8863de58b024f70f9130cf74389d076fe54510bb17bc09ec1975a4b67b283d4",
+            "block_id": "core:p058:l011"
+          }
+        ]
       },
       {
         "id": "convince:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "ff3a6cbf4d4ac018bc40ceb7116c041be968714a85a0162ac9340b55b3dd62cb",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：Deep Eyes the Crafter is lost in the Capital library. None of the markings on the signs ma",
+            "text_sha256": "f9d9c81f76dc70b694a3ab446a339c51c74a50d2f6c2016182d9ef48053585fc",
+            "block_id": "core:p058:l012"
+          }
+        ]
       },
       {
         "id": "convince:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "46568123e438a61647f202e77adca4e39518a53c434aaf399fee750da222d554",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：…a total of 10+: the DM describes the younger drake fluttering all around the room excited",
+            "text_sha256": "19c3fa34470bf900008b3f86a301f6d1c5dcbd43fb2f9caeab8097ca989c879f",
+            "block_id": "core:p058:l013"
+          }
+        ]
       },
       {
         "id": "convince:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "16197018ea21b9faa1e43e98cf343426a950143697a2b1de40bee3df25d0a3ad",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 57,
+            "locator": "印刷 58 頁：…a total of 7-9: the DM describes the page turner excitedly taking the bookmark from Deep ",
+            "text_sha256": "583bc8dbd2f803d2fed5834e4e3fae328ac484c2b27ac704e7a1b60a6e2342c5",
+            "block_id": "core:p058:l014"
+          }
+        ]
       },
       {
         "id": "convince:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "645353500a755393aefc71df696e9707f323bd3b4fa32b4222d1f039dff876a9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 58,
+            "locator": "印刷 59 頁：…a total of 6-: the DM describes the young page turner eagerly agreeing to help without an",
+            "text_sha256": "dd6c8fe82b6b0c58357b2f3ba632b1429ff581572532c9173922e20094040193",
+            "block_id": "core:p059:l004"
+          }
+        ]
       },
       {
         "id": "convince:p010",
         "field": "paragraphs",
         "index": 9,
         "target_sha256": "d304ccdfa5f85a94864fcdf50a851b57fc217f906f940382850cbfa5a2bbc987",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 58,
+            "locator": "印刷 59 頁：When you try to convince a clutchmate your age or younger to do what you want, tensions ca",
+            "text_sha256": "e9b9fc5260d2207b2ee86d6aa7e9a76bdba69899753da8ee71e03990aa15960b",
+            "block_id": "core:p059:l005"
+          }
+        ]
       },
       {
         "id": "convince:p011",
         "field": "paragraphs",
         "index": 10,
         "target_sha256": "9c5803755fd930f894201b51b8a81ce721f4041774de466e6ef5fcf6bdcae6eb",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 58,
+            "locator": "印刷 59 頁：Talon doesn’t want to leave the library to find the page turner until after the storm has ",
+            "text_sha256": "5d5e1195a9ea6ce0ca7347f816cbdd0b1c0ab4898643e7f27a9161535657cf39",
+            "block_id": "core:p059:l006"
+          }
+        ]
       },
       {
         "id": "convince:p012",
         "field": "paragraphs",
         "index": 11,
         "target_sha256": "12970ebd39480542537cebea8d22558e50cf03d8e81855e14d3d56b497c05a92",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 58,
+            "locator": "印刷 59 頁：…a total of 10+: The DM tells Talon that the decision is theirs, but if Talon helps, dre g",
+            "text_sha256": "a7e864b121fb290b9fafadad803d28cbf55228bf2fa9baa742cc9e8b688e121d",
+            "block_id": "core:p059:l007"
+          }
+        ]
       },
       {
         "id": "convince:p013",
         "field": "paragraphs",
         "index": 12,
         "target_sha256": "82c7a371a42546c4f94c7413fd71402c7ecd5b17b5d24e3157ab3686bc5a7481",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 58,
+            "locator": "印刷 59 頁：…a total of 7-9: The final choice to help or not is still up to Talon, but the DM asks Dee",
+            "text_sha256": "cd0f127df84f6e74ebdd754920fa0bcb391ea0c27b9168915108dd7cbca6fa47",
+            "block_id": "core:p059:l009"
+          }
+        ]
       },
       {
         "id": "convince:p014",
         "field": "paragraphs",
         "index": 13,
         "target_sha256": "4250cda02b18699940836c0a38d43f08eb4388b7c1f78f75679b97ba7c217f7e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 58,
+            "locator": "印刷 59 頁：…a total of 6-: The DM says “While the two of you argue about what to do, the library staf",
+            "text_sha256": "e56ea3d7e5d3c3e2993cc8ff758a5d694dd3216159c70ec9874ecf555100991f",
+            "block_id": "core:p059:l010"
+          }
+        ]
       }
     ],
     "mislead": [
@@ -1986,49 +2894,112 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "8172d3485e6d70f41d7e74c4f67c7939cf946666017c3342df3d58eb73ec0efb",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 59,
+            "locator": "印刷 60 頁：When you try to mislead or trick another dragon, roll +Cunning. On a hit, they are fooled ",
+            "text_sha256": "20f10b01604159ba9f959f907c761220db83e955b97e1b01cbe296b5e102b7e1",
+            "block_id": "core:p060:l005"
+          }
+        ]
       },
       {
         "id": "mislead:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "148856b316fa1f0ac9660eee16fbef65fd46ffc132ae27ed0d8ec8e2ae11dfb6",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 59,
+            "locator": "印刷 60 頁：Sometimes the best way to get past a suspicious dragon is to mislead or trick them, lying ",
+            "text_sha256": "ce286e19be21a85f14a46fc37f38492320b7fd24d9450e12f5a5220cbb4ddf25",
+            "block_id": "core:p060:l006"
+          }
+        ]
       },
       {
         "id": "mislead:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "fda8884efe261fda2a4e1a21c23c28b81e6986d0b0fb14179f2bd984ce3c6fd5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 59,
+            "locator": "印刷 60 頁：You can mislead or trick a clutchmate who has plausible reasons for believing your story. ",
+            "text_sha256": "0af273edc2f2ed2d7147e4e4d418b509634c486436e42165a48a185e2d9e7310",
+            "block_id": "core:p060:l007"
+          }
+        ]
       },
       {
         "id": "mislead:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "e75d58d9a1c35c2cce1a570f3696c013ccacd6fb61c54a59adfb526b43dccdec",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 60,
+            "locator": "印刷 61 頁：The clutch is trying to sneak into the catacombs underneath the famous Voidmoons Spire, bu",
+            "text_sha256": "a9ffce8c934eeafb59d0261ec6d077e7cf118a5783ade131c6ce1274b72e0132",
+            "block_id": "core:p061:l004"
+          }
+        ]
       },
       {
         "id": "mislead:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "7437fff5660e5101570ecdc6645f0bd3de9779994c639963ff2f645d5ff9aee9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 60,
+            "locator": "印刷 61 頁：…a hit (total of 7-9): the DM describes that the Flight Guide is overwhelmed by the volume",
+            "text_sha256": "8e563cfc77df92de1779548b62dda7df991eac89f92f906e0c2b33fd422a3ea9",
+            "block_id": "core:p061:l005"
+          }
+        ]
       },
       {
         "id": "mislead:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "0472c51d2c1f198c770860b8ef38ce1203d48d8f1f1cdfbc976aaaacc3d8d825",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 60,
+            "locator": "印刷 61 頁：…a total of 10+: the DM describes that the Flight Guides were unable to get a proper head ",
+            "text_sha256": "921dc52e76bcf9340f602fa3e5a159730e9f16be3ee5c786407e6604ccfdcfc2",
+            "block_id": "core:p061:l006"
+          }
+        ]
       },
       {
         "id": "mislead:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "1e1abae5d54d5356b85dad3ffb062c70371fc4a6d30835da2afbbb38e8d7beb4",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 60,
+            "locator": "印刷 61 頁：…a total of 6-: the DM describes the Flight Guide ruffling dris feathers skeptically and a",
+            "text_sha256": "1584fe0af4220d230b8625129f706302cc08b7004cc6f6dc817d93088a2e54f3",
+            "block_id": "core:p061:l007"
+          }
+        ]
       }
     ],
     "study": [
@@ -2037,119 +3008,280 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "035b87da1729f204ff1c998ea970008a0a97ba1ab0dad10572cc6c63d50796b2",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：When you study another dragon, roll +Charm.",
+            "text_sha256": "b68d21ab42af99e34f41fc27f6501d88612ae107a4a72c8ec9d4c047438acc0a",
+            "block_id": "core:p062:l005"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：On a 10+, ask 2. On a 7-9, ask 1.",
+            "text_sha256": "9956a2f15282992f69b6bb69a9824bc04c304809ab006d5a9eafa91c531e9a78",
+            "block_id": "core:p062:l006"
+          }
+        ]
       },
       {
         "id": "study:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "f9ad7968ab8db03b60956bd25571ab74aa2622a5215f66f94d24a4f501e6fa36",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：This move allows you to understand the motivations of other dragons. You have to describe ",
+            "text_sha256": "587c261fcf4678911810702db0c4493fc43b2fb584b98352e88cf7490d3dca48",
+            "block_id": "core:p062:l012"
+          }
+        ]
       },
       {
         "id": "study:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "6217549fdad3c3c8fb1c0fc4622a7407ab2b38f1d42446e7f3f1c875c66f4832",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：The DM will tell you what you learn, but it might be subtle. For example, you might pick u",
+            "text_sha256": "05a476abaac6ff81e449845c6825050c85399acd35d66df1056432972ace16e1",
+            "block_id": "core:p062:l013"
+          }
+        ]
       },
       {
         "id": "study:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "9868fdfb3f4beea418ad18ad1afbeccfd5e171ab994b60389a28e441ded5339a",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：Morning the Warrior is trying to figure out Hassun, a charismatic prankster. Morning narro",
+            "text_sha256": "01a9af6ad1064035eb4ab505015314b5e3f466f86ecf6b256b08aa617dd82ffb",
+            "block_id": "core:p062:l014"
+          }
+        ]
       },
       {
         "id": "study:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "9f6f485b871866103265d30f7c2f629173fd123a362d5529ad631dfafc61ce87",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：...a hit (total of 7-9): Morning asks a question off the list, out-of-character: “Who is H",
+            "text_sha256": "978868da23d46b3ca06e8c1c49dbd4fbe185656391c44cebe252dd6b1bad78fc",
+            "block_id": "core:p062:l015"
+          }
+        ]
       },
       {
         "id": "study:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "111dadc4f405efda585c409f1bf1073e5470047f3aebf2d466a2ff44ae58869e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：...a total of 10+: Morning also wants to know “What could I learn from Hassun?” The DM say",
+            "text_sha256": "49010ee9dd88adc1648f30ea9faab8b464a3dc31963e0f4df982785e4e2c4615",
+            "block_id": "core:p062:l016"
+          }
+        ]
       },
       {
         "id": "study:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "afe9c6bc806c3d6c9c3bfec3aaf87056cdc17a6457fc2e9afcd53c890f46b17d",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：...a total of 6-: the DM describes Morning misreading Hassun’s intentions as being pure an",
+            "text_sha256": "dc0ce9a7548925669ddce5bc195392b822f88047cee0d55508157e530693e18c",
+            "block_id": "core:p062:l017"
+          }
+        ]
       },
       {
         "id": "study:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "9c295b7a2307ecbc4cce0a8bf6f1ce7e4ae92821bab2f8b4c0bc610db1d4dfea",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 62,
+            "locator": "印刷 63 頁：You can also study another clutchmate if you want to know what they are hiding from you in",
+            "text_sha256": "41986c7e06d8a1a4c834d01725c375147973dcfce6d3bb467a9c92f2423ed314",
+            "block_id": "core:p063:l004"
+          }
+        ]
       },
       {
         "id": "study:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "01ea8cd889e997024ea35521428471cbeb9b5af0e2856d97a1ccebf33a7dbebe",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 62,
+            "locator": "印刷 63 頁：Morning then wants to know how to get Luneth, a clutchmate, to go along with their plan to",
+            "text_sha256": "7dfa64886fa77c6139360e4f69f89ffe706f89004d8bc295db0cf0d09ba2426b",
+            "block_id": "core:p063:l005"
+          }
+        ]
       },
       {
         "id": "study:p010",
         "field": "paragraphs",
         "index": 9,
         "target_sha256": "321971dbe48deb0d1e4c41865d039f95b360638dfc497c5834a9f60a38d1a46b",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 62,
+            "locator": "印刷 63 頁：…a hit (total of 7-9): Morning asks “How can I get your character to ditch Hassun in the w",
+            "text_sha256": "d633329a43e64239013d15f7430bf9092cb53854f874d09057a36f38bb749ee2",
+            "block_id": "core:p063:l006"
+          }
+        ]
       },
       {
         "id": "study:p011",
         "field": "paragraphs",
         "index": 10,
         "target_sha256": "fbf5edba6d9058280b15144c9d5c0a2e9b9facba430720a022505790ac31cb17",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 62,
+            "locator": "印刷 63 頁：…a total of 10+: Morning asks a second question from the list. Knowing what it would take ",
+            "text_sha256": "f8d563b76eca2f7e971822ebcc32ec78c01a66f1a7d5f32ddebc79f0928681b8",
+            "block_id": "core:p063:l007"
+          }
+        ]
       },
       {
         "id": "study:p012",
         "field": "paragraphs",
         "index": 11,
         "target_sha256": "a8d44066354dd3739f5812bd1cd68aff2114d1da180cc3c1ef7dd433b31ca292",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 62,
+            "locator": "印刷 63 頁：…a total of 6-: the DM turns the move back on Morning and tells Luneth that dre can ask a ",
+            "text_sha256": "1dfc047c63f917eb43ae5d5fce3bce869a9b5cd09afc46721f0dbb13bd5b9c22",
+            "block_id": "core:p063:l008"
+          }
+        ]
       },
       {
         "id": "study:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "ef0af047889f99d37679d9cd3282d87e96a16494b3c782fa5c853a6086caf40c",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：What is your character hoarding?",
+            "text_sha256": "d5915965e95b98b8a14ac9ed70c20ad88ae9e27007c224681afe98e89f0a3f1b",
+            "block_id": "core:p062:l007"
+          }
+        ]
       },
       {
         "id": "study:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "1ea5364a64ab1cde586b8034e7ab6ae7d61c61cd3d577e03c309bca39f85da93",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：Who are your dragon holding a grudge against?",
+            "text_sha256": "6ce2ec010324e62ff8b33260b16129f12275f7f0100c2485baab54ef4d49eb2b",
+            "block_id": "core:p062:l008"
+          }
+        ]
       },
       {
         "id": "study:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "2531ee7356a91233e0dba61623f7e09c8b5023f3411f133d6f3fdf35058a1dd8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：What could I learn from your dragon?",
+            "text_sha256": "98a58377e9d77d703361c1a55af9bd79c313ebf48e74a1729a4a0c739bb2074c",
+            "block_id": "core:p062:l009"
+          }
+        ]
       },
       {
         "id": "study:b004",
         "field": "bullets",
         "index": 3,
         "target_sha256": "b8a5b727e53e110ab81a794150a8bb2fefc54f8440e90de7b262daa535b3d7e8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：What does your dragon wish I’d do for you?",
+            "text_sha256": "46e3f16eac289bc0349e1d999463d2814dd0fcdc3c252974a5d8dbf8f2162a01",
+            "block_id": "core:p062:l010"
+          }
+        ]
       },
       {
         "id": "study:b005",
         "field": "bullets",
         "index": 4,
         "target_sha256": "985a2c52606b12d6495992146cf5ef2a6dbe0306b5f9fca1980e3d4ed00551bc",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 61,
+            "locator": "印刷 62 頁：How could I get your dragon to  ?",
+            "text_sha256": "6deb6a0a844ae4175f49c44a49d768f81c79ca30a505b6946447f0ae75e1f9ba",
+            "block_id": "core:p062:l011"
+          }
+        ]
       }
     ],
     "survey": [
@@ -2158,98 +3290,232 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "82781b6fc270b78f996c2a706e12215b8c7d2889b6c535f6a2dec6d295676509",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：When you spend a moment to survey an ancient or arcane area, roll +Cunning.",
+            "text_sha256": "a8dd31bb3adb0b9928e695c4e08fb9958fc3405a66d091a92c5038f806ff8571",
+            "block_id": "core:p064:l005"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：On a 10+, ask 2. On a 7–9, ask 1.",
+            "text_sha256": "38eeaa3f2cc345cde05ce59f1eeb3bd5925229fcdd6b56b585f75c6ecbf5a371",
+            "block_id": "core:p064:l006"
+          }
+        ]
       },
       {
         "id": "survey:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "1ea06b5bac1e4f993c45f2a5172588bb58c0051e708677ecdd7d3b25bf3016bf",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：This move gives you the opportunity to assess any ancient or arcane areas that you come ac",
+            "text_sha256": "0b328203408e608b6c0c389534f86582b8424fa78cfe0d18b9bab2dcf8216195",
+            "block_id": "core:p064:l012"
+          }
+        ]
       },
       {
         "id": "survey:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "8993be773aec2d524463a78f793090a5f1969e18b88ed1c34b98062fc3cc78da",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：Whenever your DM describes something mysterious or ancient, it is an opportunity for you t",
+            "text_sha256": "685b493b74bf5229a62952c80d32b41a14f8a2c8b9beb8455164a28baccf4f5a",
+            "block_id": "core:p064:l013"
+          }
+        ]
       },
       {
         "id": "survey:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "7212c92ac4ee0ff72531dc9e8cd6dcb32b6cbf7b38efda70fd9a445bc1450875",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：How your dragon looks when dre surveys is up to you, but this move is triggered when you d",
+            "text_sha256": "1d5e1d89c0b34163cecd39a5f88e3c1cca3f95e228aac416ac3f42dc96b6a742",
+            "block_id": "core:p064:l014"
+          }
+        ]
       },
       {
         "id": "survey:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "f7d737bd5ca4e51770ce7aeccd2e3dea1407dcf9c117eae9e17ca456dda6173c",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：Keep in mind, this is only for ancient or arcane areas—this move isn’t triggered if you’re",
+            "text_sha256": "420312949c1d42631005d6898483665919a3f28894c4f7dd8365181ebac82a4f",
+            "block_id": "core:p064:l015"
+          }
+        ]
       },
       {
         "id": "survey:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "0d3a6ec391c2a902c3a1f5b7c9a26fa244fd02d04ba50d5be62fd61236f14910",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 64,
+            "locator": "印刷 65 頁：The DM describes the ruins of an old temple, overgrown with foliage and covered in spires ",
+            "text_sha256": "d66369bd6d345dd25e841d53edcda4210e3fabdbfc91d3ccd7ecaafdb9398768",
+            "block_id": "core:p065:l004"
+          }
+        ]
       },
       {
         "id": "survey:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "45afe5dc233f4fdc82f42c6914cc1585939e8cfd2df28437c1282a361b03dbb1",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 64,
+            "locator": "印刷 65 頁：…a hit (total of 7-9): Talon asks one question from list, “Who else knows of this place?” ",
+            "text_sha256": "952fdc75234fe7fcfef1c129d9ea0fbe11b315454c879cb92ac8a9fd515a2574",
+            "block_id": "core:p065:l005"
+          }
+        ]
       },
       {
         "id": "survey:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "f01e98f13c12ba2d2a24adb712a5778b06584e2630386a06fad409cdb53f3c71",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 64,
+            "locator": "印刷 65 頁：…a total of 10+: Talon asks another question from the list. Dre asks, “What here harbors d",
+            "text_sha256": "64d82b0f902c03d15b4d9679c9abb172ba125bcdee7d86d68e8e2cc494120f38",
+            "block_id": "core:p065:l006"
+          }
+        ]
       },
       {
         "id": "survey:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "6772b1eec7e57d3f92eaf8a2922626240df06b7bc36de1d9a9a258ccbc5a83f4",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 64,
+            "locator": "印刷 65 頁：…a total of 6-: the DM describes a frightening roar that billows out from a chamber that T",
+            "text_sha256": "4f66b1b33d19769c3d187cdb15e4f19eb4e42b037c42d3b2188ca79f2abdd9e3",
+            "block_id": "core:p065:l007"
+          }
+        ]
       },
       {
         "id": "survey:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "6257e9b893422b666c6c0d09fecfc46877acc01404786d485e2563d98a1a1666",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：What resources does this place offer?",
+            "text_sha256": "4410af3fd2aba35f079623da1b1af195b7bcf62ef6ef458f7b4ef84dde428b3e",
+            "block_id": "core:p064:l007"
+          }
+        ]
       },
       {
         "id": "survey:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "4c295ae43a215c8ef5a1bd504d3cff039222ccf68ac08ce6bfff6539693aa873",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：How can I gain access to this place’s secrets?",
+            "text_sha256": "c8f2817bbd90c2b94910456fc97c82f9ad6474967e2a773938043a900d68e200",
+            "block_id": "core:p064:l008"
+          }
+        ]
       },
       {
         "id": "survey:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "313ce2844c65694067b06c72ee9e3f6762bd80605f5e90c4a882885bc557f155",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：What here harbors Darkness?",
+            "text_sha256": "b1a74909e924fdc8cd44e9daa47307a8ef2c5f6dc8d5c506533edc1df1b0af0b",
+            "block_id": "core:p064:l009"
+          }
+        ]
       },
       {
         "id": "survey:b004",
         "field": "bullets",
         "index": 3,
         "target_sha256": "1ea9afe2e42235f4dfe34d6409d43539cd58f1a2a4feaae8cdaf03b43da7bce4",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：Who else knows of this place?",
+            "text_sha256": "aeefa4fb0f239778d9da81deb0a4b25a5ab9376f85079cb43386643c133cdea1",
+            "block_id": "core:p064:l010"
+          }
+        ]
       },
       {
         "id": "survey:b005",
         "field": "bullets",
         "index": 4,
         "target_sha256": "85ddecd987419bd6f880933f139f483bea2d0779db98dcec75e194adb50a0868",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 63,
+            "locator": "印刷 64 頁：Are we alone?",
+            "text_sha256": "a3cf3e88f287e3333e954c3be74672aec68bdac6f91e3a0ff4455a1b3e076b4b",
+            "block_id": "core:p064:l011"
+          }
+        ]
       }
     ],
     "moon-magic": [
@@ -2258,98 +3524,248 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "41fe9c44e9a98fda7796a56a7f63479c8b72d4c311a775da34cccf3c5bbc4c52",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：When you call upon the magic of the moons, roll +Friendship Gems Returned. On a 10+, apply",
+            "text_sha256": "3021e110a2daef5d869a55844be23e6c3b3cd294e8e1336c925f598480824534",
+            "block_id": "core:p066:l005"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：The magic is exceptionally powerful.",
+            "text_sha256": "5f4f24af271753d8568707763a7ba99a787ac1e410fe2e005c4f0d368cda064a",
+            "block_id": "core:p066:l006"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：The magic remains within your control.",
+            "text_sha256": "e163733b023f7e14af461715ac066781583e771225823c74c29a86e3c9571a5c",
+            "block_id": "core:p066:l007"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：On a miss, the moons act as they will, without your guidance.",
+            "text_sha256": "b68ae5580a4678248db63f02cd174ae3b9da48a833d525d2818a3ca1b96abcfa",
+            "block_id": "core:p066:l008"
+          }
+        ]
       },
       {
         "id": "moon-magic:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "3ed941b5b521b56ccc7349bbb6701dc324208682f129cf51829602a62c2812dc",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：Moon magic is flexible and freeform; you can call forth any number of effects based on whi",
+            "text_sha256": "83c114f75782b8c45a4777f0722bd3227afe8235c9c161523f5463b367ff208a",
+            "block_id": "core:p066:l009"
+          }
+        ]
       },
       {
         "id": "moon-magic:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "a6b6a3c6a4c24178a17c23d3e7478c61684935085d1a196fcda2c2c3e431201f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：When you call upon the magic of the moons, choose which moon you are asking for help. For ",
+            "text_sha256": "3ad3b6e326ff26ab762f45c5260678e441d1f3b33d88616068af4df83d7eba58",
+            "block_id": "core:p066:l010"
+          }
+        ]
       },
       {
         "id": "moon-magic:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "65ac0edb8e5ecb8b984ad2c1c83652109497d16b7b667239b3f2fad3c8910434",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：If you don’t pick one of the options listed, it’s assumed that it doesn’t happen, i.e. not",
+            "text_sha256": "3698ab8494f635c49c147d2f5f37bf2c5ddd78b582fec6645fe08eb410701daf",
+            "block_id": "core:p066:l011"
+          }
+        ]
       },
       {
         "id": "moon-magic:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "6bc4ea179d9730644c02a58a1476cce446864d0ea9f204d9f10270c17c12080a",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 65,
+            "locator": "印刷 66 頁：An earthquake from a bearded dragon’s angry stomping threatens a Mystic as the ground bene",
+            "text_sha256": "9d78d1b4dd7fed7e6a8317510137cfda8dc0e44b6165792b734661e79a21a60b",
+            "block_id": "core:p066:l012"
+          }
+        ]
       },
       {
         "id": "moon-magic:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "f659fbf0c20208b1a3f66de5a02bcf51f4255e5ded05edc40c0d811c5ca434c8",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 66,
+            "locator": "印刷 67 頁：The DM asks Spirit what it looks like when dre calls upon the moon and what dre is trying ",
+            "text_sha256": "25964049283ef6c83c1025abe309b35183435e7d21d33db42e92b259e0f28d25",
+            "block_id": "core:p067:l004"
+          }
+        ]
       },
       {
         "id": "moon-magic:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "40fc59e31ff40b2abf840eedd44257c83a12378c457da9681b7947e1ab2f558f",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 66,
+            "locator": "印刷 67 頁：…a total of 10+: Spirit gets both options! “The magic is exceptionally powerful” and “the ",
+            "text_sha256": "9508b68ae63f59d6fa5e9a692fbe4459d693871c4f377254e51c7b280ac00a63",
+            "block_id": "core:p067:l005"
+          }
+        ]
       },
       {
         "id": "moon-magic:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "4584257d597510c420425f4bdf632c44375bf9309c2a6c25edda0aea5c930af5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 66,
+            "locator": "印刷 67 頁：…a total of 7-9: Spirit can only choose one option from the list and chooses to have the m",
+            "text_sha256": "f52fd6270a9366e891b3acfe4e088e899615fcd157877b287e9e7069102f8dca",
+            "block_id": "core:p067:l006"
+          }
+        ]
       },
       {
         "id": "moon-magic:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "311d2744ad9519ccbd40e5c3ca47319786795e546e9aac5c09378d24389c76f0",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 66,
+            "locator": "印刷 67 頁：…a total of 6-: the DM describes the Mystic toppling over as Spirit barrels into it, the g",
+            "text_sha256": "152d7464292666682639ad0f0d86c022cc9feb2de3116966c38c2cc792e0f913",
+            "block_id": "core:p067:l007"
+          }
+        ]
       },
       {
         "id": "moon-magic:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "53abb3a6a900c3eff9ffad82332ba26fc2d35505d8d7490211fd608ec3e358b5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 28,
+            "locator": "印刷 29 頁：Void Moon whose energy lies in the domain of negation and deflection.",
+            "text_sha256": "c1053c85747b4fa8419e4b5ea1dd360106f7d257525922e6a116f8c2c8f1438c",
+            "block_id": "core:p029:l009"
+          }
+        ]
       },
       {
         "id": "moon-magic:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "2065d23d25f97fd2a1edf2382e0e3939d10e00d1fd1b3630dcf4948498c44429",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 28,
+            "locator": "印刷 29 頁：Liberty Moon whose power lies in the domain of purification and freedom;",
+            "text_sha256": "06d79fbae255ea28ed1afff61509ea1d347a688e66cc8cb96d27d94ab1abfd24",
+            "block_id": "core:p029:l005"
+          }
+        ]
       },
       {
         "id": "moon-magic:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "480b1b3dd16a1f063208f23d2dbab9fdac2277be3f0035d910dbf1fe9205a3a9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 28,
+            "locator": "印刷 29 頁：Stone Moon whose strength lies in the domain of protection and resilience;",
+            "text_sha256": "f05c9121ffef75c62cae459eaf99a052424d0b8e69634a37f83c86020af6905f",
+            "block_id": "core:p029:l007"
+          }
+        ]
       },
       {
         "id": "moon-magic:b004",
         "field": "bullets",
         "index": 3,
         "target_sha256": "30cbcae2113117ce9217ebd68341856bf177adfed67cacf8d8dbe93618745f46",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 28,
+            "locator": "印刷 29 頁：Spirit Moon whose vigor lies in the domain of growth and healing;",
+            "text_sha256": "ddc45b040a98799ed07614747521e6b006d263a4c47d6c37d40dd40e534d50b9",
+            "block_id": "core:p029:l006"
+          }
+        ]
       },
       {
         "id": "moon-magic:b005",
         "field": "bullets",
         "index": 4,
         "target_sha256": "9304d9f7de2f0017e5f91edd45bbd92fc1baeeb3bd8b1f95e5687d9ed865a6fc",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 28,
+            "locator": "印刷 29 頁：Storm Moon whose fortitude lies in the domain of force and chaos;",
+            "text_sha256": "653a54078a8d177d1efd376934545912da66fca4f8c6aceb343ca5a98c28adba",
+            "block_id": "core:p029:l008"
+          }
+        ]
       }
     ],
     "shadow-magic": [
@@ -2358,70 +3774,160 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "1fddc15708aaf8fe7e3725f07d21053074d44686460b6ab948c043433ee93dcf",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 67,
+            "locator": "印刷 68 頁：When you give in to the Darkness, mark a Shadow and roll +Shadows Marked. On a 10+, you ha",
+            "text_sha256": "c37e8b821684b247e00f61339ca1ff6f79be57a7e3f2d4bd875425f9b5296dba",
+            "block_id": "core:p068:l005"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "9be835ca1ed28b0c321767bcefac56a005ac57dac38d02bdbba655434765dce3",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 67,
+            "locator": "印刷 68 頁：The Darkness can grant great power: a dragon can wield shadow magic with the fury of the m",
+            "text_sha256": "b1fa221d2d9df20dca2b47c1af4bddab145fdb74a2a49e5f148ed4f4f574de26",
+            "block_id": "core:p068:l006"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "ae9b07fe006491c3fe61da6e0a013b6593a8199930d2a0d84feb255edfa09d39",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 67,
+            "locator": "印刷 68 頁：How you use the power of the Darkness is still up to you, but the risk still remains that ",
+            "text_sha256": "4da15e7bda49b96bda7063f575708b4521c22c00d34e93605c07bbe76bd3aa86",
+            "block_id": "core:p068:l007"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "81f3d0e2a977d123815ec00ca0e952c5b7ff9506642b2f3286d9e5639845b5f5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 67,
+            "locator": "印刷 68 頁：Dragons from all over Dragonia make pilgrimages to visit the crystal chimes, a natural gro",
+            "text_sha256": "fcbbb3f8b011c028b66d46ffc2113ca5e62598b26008276db88d2da258b86c66",
+            "block_id": "core:p068:l009"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "fbc2fc6f99e9c1954435485d2eb1cdecb78b62cc941f00928953b792dcfbf974",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 67,
+            "locator": "印刷 68 頁：The DM asks Morning what it looks like when dre gives in to the Darkness. Morning says, “I",
+            "text_sha256": "284fe2c54181d6a22800ccf2ebe0627cce33ed376234088d08399447be07ee9c",
+            "block_id": "core:p068:l010"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "64f16aa8b43d9879e05e7ad3fbb737644326de9a8e8a3c6f80562b4c49900cb7",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 68,
+            "locator": "印刷 69 頁：Morning already has Fear and Anger marked, so dre marks Shame and rolls +3 Shadows to get…",
+            "text_sha256": "7183c11bb1f35c9ad768638ef51a67d982ceefcdb0a8bfc6d9c61366668b7536",
+            "block_id": "core:p069:l004"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "0f7c29ac6dfc403e6b272da3cefe0c5d0fe4e2ad167e5ad22a58b399ac18cb34",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 68,
+            "locator": "印刷 69 頁：…a total of 10+: The DM describes Morning’s total control of the shadow magic as dre beats",
+            "text_sha256": "969f3da3b3b5cf197da82d7203d8e7f95b222ec31ad31857f3e278b4eb64f85d",
+            "block_id": "core:p069:l005"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p008",
         "field": "paragraphs",
         "index": 7,
         "target_sha256": "bb1c80265cf3ce4400d42a1a9d9f65762b81f3f8d71ce83525441a37004ce318",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 68,
+            "locator": "印刷 69 頁：…a total of 7-9: The DM describes the shadow magic being a bit too powerful. The sun is bl",
+            "text_sha256": "80f0a55df8290e340059bf5c1a7e1d2c2a9e62ae29de0b0e8a9f8110adcdb63f",
+            "block_id": "core:p069:l006"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p009",
         "field": "paragraphs",
         "index": 8,
         "target_sha256": "0590b5328890da19f5cd9a28e8685e4d28f7c3bf0543adc8dbcca5af992e1d4a",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 68,
+            "locator": "印刷 69 頁：…a total of 6-: The Darkness chooses how to manifest without Morning’s guidance. The DM de",
+            "text_sha256": "299645ab7b466673e7c5c452692859e8487a1dbfb6eceeb534610de523272829",
+            "block_id": "core:p069:l007"
+          }
+        ]
       },
       {
         "id": "shadow-magic:p010",
         "field": "paragraphs",
         "index": 9,
         "target_sha256": "b7a1724e414246fc3801a5e04f54d74bd725a80154af1148848722947b2ea6e5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 68,
+            "locator": "印刷 69 頁：Unlike moon magic, the Darkness refuses to be bounded by categories or friendship gems. Ma",
+            "text_sha256": "3419ebe4fcaf3c0102e08ce1b7f74971e87ec124ad21c40b18ace73a1c4cbfd2",
+            "block_id": "core:p069:l008"
+          }
+        ]
       }
     ],
     "help-hinder": [
@@ -2430,49 +3936,120 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "484496ae20a08ddcade91587d1a5d2d8af62dec2be4dda888f96992365771aa2",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：When you help or hinder a clutchmate after they have rolled, roll +Friendship Gems (max +3",
+            "text_sha256": "d9bbc3a584b673a39298554a876517153cf520dd3aa788834cbc379a3f990b82",
+            "block_id": "core:p070:l005"
+          }
+        ]
       },
       {
         "id": "help-hinder:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "6da03383444c73496c52ffb6175964bef8241713096b136060f2c23f22b131d3",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：This move allows you to help your clutchmate...if the bonus or penalty you give them matte",
+            "text_sha256": "f70c9d3c56b4a7a91b049427a3579e6cddef81a8ee3a6d8100a7be557a7538a0",
+            "block_id": "core:p070:l006"
+          }
+        ]
       },
       {
         "id": "help-hinder:p003",
         "field": "paragraphs",
         "index": 2,
-        "target_sha256": "bee519e5dc8432f660ef25dc8fe1fe131c2027ef41d7e582180ba1de03c3b9f8",
-        "source_blocks": []
+        "target_sha256": "48bbfb414932b411c2646f78dd6217a5c32c692c0db0f4768963695edc1f536c",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：Helping or hindering requires you to roll +Friendship Gems (see page 50) because Friendshi",
+            "text_sha256": "bb9604dc80b41e77cec978106f6fbd17411649b746e5dda8448e3b4d5c3f2682",
+            "block_id": "core:p070:l007"
+          }
+        ]
       },
       {
         "id": "help-hinder:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "9c4e6fe018f12c9cc6a94b2a23f4d32d44e0ebfa4a9af844ef40000273db6de1",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：Hachiro the Academic is smoking out a hive of buzzlebunns to get at their cottonhoney. Hac",
+            "text_sha256": "15bb94a74fbda131cb352016d52e42622185ee5a62524ac50c5756b651f245a9",
+            "block_id": "core:p070:l008"
+          }
+        ]
       },
       {
         "id": "help-hinder:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "0eae6fd428f067293429cf70688a1086c5e1579571ca001d7623a0f9c9265550",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：...a total of 10+: the DM describes how the buzzlebunns are calmed by the smoke, hop out o",
+            "text_sha256": "5baef190b5602674516b8306aedce27afb7178eb261087a1acf4260a5717a9de",
+            "block_id": "core:p070:l009"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：marks a Shadow), but Luneth helps them get the cottonhoney!",
+            "text_sha256": "2da333877a805231ac6c55120ceffe1552c3ec6056fdacb3f7234f27bfc7f474",
+            "block_id": "core:p070:l010"
+          }
+        ]
       },
       {
         "id": "help-hinder:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "eb7d707b88cdbe81800b573ab708dd98c54efb13fb203e73b0e329ffd8ff9143",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：...a total of 7-9: the DM describes the buzzlebunns falling asleep, but not before both Ha",
+            "text_sha256": "8039edb39c74814571853a3cdb09d7eb15c9a2a08696add3a38c276af5d3ddc3",
+            "block_id": "core:p070:l011"
+          }
+        ]
       },
       {
         "id": "help-hinder:p007",
         "field": "paragraphs",
         "index": 6,
         "target_sha256": "c57269d42d5ffb45bbce839db0ee914406f1e7f31de7a19f8d8b14a8ca4271cd",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 69,
+            "locator": "印刷 70 頁：...a total of 6-: the DM describes how the smoke that Luneth is fanning at the hive makes ",
+            "text_sha256": "9fd9a24d9da160427ee4521de2d204482d46d30c7a1a414c0d5be53e4a5e9315",
+            "block_id": "core:p070:l012"
+          }
+        ]
       }
     ],
     "end-session": [
@@ -2481,70 +4058,168 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "a21413ffa51c1452a657b6095397bdf14b0a8a1dfac422026b4d7f3a4e4480f2",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：A typical session can run anywhere from 2 to 4 hours—unless you happen upon a great stoppi",
+            "text_sha256": "7aef1cf7fe2fb2dcb072a2e8612e3f64fd6167bd81c4742149d5f0ebc2af2a5c",
+            "block_id": "core:p071:l005"
+          }
+        ]
       },
       {
         "id": "end-session:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "e7b8e54882ed35a517c6873d89f44381f09b8112d6a302998393517265d9d436",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：What your clutch accomplishes will vary from session to session, but there is one move to ",
+            "text_sha256": "912c15dbe5087a2c88cb3a8e2c676ef0e993927488eb55400274e835dedde80f",
+            "block_id": "core:p071:l007"
+          }
+        ]
       },
       {
         "id": "end-session:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "207e8556168a8aba59b0a727ff7e807c0f89e2c37c97d9df1a57dfc012a97497",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：When you reach the end of a session or episode, look at your house obligations. If you ful",
+            "text_sha256": "f347b8eedb180d628593b3a2688f5682d89ede354e9092967177b3844300f77d",
+            "block_id": "core:p071:l008"
+          }
+        ]
       },
       {
         "id": "end-session:p004",
         "field": "paragraphs",
         "index": 3,
         "target_sha256": "f6f36c1b4f168401e2fb9df96893c3f3a867d4d5b137d0b2ac07e69a7ccaae81",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：Go around the table answering these questions individually:",
+            "text_sha256": "a7c0ea74db39ea98db718dda5b6d37c8cf31da585598eebc44f91b95ebca8f92",
+            "block_id": "core:p071:l009"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：As a clutch, answer these two questions:",
+            "text_sha256": "8f1463322fadb854cb161bdcd5fda383906306cfc89a17f908b6df1679d8d1bc",
+            "block_id": "core:p071:l012"
+          }
+        ]
       },
       {
         "id": "end-session:p005",
         "field": "paragraphs",
         "index": 4,
         "target_sha256": "68eabfb7b42bdddb75a35548bfdc3ddaa575968fa8b9a2a18338e67df66da249",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：For every question you answer “yes” to, mark an experience point and remind the group of w",
+            "text_sha256": "01d3c49a18ca339d11619a3d48107533402b9175b672dd4a3cbe6ef7cf5dd08e",
+            "block_id": "core:p071:l015"
+          }
+        ]
       },
       {
         "id": "end-session:p006",
         "field": "paragraphs",
         "index": 5,
         "target_sha256": "ce122cdef1f317bed1fd6995db1f7562ea17029670ac693fd4699b1c7cd541dd",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：Be as generous as you want with the situations that could fit. These are meant to help you",
+            "text_sha256": "1ea8778ea461f74fae4cc95742426aee9ae640840ec908a60ad28a680b377167",
+            "block_id": "core:p071:l016"
+          }
+        ]
       },
       {
         "id": "end-session:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "4e28da541cd6ff04cda40d6ec749dd79334575a3f4e71b62c46f7f3854ce94e9",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：Did you learn a lesson from a friend?",
+            "text_sha256": "e846008680381984d65315b92419223b48588510d942f44f7a45cf0061f07d12",
+            "block_id": "core:p071:l010"
+          }
+        ]
       },
       {
         "id": "end-session:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "fb050bde5f1a23be801b0d74bd7cac978e725b576f1828abaa38cbaf89af146e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：Did you help a friend solve a problem?",
+            "text_sha256": "9cdc849319e72042dccc12c7196e3d1b2a1b94eb5760eeb2df6a09269f73c400",
+            "block_id": "core:p071:l011"
+          }
+        ]
       },
       {
         "id": "end-session:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "e3b17b61d8e95c634b25e751d2251b924be11ac02f819f31c67fe7b5ffdf7d48",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：Did your clutch hold back or expel the Darkness?",
+            "text_sha256": "7ea5e9a285d52a08bcbf14610b953b57a55fef3a7d7300b7cde7b7ed7c707cc6",
+            "block_id": "core:p071:l013"
+          }
+        ]
       },
       {
         "id": "end-session:b004",
         "field": "bullets",
         "index": 3,
         "target_sha256": "43268a8ca880be06ca24061c4dd70af88392deca07ef038796d956744ea754eb",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 70,
+            "locator": "印刷 71 頁：Did your clutch move a dragon older than yourself to action?",
+            "text_sha256": "f238b7cec719ceacba428f94edd56ad023814a8c8331796769e7b125c906a82d",
+            "block_id": "core:p071:l014"
+          }
+        ]
       }
     ],
     "advancement": [
@@ -2553,14 +4228,40 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "50d48b231269a8f845db2834cea931de2e19d84f9360accd54ef77f5bf262963",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 71,
+            "locator": "印刷 72 頁：During a session, mark an experience point (XP) when you roll a miss (6-) or when a move t",
+            "text_sha256": "b8c235e7d40690f840cbcb4764d2b6bc05d780e97b4a8a019741ec9b689ef481",
+            "block_id": "core:p072:l005"
+          }
+        ]
       },
       {
         "id": "advancement:p002",
         "field": "paragraphs",
         "index": 1,
-        "target_sha256": "5c2063afc7424b1f6095dc319ecbcd5d1b28017aa0934994de8fe3a73b641e2c",
-        "source_blocks": []
+        "target_sha256": "777a27acfe4123a64f76fd1ce13a925783d5c79d248860dd27520fbc80ebf8f1",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 71,
+            "locator": "印刷 72 頁：As you mark XP, your track will eventually fill. When it does, erase it, and take an advan",
+            "text_sha256": "c642ee8dcd3729c749f8c6bc44254c5c9f7523934255d1d798cb223cb85e6fe4",
+            "block_id": "core:p072:l006"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 72,
+            "locator": "印刷 73 頁：There are five ages of a dragon lifespan. Each age bracket has special advancements that a",
+            "text_sha256": "c807a17cd9e73e0d3352ee8f2ed630a0c676c77c45c05ee60ade4dc4f81d6d41",
+            "block_id": "core:p073:l005"
+          }
+        ]
       }
     ],
     "adult-advancement": [
@@ -2569,21 +4270,48 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "285c41b644e595127fbefeb57c9eae12480218e681755b94c63eb61b7c129e45",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 72,
+            "locator": "印刷 73 頁：There are five ages of a dragon lifespan. Each age bracket has special advancements that a",
+            "text_sha256": "c807a17cd9e73e0d3352ee8f2ed630a0c676c77c45c05ee60ade4dc4f81d6d41",
+            "block_id": "core:p073:l005"
+          }
+        ]
       },
       {
         "id": "adult-advancement:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "e6ba3a9d448dbf0e70cbd7b2d25ab66033cc22426803e6eafa444227bc7cb8cb",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 72,
+            "locator": "印刷 73 頁：As you grow, your connection to the moons changes and shifts. Every time you take an adult",
+            "text_sha256": "ac07f46dbb894633279a63a21f7b9253df7b0bda4b7e3507cd18e805f381ce4e",
+            "block_id": "core:p073:l006"
+          }
+        ]
       },
       {
         "id": "adult-advancement:p003",
         "field": "paragraphs",
         "index": 2,
         "target_sha256": "b1b2f572d55f2175db0aae4d77ebdf6a4f2993e64fdf6ca84835953cc45ee99b",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 72,
+            "locator": "印刷 73 頁：When you take an Adult Advancement, make sure you describe what that looks like to your cl",
+            "text_sha256": "7bd90af336394a2ec88fd5e9e365965846cfab73c5a31d81ca5bc4d4edb9bd14",
+            "block_id": "core:p073:l007"
+          }
+        ]
       }
     ],
     "growth-long-toothed": [
@@ -2591,8 +4319,25 @@
         "id": "growth-long-toothed:p001",
         "field": "paragraphs",
         "index": 0,
-        "target_sha256": "c68e7afaf6b0701e4e41538b0cebd4ee753ee55bc31ec917dbc4010b42d902f9",
-        "source_blocks": []
+        "target_sha256": "dc501c3d827b0f47814c17c9a96940575a4c8da77d4f1610388f316f735f2f98",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 73,
+            "locator": "印刷 74 頁：As a Long-Toothed Dragon your teeth are longer and sharper than ever; you have severed you",
+            "text_sha256": "965326a2fed807bec587d1c33379c21494bf86b550d7834dc61b5ba20f80ae01",
+            "block_id": "core:p074:l009"
+          },
+          {
+            "book_id": "playbooks",
+            "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+            "pdf_page": 1,
+            "locator": "學者角色卡：ADULT ADVANCEMENT，前三個年齡的屬性升級上限",
+            "text_sha256": "d69eb0416f6e32718f9d0f2fb912dbe6397c59afc0cc7638aa83a287f5c855da",
+            "block_id": "playbooks:pdf001:stat-cap"
+          }
+        ]
       }
     ],
     "growth-raw-scaled": [
@@ -2600,8 +4345,25 @@
         "id": "growth-raw-scaled:p001",
         "field": "paragraphs",
         "index": 0,
-        "target_sha256": "0538dcaaa11e3ff4ad163a4c3174bf152af7c9dd1991b7f2d333bb6cd868bef1",
-        "source_blocks": []
+        "target_sha256": "dd6af7b5e2943185dc2624f59306d9874035834e8ab065fc7dc059d0a4d27bf3",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 73,
+            "locator": "印刷 74 頁：As a Raw-Scaled Drake your scales are still soft, but your bite is fierce. You start with ",
+            "text_sha256": "67113d7c0786ac3bb509b671df54ae9be12ebf59ff57927a3e66be25852466c8",
+            "block_id": "core:p074:l005"
+          },
+          {
+            "book_id": "playbooks",
+            "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+            "pdf_page": 1,
+            "locator": "學者角色卡：ADULT ADVANCEMENT，前三個年齡的屬性升級上限",
+            "text_sha256": "d69eb0416f6e32718f9d0f2fb912dbe6397c59afc0cc7638aa83a287f5c855da",
+            "block_id": "playbooks:pdf001:stat-cap"
+          }
+        ]
       }
     ],
     "growth-winged": [
@@ -2609,8 +4371,25 @@
         "id": "growth-winged:p001",
         "field": "paragraphs",
         "index": 0,
-        "target_sha256": "d8dbbd36e676970d398c6acd274350045e7f796d9026c6dd97b7301735d4c134",
-        "source_blocks": []
+        "target_sha256": "baa55ff54cc86558fa2ca2907c377b0a4038d4230c14defb6a516cb5eff16cdf",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 73,
+            "locator": "印刷 74 頁：As a Winged Drake your scales begin to harden; you have lost your connection to one of the",
+            "text_sha256": "874b8cdc6e0a5eada6e1a0aefd80c0b2737113994500480efdd88d40105fc669",
+            "block_id": "core:p074:l007"
+          },
+          {
+            "book_id": "playbooks",
+            "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+            "pdf_page": 1,
+            "locator": "學者角色卡：ADULT ADVANCEMENT，前三個年齡的屬性升級上限",
+            "text_sha256": "d69eb0416f6e32718f9d0f2fb912dbe6397c59afc0cc7638aa83a287f5c855da",
+            "block_id": "playbooks:pdf001:stat-cap"
+          }
+        ]
       }
     ],
     "growth-bearded": [
@@ -2618,8 +4397,17 @@
         "id": "growth-bearded:p001",
         "field": "paragraphs",
         "index": 0,
-        "target_sha256": "496f6e5100b2f38ccb2c04104782c87a587a7d40450d54aaae044ef0d2e82a80",
-        "source_blocks": []
+        "target_sha256": "fb5231f4f11ed9062d35de4e78b689f964a5e64ea6d3f4a436b9514164cddc69",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：As a Bearded Dragon your scales are scarred and hard. You have sacrificed your connection ",
+            "text_sha256": "cfde4a066b4503e9f03449596e8651e95ba191e9ea89e2916807c96d26f1f2ee",
+            "block_id": "core:p075:l005"
+          }
+        ]
       }
     ],
     "house-rituals": [
@@ -2628,49 +4416,160 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "44c4dce350f37a9b0760d5c1cef17169097fe8fa1d96aef82eba949f7092a681",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：As a Bearded Dragon your scales are scarred and hard. You have sacrificed your connection ",
+            "text_sha256": "cfde4a066b4503e9f03449596e8651e95ba191e9ea89e2916807c96d26f1f2ee",
+            "block_id": "core:p075:l005"
+          }
+        ]
       },
       {
         "id": "house-rituals:b001",
         "field": "bullets",
         "index": 0,
         "target_sha256": "3025e49b9ba967ee12890ed3ec36b43e1a93803792acf06324b1a0fba5c06071",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：Brynback, the House of Steel, bestows upon you…",
+            "text_sha256": "be663604ecd6a5c7e6e4bcb67aefa60e5e94d67457576258a185fa0b8ad6330a",
+            "block_id": "core:p075:l006"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：The Thunder of Dragonia: When you roar to the heavens with the primal force of House Brynb",
+            "text_sha256": "57ed4fc8274956e9aabeabed54fd94cd51a6cc9cfe8853696c7f1e58dfb1368e",
+            "block_id": "core:p075:l007"
+          }
+        ]
       },
       {
         "id": "house-rituals:b002",
         "field": "bullets",
         "index": 1,
         "target_sha256": "248e308f99c2ee6df1b28688bb65b758be37519e1d53647c01afc8bcf5f539fa",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：Kebros, the House of Ruby, bestows upon you…",
+            "text_sha256": "41639a609840c8c1bfcba5b162605a24852933408881bcfb28b01a3e91131d61",
+            "block_id": "core:p075:l008"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：The Veil of Ignorance: When you draw a circle in the dirt and mark it with House Kebros’s ",
+            "text_sha256": "e9e3f7dffa1f8aa9d6d9e7012e7c46636d2fbecba5ddf929360ae8e2b68f0520",
+            "block_id": "core:p075:l009"
+          }
+        ]
       },
       {
         "id": "house-rituals:b003",
         "field": "bullets",
         "index": 2,
         "target_sha256": "5cc9bd9eaa498342b3146a95b12d715976e353298bbd04768a180723e2f1378e",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：Myndoth, the House of Oak, bestows upon you…",
+            "text_sha256": "0189556653a834b3569de2f8455f035d586e41511522dfbde0faf2fc1812bd69",
+            "block_id": "core:p075:l010"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：The Light of Truth: When you light a candle bearing the mark of House Myndoth, the light f",
+            "text_sha256": "2cdd1ab40e1f8b8ad29f23bf5d4a1b18ab7f15145446b8ebf999c1b96035d223",
+            "block_id": "core:p075:l011"
+          }
+        ]
       },
       {
         "id": "house-rituals:b004",
         "field": "bullets",
         "index": 3,
-        "target_sha256": "e18453c0e847c66fe328dede8439cf9b5a47472af734fc3fcd5093427a7fd892",
-        "source_blocks": []
+        "target_sha256": "b84de5301d3a40d9550205a404c8a187fcf7ef7d20248123b59feb84d036a069",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：Rothscar, the House of Gold, bestows upon you…",
+            "text_sha256": "07d2c07131b4cad73adba61e97715c771b6114e20f485ab1a1c454a3761aa7c1",
+            "block_id": "core:p075:l012"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 74,
+            "locator": "印刷 75 頁：The Sound of Perfection: When you create a new puzzle in silence, the rhythm of your heart",
+            "text_sha256": "8af7936fd5bf240b47436ea3e12c8745f73fa119f1a7bfe8dc29374eb666b7ac",
+            "block_id": "core:p075:l013"
+          }
+        ]
       },
       {
         "id": "house-rituals:b005",
         "field": "bullets",
         "index": 4,
         "target_sha256": "c300eaafd4c075bcff70289c658c71073aacff392dd4f4ad312ac27cbca51710",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 75,
+            "locator": "印刷 76 頁：Semscale, the House of Jade, bestows upon you…",
+            "text_sha256": "f765423d7b204be9e9e7ac1e4695283a9239152428754e0fbfe326e60534d277",
+            "block_id": "core:p076:l004"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 75,
+            "locator": "印刷 76 頁：The Breath of Time: When you whisper the name of House Semscale into the ears of the dead,",
+            "text_sha256": "49ace13853de9070d59c46311b0866c4f816cefb6974e20e8a65ee5eecb5bfb6",
+            "block_id": "core:p076:l005"
+          }
+        ]
       },
       {
         "id": "house-rituals:b006",
         "field": "bullets",
         "index": 5,
         "target_sha256": "4971a7b0813afe295a16ef947acb74d2884ef3db81adaa850c929f64ac76fcd5",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 75,
+            "locator": "印刷 76 頁：Tessith, the House of Diamond, bestows upon you…",
+            "text_sha256": "3fb410551323ce40092c97d37f83df088ee9497fac26484bf5814f8f27ff0f01",
+            "block_id": "core:p076:l006"
+          },
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 75,
+            "locator": "印刷 76 頁：The Avatar of Nature: When you make an offering to the Wild in the name of House Tessith, ",
+            "text_sha256": "96a15517e0bee189ece8fb10424ace19400f9b91c5d7392770f76af4e73f0274",
+            "block_id": "core:p076:l007"
+          }
+        ]
       }
     ],
     "growth-elder": [
@@ -2678,15 +4577,33 @@
         "id": "growth-elder:p001",
         "field": "paragraphs",
         "index": 0,
-        "target_sha256": "1cfb23bcb4eec7b95004f549010e91998b10b995809115c425773a1d529b39de",
-        "source_blocks": []
+        "target_sha256": "8baff4584b3a72a7a65d07b9740675c0cd5552a91bad679b30da1c26db9867b7",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 75,
+            "locator": "印刷 76 頁：As an Elder Dragon your body is as mightier than any weapon ever forged. And with only one",
+            "text_sha256": "b5c5c90de471a946bd2f27251ed6717a3d0825cdfc095774546414e2c7075a6d",
+            "block_id": "core:p076:l009"
+          }
+        ]
       },
       {
         "id": "growth-elder:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "0e4a5ce742566ad2159e3d26e91b8d4285ada7da5a9de520075150edd8700f66",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 75,
+            "locator": "印刷 76 頁：When you retire as an Elder Dragon you can arise to become either an Ancient or a Mystic. ",
+            "text_sha256": "4bdeed9db5cfcd598c6f50198fec46a54c98ab025e2ad0f0d06a2f5666f767fa",
+            "block_id": "core:p076:l010"
+          }
+        ]
       }
     ],
     "ascension": [
@@ -2695,21 +4612,48 @@
         "field": "paragraphs",
         "index": 0,
         "target_sha256": "936368984e4489048011c8d0502c98fc07c18cd67ca2ef550a2265c58e2b1300",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 76,
+            "locator": "印刷 77 頁：Ancients become avatars of their moon and wander the earth unable to speak; they can only ",
+            "text_sha256": "ad5c307a4272b9aa22229c39c39df86e8093bcf378d01af5fbc11249dbe2363c",
+            "block_id": "core:p077:l005"
+          }
+        ]
       },
       {
         "id": "ascension:p002",
         "field": "paragraphs",
         "index": 1,
         "target_sha256": "5768db33ab414c4c431ed89853be99a5b29471a0d126b418a8e876a7b1d5e869",
-        "source_blocks": []
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 76,
+            "locator": "印刷 77 頁：Mystics turn to moonstone and sleep as gigantic statues that, when asked, provide guidance",
+            "text_sha256": "15cd55fdcddb8ea9a0dfa7d0ba848d38d213b99e51f8f658fbea01d2c01e19f8",
+            "block_id": "core:p077:l007"
+          }
+        ]
       },
       {
         "id": "ascension:p003",
         "field": "paragraphs",
         "index": 2,
-        "target_sha256": "dd9131164cf91f63f64ae9ec6f509bf9ebb2f444323f2aab2871b2ce549bbc00",
-        "source_blocks": []
+        "target_sha256": "4c8a86d475cd0f7da8b0e092f633027b5d6fd7925e4de313fc3f02a8bc38cd19",
+        "source_blocks": [
+          {
+            "book_id": "core",
+            "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+            "pdf_page": 76,
+            "locator": "印刷 77 頁：Whether you choose to ascend and become a guardian Ancient or a wise Mystic, your dragon’s",
+            "text_sha256": "9843b1e587783a38fb675256c64b81358ff525110430b925a81eb25f69c4a97f",
+            "block_id": "core:p077:l008"
+          }
+        ]
       }
     ],
     "gm-agendas": [

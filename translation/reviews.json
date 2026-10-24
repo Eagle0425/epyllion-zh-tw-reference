@@ -319,7 +319,25 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 02",
+        "content_sha256": "42ab022879353ea364d3b674b3072bace4d75eeaac43e5b2e6adab696ebca1b2",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p043:l002",
+          "core:p043:l003",
+          "core:p043:l005",
+          "core:p043:l006",
+          "core:p043:l007",
+          "core:p044:l005",
+          "core:p044:l006",
+          "core:p044:l007"
+        ],
+        "scope": "逐段原文初校：動作觸發、擲骰、寶石持有／返還、暗影與恢復。尚未獨立複核。"
+      }
     },
     "moves-fiction": {
       "content_sha256": "c344816833e25c84f70dbff692e79f936f889316fa3741cb522b7764b7042393",
@@ -327,7 +345,28 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 02",
+        "content_sha256": "c344816833e25c84f70dbff692e79f936f889316fa3741cb522b7764b7042393",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p045:l005",
+          "core:p045:l006",
+          "core:p045:l007",
+          "core:p045:l008",
+          "core:p045:l009",
+          "core:p046:l005",
+          "core:p046:l006",
+          "core:p046:l007",
+          "core:p046:l008",
+          "core:p046:l009",
+          "core:p046:l011"
+        ],
+        "scope": "逐段原文初校：動作觸發、擲骰、寶石持有／返還、暗影與恢復。尚未獨立複核。"
+      }
     },
     "dice": {
       "content_sha256": "27d870321832fc843e006f251142e84a9c9af4eb1838d4d17a3290b4ce39db04",
@@ -335,7 +374,29 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 02",
+        "content_sha256": "27d870321832fc843e006f251142e84a9c9af4eb1838d4d17a3290b4ce39db04",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p047:l005",
+          "core:p047:l006",
+          "core:p047:l007",
+          "core:p047:l008",
+          "core:p047:l009",
+          "core:p047:l010",
+          "core:p047:l011",
+          "core:p047:l012",
+          "core:p047:l013",
+          "core:p048:l004",
+          "core:p048:l005",
+          "core:p048:l006"
+        ],
+        "scope": "逐段原文初校：動作觸發、擲骰、寶石持有／返還、暗影與恢復。尚未獨立複核。"
+      }
     },
     "gems": {
       "content_sha256": "7b0ff0ae307b3f847cff76cb7f520d52acd079c3c875fb72cc87a676d420a706",
@@ -343,7 +404,25 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 02",
+        "content_sha256": "7b0ff0ae307b3f847cff76cb7f520d52acd079c3c875fb72cc87a676d420a706",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p049:l005",
+          "core:p049:l006",
+          "core:p049:l008",
+          "core:p049:l009",
+          "core:p049:l010",
+          "core:p050:l005",
+          "core:p050:l006",
+          "core:p050:l008"
+        ],
+        "scope": "逐段原文初校：動作觸發、擲骰、寶石持有／返還、暗影與恢復。尚未獨立複核。"
+      }
     },
     "shadows": {
       "content_sha256": "0fe19b10139bf9edc0c29212e1ce4479f7dd6099dfa8dc4241536a7b56417f63",
@@ -351,23 +430,82 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 02",
+        "content_sha256": "0fe19b10139bf9edc0c29212e1ce4479f7dd6099dfa8dc4241536a7b56417f63",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p051:l005",
+          "core:p051:l007",
+          "core:p051:l008",
+          "core:p051:l010",
+          "core:p051:l011",
+          "core:p051:l012",
+          "core:p051:l013",
+          "core:p051:l014",
+          "core:p051:l015",
+          "core:p052:l004",
+          "core:p052:l005",
+          "core:p052:l006",
+          "core:p052:l007"
+        ],
+        "scope": "逐段原文初校：動作觸發、擲骰、寶石持有／返還、暗影與恢復。尚未獨立複核。"
+      }
     },
     "shadowself": {
-      "content_sha256": "7eeeac5f6a68012c19055629131982fb98974e0448ba9448679f62e153cc98d7",
+      "content_sha256": "6d72962984d62f37b61c33993fe123e04ca5a5dcd49ca2d76b220a2add0d0347",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 02",
+        "content_sha256": "6d72962984d62f37b61c33993fe123e04ca5a5dcd49ca2d76b220a2add0d0347",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p053:l005",
+          "core:p053:l006",
+          "core:p053:l007",
+          "core:p053:l008",
+          "core:p053:l009",
+          "core:p053:l010"
+        ],
+        "scope": "逐段原文初校：動作觸發、擲骰、寶石持有／返還、暗影與恢復。尚未獨立複核。"
+      }
     },
     "act-despite-danger": {
-      "content_sha256": "2477565d3aba1b6e2bcaeb7926957d08d578a9a5c7fd92d94563dd6e8057320a",
+      "content_sha256": "03e650cef6b098c7e36348c6adba8dbdeae2bb6d0967f3c2fbb5bb0e1990df36",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "03e650cef6b098c7e36348c6adba8dbdeae2bb6d0967f3c2fbb5bb0e1990df36",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p054:l005",
+          "core:p054:l006",
+          "core:p054:l007",
+          "core:p054:l009",
+          "core:p054:l010",
+          "core:p054:l011",
+          "core:p055:l004",
+          "core:p055:l005",
+          "core:p055:l006",
+          "core:p055:l007"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "stand-up": {
       "content_sha256": "b61eb335c5a6d2cafe240a3ca0d391ae8b4a74fbf138d2590b17effec7002cdf",
@@ -375,7 +513,35 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "b61eb335c5a6d2cafe240a3ca0d391ae8b4a74fbf138d2590b17effec7002cdf",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p056:l005",
+          "core:p056:l006",
+          "core:p056:l007",
+          "core:p056:l008",
+          "core:p056:l009",
+          "core:p056:l010",
+          "core:p056:l011",
+          "core:p056:l012",
+          "core:p056:l013",
+          "core:p056:l014",
+          "core:p056:l015",
+          "core:p056:l016",
+          "core:p057:l004",
+          "core:p057:l005",
+          "core:p057:l006",
+          "core:p057:l007",
+          "core:p057:l008",
+          "core:p057:l009"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "convince": {
       "content_sha256": "89c7358cd74f0911a8e226c6f614028e612b8874521602b738a80e211f198d3d",
@@ -383,7 +549,33 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "89c7358cd74f0911a8e226c6f614028e612b8874521602b738a80e211f198d3d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p058:l005",
+          "core:p058:l006",
+          "core:p058:l007",
+          "core:p058:l008",
+          "core:p058:l009",
+          "core:p058:l010",
+          "core:p058:l011",
+          "core:p058:l012",
+          "core:p058:l013",
+          "core:p058:l014",
+          "core:p059:l004",
+          "core:p059:l005",
+          "core:p059:l006",
+          "core:p059:l007",
+          "core:p059:l009",
+          "core:p059:l010"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "mislead": {
       "content_sha256": "ff9781f750d50e29b1040214a2fde604d129e5d3202966100c5198fe51acf411",
@@ -391,7 +583,24 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "ff9781f750d50e29b1040214a2fde604d129e5d3202966100c5198fe51acf411",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p060:l005",
+          "core:p060:l006",
+          "core:p060:l007",
+          "core:p061:l004",
+          "core:p061:l005",
+          "core:p061:l006",
+          "core:p061:l007"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "study": {
       "content_sha256": "8daef763d813c19683e047c08dd333a6d7133d46ab7d6f29f9f5139e81b0b34e",
@@ -399,7 +608,35 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "8daef763d813c19683e047c08dd333a6d7133d46ab7d6f29f9f5139e81b0b34e",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p062:l005",
+          "core:p062:l006",
+          "core:p062:l007",
+          "core:p062:l008",
+          "core:p062:l009",
+          "core:p062:l010",
+          "core:p062:l011",
+          "core:p062:l012",
+          "core:p062:l013",
+          "core:p062:l014",
+          "core:p062:l015",
+          "core:p062:l016",
+          "core:p062:l017",
+          "core:p063:l004",
+          "core:p063:l005",
+          "core:p063:l006",
+          "core:p063:l007",
+          "core:p063:l008"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "survey": {
       "content_sha256": "6a81a28b6337714566f4c13ec0d35c97d770d53efa8f292546e97310bf4a731e",
@@ -407,7 +644,32 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "6a81a28b6337714566f4c13ec0d35c97d770d53efa8f292546e97310bf4a731e",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p064:l005",
+          "core:p064:l006",
+          "core:p064:l007",
+          "core:p064:l008",
+          "core:p064:l009",
+          "core:p064:l010",
+          "core:p064:l011",
+          "core:p064:l012",
+          "core:p064:l013",
+          "core:p064:l014",
+          "core:p064:l015",
+          "core:p065:l004",
+          "core:p065:l005",
+          "core:p065:l006",
+          "core:p065:l007"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "moon-magic": {
       "content_sha256": "4227577f64e9fbf7b22684377b14c516fc49fbd841c3a32893ac61d6d8914679",
@@ -415,7 +677,34 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "4227577f64e9fbf7b22684377b14c516fc49fbd841c3a32893ac61d6d8914679",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p029:l005",
+          "core:p029:l006",
+          "core:p029:l007",
+          "core:p029:l008",
+          "core:p029:l009",
+          "core:p066:l005",
+          "core:p066:l006",
+          "core:p066:l007",
+          "core:p066:l008",
+          "core:p066:l009",
+          "core:p066:l010",
+          "core:p066:l011",
+          "core:p066:l012",
+          "core:p067:l004",
+          "core:p067:l005",
+          "core:p067:l006",
+          "core:p067:l007"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "shadow-magic": {
       "content_sha256": "569201b6f1478468d8e25c9a73550fc808bdf87090ed01ac3a8e02780ed3dbf5",
@@ -423,15 +712,53 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "569201b6f1478468d8e25c9a73550fc808bdf87090ed01ac3a8e02780ed3dbf5",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p068:l005",
+          "core:p068:l006",
+          "core:p068:l007",
+          "core:p068:l009",
+          "core:p068:l010",
+          "core:p069:l004",
+          "core:p069:l005",
+          "core:p069:l006",
+          "core:p069:l007",
+          "core:p069:l008"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "help-hinder": {
-      "content_sha256": "b54d7141fc0e207e2f6857721af621997d2bce6b34250650601a7f0f3eab6316",
+      "content_sha256": "248cbc3825e71b0c93712ebc65633626f7aae7f623a576bac797326ae853d1bb",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "248cbc3825e71b0c93712ebc65633626f7aae7f623a576bac797326ae853d1bb",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p070:l005",
+          "core:p070:l006",
+          "core:p070:l007",
+          "core:p070:l008",
+          "core:p070:l009",
+          "core:p070:l010",
+          "core:p070:l011",
+          "core:p070:l012"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "end-session": {
       "content_sha256": "d48b3fa49e3f0973cbacd42f9a42bee5735c63a2665ae842cbde5693fbdc9f8a",
@@ -439,15 +766,49 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "d48b3fa49e3f0973cbacd42f9a42bee5735c63a2665ae842cbde5693fbdc9f8a",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p071:l005",
+          "core:p071:l007",
+          "core:p071:l008",
+          "core:p071:l009",
+          "core:p071:l010",
+          "core:p071:l011",
+          "core:p071:l012",
+          "core:p071:l013",
+          "core:p071:l014",
+          "core:p071:l015",
+          "core:p071:l016"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "advancement": {
-      "content_sha256": "cd8e1bdd6ec2d03fffe32c614e2fa72d27bfc0bccc99222aee540b42d325e1f7",
+      "content_sha256": "bece2cfd36ff61f636e9c0a2c439840c41fbf75ed8de5c84d4bda859c3b978cb",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "bece2cfd36ff61f636e9c0a2c439840c41fbf75ed8de5c84d4bda859c3b978cb",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p072:l005",
+          "core:p072:l006",
+          "core:p073:l005"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "adult-advancement": {
       "content_sha256": "5a32c57e971fabc360f5a03634b7a222aa37a2ec59984a5e6f929f26a30b85ad",
@@ -455,63 +816,171 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "5a32c57e971fabc360f5a03634b7a222aa37a2ec59984a5e6f929f26a30b85ad",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p073:l005",
+          "core:p073:l006",
+          "core:p073:l007"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "growth-long-toothed": {
-      "content_sha256": "4d578020d171fa61519f3e3258d494e70ca890db47569504a733e23c86ff98bf",
+      "content_sha256": "773bf2bb846f4c15cee71ae00fca3b3b4fa06d6f9da7ac4e196ca86b49091140",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "773bf2bb846f4c15cee71ae00fca3b3b4fa06d6f9da7ac4e196ca86b49091140",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p074:l009",
+          "playbooks:pdf001:stat-cap"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "growth-raw-scaled": {
-      "content_sha256": "0a1e2f597737267888f8415dd6f1a59e891ceeaafd8368678948537cb3a5cb70",
+      "content_sha256": "0a31ab118000eedb98b72a8fde84d193ebb89d5182526f2f71031d2d8c755281",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "0a31ab118000eedb98b72a8fde84d193ebb89d5182526f2f71031d2d8c755281",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p074:l005",
+          "playbooks:pdf001:stat-cap"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "growth-winged": {
-      "content_sha256": "9d5c78fa2c247c4f0189bd6daf5faa1904a6746a9a7d90abb16d683075572628",
+      "content_sha256": "eb6456b0db4212ce1879ff9297d1c53880592ee51a6301a4286b1d1cdf5db529",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "eb6456b0db4212ce1879ff9297d1c53880592ee51a6301a4286b1d1cdf5db529",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p074:l007",
+          "playbooks:pdf001:stat-cap"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "growth-bearded": {
-      "content_sha256": "e37238bd0fe7e9f5dc1e4fd85ddd64c95feb34675b3fb31e3346787fee387bcf",
+      "content_sha256": "a3ec5a67a863bd192544a6c532ab12c0e403140486d6a965ddc0bdac0f187a15",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "a3ec5a67a863bd192544a6c532ab12c0e403140486d6a965ddc0bdac0f187a15",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p075:l005"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "house-rituals": {
-      "content_sha256": "cb6f8214700f107b218f886cfe2509dc951e60d32c5f12d52b03b96cc4e76650",
+      "content_sha256": "dfec77eb71675743ca8908d1e784ef2aa3771553e1a1111d2d7c08ab9fa7a94d",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "dfec77eb71675743ca8908d1e784ef2aa3771553e1a1111d2d7c08ab9fa7a94d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p075:l005",
+          "core:p075:l006",
+          "core:p075:l007",
+          "core:p075:l008",
+          "core:p075:l009",
+          "core:p075:l010",
+          "core:p075:l011",
+          "core:p075:l012",
+          "core:p075:l013",
+          "core:p076:l004",
+          "core:p076:l005",
+          "core:p076:l006",
+          "core:p076:l007"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "growth-elder": {
-      "content_sha256": "da575673b69c2d3347cc7b1b51a0c42506bf2b8bba80f3a8a143fd0037574400",
+      "content_sha256": "1fee91fa921a29397ae9354f7b3db91e45fd57a0c10cba202c2adb30d4b6a934",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "1fee91fa921a29397ae9354f7b3db91e45fd57a0c10cba202c2adb30d4b6a934",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p076:l009",
+          "core:p076:l010"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "ascension": {
-      "content_sha256": "f9430d59004da50c834dac9d2088728c2392a2fd313a372de6250d9af221a57d",
+      "content_sha256": "e549760231f808156d4e9b2c7887998dbb371aace27f9459da3808578b34b6a6",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已逐段對照並記錄原文區塊；待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-rules batch 01",
+        "content_sha256": "e549760231f808156d4e9b2c7887998dbb371aace27f9459da3808578b34b6a6",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p077:l005",
+          "core:p077:l007",
+          "core:p077:l008"
+        ],
+        "scope": "逐段原文初校：條件、數字、選擇權、例外及範例。尚未獨立複核。"
+      }
     },
     "gm-agendas": {
       "content_sha256": "11d7ea6c97cca7e30a043d46bf8820de73ade15684e8bcc478f7ec91db0ba2f8",

@@ -25,9 +25,13 @@ def check(root=ROOT,require_semantic=False):
         path=root/'dist'/artifact['path']
         if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=artifact['sha256']:error(f'{artifact["path"]}: artifact changed; update its review record.')
     provenance=read(root/'translation/provenance.json')['entries'];reviews=read(root/'translation/reviews.json')['entries'];alignment=read(root/'translation/alignment.json')['entries']
+    source_blocks=read(root/'translation/source-blocks.json')['blocks']
+    for bid,block in source_blocks.items():
+        source=sources.get(block.get('book_id'))
+        if not source or block.get('source_sha256')!=source['sha256'] or not 1<=block.get('pdf_page',0)<=source['pdf_pages'] or block.get('text_sha256')!=digest(block.get('text','')):error(f'{bid}: stale or invalid original block.')
     for label,records in [('provenance',provenance),('reviews',reviews),('alignment',alignment)]:
         if set(records)!=idset:error(f'{label}: IDs differ from canonical entries.')
-    pending=0;linked=0;total_blocks=0;block_ids=set()
+    pending=0;linked=0;total_blocks=0;block_ids=set();source_checked=0
     for e in entries:
         eid=e['id'];sid=e['source']['file']
         if sid not in sources:error(f'{eid}: unknown source');continue
@@ -52,6 +56,13 @@ def check(root=ROOT,require_semantic=False):
             for ref in block['source_blocks']:
                 source=sources.get(ref.get('book_id'))
                 if not source or ref.get('source_sha256')!=source['sha256'] or not 1<=ref.get('pdf_page',0)<=source['pdf_pages'] or not ref.get('block_id') or not ref.get('locator') or not re.fullmatch('[0-9a-f]{64}',ref.get('text_sha256','')):error(f'{eid}: invalid source-block evidence for {block["id"]}.')
+                original=source_blocks.get(ref.get('block_id'))
+                if not original or any(original.get(key)!=ref.get(key) for key in ['book_id','source_sha256','pdf_page','locator','text_sha256']):error(f'{eid}: source-block reference differs from original inventory.')
+        sc=r.get('source_check')
+        if sc:
+            evidence={ref['block_id'] for block in blocks for ref in block['source_blocks']}
+            if sc.get('status')!='compared' or sc.get('content_sha256')!=digest(e) or sc.get('source_sha256')!=book['sha256'] or not sc.get('reviewer') or set(sc.get('evidence',[]))!=evidence or not evidence or any(not block['source_blocks'] for block in blocks):error(f'{eid}: source comparison record is stale or incomplete.')
+            else:source_checked+=1
         if r['semantic_status'] not in ['pending','verified','needs-revision']:error(f'{eid}: invalid review status.')
         if r['semantic_status']=='verified':
             if not r.get('reviewer') or not r.get('evidence') or any(not b['source_blocks'] for b in blocks):error(f'{eid}: verified review lacks reviewer/evidence/source-block alignment.')
@@ -72,7 +83,7 @@ def check(root=ROOT,require_semantic=False):
     if linked<total_blocks:warnings.append(f'{total_blocks-linked}/{total_blocks} target blocks lack source-block alignment.')
     if (root/'dist/data.js').read_text(encoding='utf-8')!=data_js(root):
         error('data.js differs from canonical content; run sync-data.py.');structural_errors.append(errors[-1])
-    return {'schema_version':1,'structural_pass':not structural_errors,'semantic_pass':not errors and pending==0 and linked==total_blocks,'gate_pass':not errors,'entries':len(entries),'semantic_pending':pending,'aligned_target_blocks':linked,'target_blocks':total_blocks,'errors':errors,'warnings':warnings}
+    return {'schema_version':1,'structural_pass':not structural_errors,'semantic_pass':not errors and pending==0 and linked==total_blocks,'gate_pass':not errors,'entries':len(entries),'source_checked':source_checked,'semantic_pending':pending,'aligned_target_blocks':linked,'target_blocks':total_blocks,'errors':errors,'warnings':warnings}
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--require-semantic',action='store_true');parser.add_argument('--report',type=pathlib.Path);args=parser.parse_args();result=check(require_semantic=args.require_semantic)
     if args.report:args.report.parent.mkdir(parents=True,exist_ok=True);args.report.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

@@ -41,4 +41,10 @@ class QualityGates(unittest.TestCase):
     def test_artifact_hashes_are_checked(self):
         self.edit('translation/artifacts.json',lambda d:d['artifacts'][0].__setitem__('sha256','0'*64))
         self.assertIn('artifact changed',' '.join(check(self.root)['errors']))
+    def test_original_block_edits_invalidate_evidence(self):
+        self.edit('translation/source-blocks.json',lambda d:next(iter(d['blocks'].values())).__setitem__('text','Changed source text'))
+        self.assertIn('stale or invalid original block',' '.join(check(self.root)['errors']))
+    def test_source_comparison_is_bound_to_content(self):
+        self.edit('translation/reviews.json',lambda d:d['entries']['study']['source_check'].__setitem__('content_sha256','0'*64))
+        self.assertIn('source comparison record is stale',' '.join(check(self.root)['errors']))
 if __name__=='__main__':unittest.main()
