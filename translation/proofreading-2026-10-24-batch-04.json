@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "entry_ids": [
+    "gm-agendas",
+    "gm-principles",
+    "gm-principles-world-fiction",
+    "gm-principles-history-houses-questions",
+    "gm-principles-hierarchy-dragons",
+    "gm-principles-prejudice-fan-darkness",
+    "gm-move-timing",
+    "gm-hard-soft-moves",
+    "gm-wilderness-moves",
+    "gm-wilderness-examples",
+    "gm-culture-moves",
+    "gm-culture-examples",
+    "gm-darkness-moves",
+    "gm-darkness-examples",
+    "gm-ignite-moves",
+    "gm-npcs",
+    "gm-orchestrating-darkness",
+    "gm-beneath-scales",
+    "gm-first-session-preparation",
+    "gm-first-adventure",
+    "gm-x-card",
+    "gm-x-card-example",
+    "gm-roses-thorns",
+    "gm-ending",
+    "gm-hazards-introduction",
+    "gm-creating-hazards",
+    "gm-hazard-moves-cast",
+    "gm-countdown-moons",
+    "gm-countdown-example",
+    "gm-custom-moves",
+    "gm-hazards-darkness",
+    "gm-festive-grudges-cast",
+    "gm-festive-grudges-moons",
+    "gm-academic",
+    "gm-crafter",
+    "gm-daredevil",
+    "gm-nature-adept",
+    "gm-seer",
+    "gm-warrior",
+    "gm-hazard-family",
+    "gm-hazard-friendship",
+    "gm-hazard-tradition",
+    "gm-hazard-nature"
+  ],
+  "changes": [
+    {
+      "entry_id": "gm-hard-soft-moves",
+      "field": "paragraphs[1]",
+      "old": "始終記住原則與議程。每次失手都讓角色遭受重大打擊，就不是角色的支持者；他們放過絕佳機會，你卻不讓他們做艱難選擇，也沒有提醒他們黑暗正在蔓延。你必須逐場、逐個動作掌握平衡。",
+      "new": "始終記住原則與議程。每次失手都讓角色遭受重大打擊，就不是角色的支持者；當他們送上絕佳機會時，你卻讓他們毫無艱難抉擇就全身而退，也沒有提醒他們黑暗正在蔓延。你必須逐場、逐個動作掌握平衡。",
+      "source_evidence": "印刷86–87：golden opportunity 是玩家暴露後果、給龍主採取動作的機會，並非玩家錯過有利機會。"
+    },
+    {
+      "entry_id": "gm-culture-moves",
+      "field": "bullets[8]",
+      "old": "展現黑暗正在吞食一條龍的痛苦。",
+      "new": "展現黑暗正在以一條龍的痛苦為食。",
+      "source_evidence": "印刷88：feeding on pain 是以痛苦為食，不是吃掉痛苦、消除痛苦。"
+    },
+    {
+      "entry_id": "gm-darkness-moves",
+      "field": "bullets[7]",
+      "old": "啟動龍群所有事物的不利面。",
+      "new": "引發龍群所仰賴事物的不利面。",
+      "source_evidence": "印刷88、93：the clutch’s stuff’s downsides，所有格不是要求所有事物的不利面同時發作；說明含身體、力量、關係與資源。"
+    },
+    {
+      "entry_id": "gm-darkness-examples",
+      "field": "paragraphs[4]",
+      "old": "啟動龍群所有事物的不利面：每隻小龍的身體、力量、關係與資源，都提供無數機會，反過來使龍群陷入困境。不論魔法物品的限制、領導者的代價，或盟友的自私欲望，把玩家眼中有用的事物轉化為問題與糾葛，會強化龍群面對黑暗時的脆弱。",
+      "new": "引發龍群所仰賴事物的不利面：每隻小龍的身體、力量、關係與資源，都提供無數機會，反過來使龍群陷入困境。不論魔法物品的限制、領導者的代價，或盟友的自私欲望，把玩家眼中有用的事物轉化為問題與糾葛，會強化龍群面對黑暗時的脆弱。",
+      "source_evidence": "印刷88、93：the clutch’s stuff’s downsides，所有格不是要求所有事物的不利面同時發作；說明含身體、力量、關係與資源。"
+    },
+    {
+      "entry_id": "gm-wilderness-moves",
+      "field": "bullets[0]",
+      "old": "使某人陷入攸關重大的處境。",
+      "new": "使某人陷入利害攸關的處境。",
+      "source_evidence": "印刷88–89：high-stakes situation，修順中文並維持利害關係的含義。"
+    },
+    {
+      "entry_id": "gm-wilderness-examples",
+      "field": "paragraphs[0]",
+      "old": "使某人陷入攸關重大的處境：可以直接讓龍群身陷危險，也可以威脅他們在意的 NPC，無論對方是否在當前場景。荒野是危險的地方；讓危險直接發生，給小龍回應的機會。",
+      "new": "使某人陷入利害攸關的處境：可以直接讓龍群身陷危險，也可以威脅他們在意的 NPC，無論對方是否在當前場景。荒野是危險的地方；讓危險直接發生，給小龍回應的機會。",
+      "source_evidence": "印刷88–89：high-stakes situation，修順中文並維持利害關係的含義。"
+    },
+    {
+      "entry_id": "gm-orchestrating-darkness",
+      "field": "paragraphs[1]",
+      "old": "開始遊戲時，引入小龍能應付的敵人與挑戰。初生鱗片的小龍還無法擊退黑暗最可怕的顯現，因此給他們能克服的問題，例如恢復賢者樹的心、協助兩位長老化解宿怨，或打斷一場暗影儀式。",
+      "new": "開始遊戲時，引入小龍能應付的敵人與挑戰。若鱗幼龍還無法擊退黑暗最可怕的顯現，因此給他們能克服的問題，例如恢復賢者樹的心、協助兩位長老化解宿怨，或打斷一場暗影儀式。",
+      "source_evidence": "印刷96：Raw-scaled drakes 是既定年齡名稱，與核心成長表一致。"
+    },
+    {
+      "entry_id": "gm-beneath-scales",
+      "field": "paragraphs[0]",
+      "old": "遊戲開始時，解釋各劇本，以及每種小龍何以獨特、有趣。玩家選的典型與起始動作，正是在傳達想在故事遇到什麼情境。引入 NPC、故事內容與挑戰，凸顯每隻小龍獨特有趣之處；他們忘記動作或觸發方式時，也提醒他們。",
+      "new": "遊戲開始時，解釋各扮演書，以及每種小龍何以獨特、有趣。玩家選的典型與起始動作，正是在傳達想在故事遇到什麼情境。引入 NPC、故事內容與挑戰，凸顯每隻小龍獨特有趣之處；他們忘記動作或觸發方式時，也提醒他們。",
+      "source_evidence": "本節 playbook 指角色扮演書，與已校對的核心角色卡名稱一致。"
+    },
+    {
+      "entry_id": "gm-beneath-scales",
+      "field": "paragraphs[1]",
+      "old": "務必給每隻小龍許多發光的機會。例如工匠選擇『鬼爪神工（Crafty Claw）』，就是表達想修理壞掉的東西；要給牠可修的物品，並確保那些物品能幫助龍群完成目標、進一步認識龍域。以下是主持各劇本時值得突出的內容。",
+      "new": "務必給每隻小龍許多發光的機會。例如工匠選擇『鬼爪神工（Crafty Claw）』，就是表達想修理壞掉的東西；要給牠可修的物品，並確保那些物品能幫助龍群完成目標、進一步認識龍域。以下是主持各扮演書時值得突出的內容。",
+      "source_evidence": "本節 playbook 指角色扮演書，與已校對的核心角色卡名稱一致。"
+    },
+    {
+      "entry_id": "gm-first-session-preparation",
+      "field": "paragraphs[1]",
+      "old": "解說龍域並介紹地圖：讓全桌大致了解龍域。展示地圖，簡短觸及設定：介紹富於變化的地形，說明大家會共同補完地圖，也提醒龍群小心海中巨妖；解釋龍族社會，包括性別、成長、各大家族、龍群等等；描述龍群如何置身這片廣大世界。有些內容可在填寫劇本時說明，但別過度分散注意。",
+      "new": "解說龍域並介紹地圖：讓全桌大致了解龍域。展示地圖，簡短觸及設定：介紹富於變化的地形，說明大家會共同補完地圖，也提醒龍群小心海中巨妖；解釋龍族社會，包括性別、成長、各大家族、龍群等等；描述龍群如何置身這片廣大世界。有些內容可在填寫扮演書時說明，但別過度分散注意。",
+      "source_evidence": "本節 playbook 指角色扮演書，與已校對的核心角色卡名稱一致。"
+    },
+    {
+      "entry_id": "gm-first-session-preparation",
+      "field": "paragraphs[2]",
+      "old": "選擇並填寫劇本：朗讀各劇本首頁介紹，提及特殊動作。請玩家選擇想扮演的劇本，填寫第一頁的名字、顏色與外貌。接著翻開劇本，填寫屬性、家族、美德與動作。",
+      "new": "選擇並填寫扮演書：朗讀各扮演書首頁介紹，提及特殊動作。請玩家選擇想扮演的扮演書，填寫第一頁的名字、顏色與外貌。接著翻開扮演書，填寫屬性、家族、美德與動作。",
+      "source_evidence": "本節 playbook 指角色扮演書，與已校對的核心角色卡名稱一致。"
+    },
+    {
+      "entry_id": "gm-first-session-preparation",
+      "field": "bullets[1]",
+      "old": "2. 選擇並填寫劇本。",
+      "new": "2. 選擇並填寫扮演書。",
+      "source_evidence": "本節 playbook 指角色扮演書，與已校對的核心角色卡名稱一致。"
+    },
+    {
+      "entry_id": "gm-academic",
+      "field": "paragraphs[1]",
+      "old": "特殊動作『專精領域（Field of Expertise）』讓學者共享世界創作權。這是劇本特色動作，失手時也要確保發生令人興奮的事：把小龍新增的內容扭轉為新奇有趣的事物，但別令它完全錯誤而背叛原意。",
+      "new": "特殊動作『專精領域（Field of Expertise）』讓學者共享世界創作權。這是扮演書特色動作，失手時也要確保發生令人興奮的事：把小龍新增的內容扭轉為新奇有趣的事物，但別令它完全錯誤而背叛原意。",
+      "source_evidence": "本節 playbook 指角色扮演書，與已校對的核心角色卡名稱一致。"
+    },
+    {
+      "entry_id": "gm-nature-adept",
+      "field": "paragraphs[3]",
+      "old": "若有靈魂嚮導，詢問外貌，並以外觀、溝通方式讓牠有別於荒野野獸。也許只能用默劇，或只在自然之民耳邊低語，懷疑其他龍族。自然之民容易沉迷荒野的美妙，但當事情應該如此時，嚮導能推動牠與其他龍互動、參與政治。嚮導在乎的不是大自然勝利，而是誰受不公對待、自然之民能做什麼——從安慰地輕輕蹭一下，到直接介入。",
+      "new": "若有精魂嚮導，詢問外貌，並以外觀、溝通方式讓牠有別於荒野野獸。也許只能用默劇，或只在自然之民耳邊低語，懷疑其他龍族。自然之民容易沉迷荒野的美妙，但當事情應該如此時，嚮導能推動牠與其他龍互動、參與政治。嚮導在乎的不是大自然勝利，而是誰受不公對待、自然之民能做什麼——從安慰地輕輕蹭一下，到直接介入。",
+      "source_evidence": "印刷101：spirit guide 指同名動作 Spirit Guide，與獨立角色卡譯名統一。"
+    },
+    {
+      "entry_id": "gm-seer",
+      "field": "paragraphs[1]",
+      "old": "有先知時，提醒牠與眾不同之處，也讓黑暗安慰牠。特色動作是『黑暗幻象（Haunting Visions of the Darkness）』。問牠家族其他龍怎麼看幻視，再依答案行事。先知會主動尋找黑暗，因此描述黑暗在他人身上的氣味、在鱗片下的感覺，也提供機會，讓牠與持相似或相反黑暗觀點的 NPC 交談。",
+      "new": "有先知時，提醒牠與眾不同之處，也讓黑暗安慰牠。特色動作是『黑暗幻象（Haunting Visions of the Darkness）』。問牠家族其他龍怎麼看幻象，再依答案行事。先知會主動尋找黑暗，因此描述黑暗在他人身上的氣味、在鱗片下的感覺，也提供機會，讓牠與持相似或相反黑暗觀點的 NPC 交談。",
+      "source_evidence": "印刷102：visions 指同一特色動作的幻象，統一查閱用詞。"
+    },
+    {
+      "entry_id": "gm-seer",
+      "field": "paragraphs[2]",
+      "old": "若整場沒提黑暗，先知可能覺得受冷落；但幻視隨時可融入故事。讓牠注意到記憶中幻視的氣味或感受，給可帶走、之後調查的線索。",
+      "new": "若整場沒提黑暗，先知可能覺得受冷落；但幻象隨時可融入故事。讓牠注意到記憶中幻象的氣味或感受，給可帶走、之後調查的線索。",
+      "source_evidence": "印刷102：visions 指同一特色動作的幻象，統一查閱用詞。"
+    },
+    {
+      "entry_id": "gm-ending",
+      "field": "paragraphs[4]",
+      "old": "團體完成史詩、分別以前，給每位玩家聚光燈，簡短述說衝突結束後自己的角色在世界裡做什麼。可以是立即行動，例如追查 Rith’nix，完成未結束的雲中決鬥；也可以是日後人生，例如成為神話巨龍或遠古巨龍後退隱。若場景涉及其他同伴，例如結成親密龍群的認可儀式，說尾聲的玩家須先詢問對方是否同意被納入。尾聲把角色故事串成美麗蒙太奇，為史詩提供滿足的結局。",
+      "new": "團體完成史詩、分別以前，給每位玩家聚光燈，簡短述說衝突結束後自己的角色在世界裡做什麼。可以是立即行動，例如追查 Rith’nix，完成未結束的雲中決鬥；也可以是日後人生，例如退休並昇華為神話巨龍或遠古巨龍。若場景涉及其他同伴，例如結成親密龍群的認可儀式，說尾聲的玩家須先詢問對方是否同意被納入。尾聲把角色故事串成美麗蒙太奇，為史詩提供滿足的結局。",
+      "source_evidence": "印刷111：retiring as a Mystic or Ancient；依印刷76–77退休與昇華順序澄清，不暗示先成為NPC後再退休。"
+    },
+    {
+      "entry_id": "gm-hazard-family",
+      "field": "bullets[4]",
+      "old": "提供幫助，卻附帶私人牽扯。",
+      "new": "提出援助，但附帶個人條件。",
+      "source_evidence": "印刷132：offer, but with personal strings attached，重點是援助附帶條件。"
+    },
+    {
+      "entry_id": "gm-hazard-nature",
+      "field": "bullets[0]",
+      "old": "浪費地耗盡一項資源。",
+      "new": "以浪費的方式耗盡一項資源。",
+      "source_evidence": "印刷135、139：wastefully exhaust a resource，保留動作與範例一致並修順語序。"
+    },
+    {
+      "entry_id": "gm-countdown-example",
+      "field": "paragraphs[1]",
+      "old": "我的半月是：『蠕貝獸吃掉開採來建造要塞的石材。』龍群對年長的雷腹 Fayright『以下犯上』卻失手，我決定使出危害動作『浪費地耗盡一項資源』。蠕貝獸吞光全部石料，開始移向洛斯加要塞！情境已符合倒數的變化，我標記半月，開始思考預定的盈凸月：『蠕貝獸吃掉要塞西翼的石造地基！』",
+      "new": "我的半月是：『蠕貝獸吃掉開採來建造要塞的石材。』龍群對年長的雷腹 Fayright『以下犯上』卻失手，我決定使出危害動作『以浪費的方式耗盡一項資源』。蠕貝獸吞光全部石料，開始移向洛斯加要塞！情境已符合倒數的變化，我標記半月，開始思考預定的盈凸月：『蠕貝獸吃掉要塞西翼的石造地基！』",
+      "source_evidence": "印刷135、139：wastefully exhaust a resource，保留動作與範例一致並修順語序。"
+    },
+    {
+      "entry_id": "gm-darkness-examples",
+      "field": "paragraphs[3]",
+      "old": "『你才確認泥土精靈在新家住得舒服，Tailsong 就叫你過去看看一株古怪幼苗。仔細一看，葉片帶著黑暗印記，周圍泥土已化為灰燼。遠處隱約有一大片這樣的幼苗；終有一天，它們會長成黑暗森林，讓怪物稱王。Tailsong 疲憊地說：〈誰知道龍域各地已長出多少這樣的森林……〉你怎麼做？』",
+      "new": "『你才確認泥土精魂在新家住得舒服，Tailsong 就叫你過去看看一株古怪幼苗。仔細一看，葉片帶著黑暗印記，周圍泥土已化為灰燼。遠處隱約有一大片這樣的幼苗；終有一天，它們會長成黑暗森林，讓怪物稱王。Tailsong 疲憊地說：〈誰知道龍域各地已長出多少這樣的森林……〉你怎麼做？』",
+      "source_evidence": "印刷92：dirt spirits，與自然之民及元素精魂用詞一致。"
+    },
+    {
+      "entry_id": "gm-custom-moves",
+      "field": "paragraphs[3]",
+      "old": "範例：當你向蠕蟲精靈許諾時，擲 +魅力。10+：牠們贈你一袋聖土；為履行承諾而行動時，持續 +1，完成時標記經驗。7–9：牠們贈你一塊泥餅；吃下後，下一次擲骰 +1。失手：精靈懷疑你；牠們把黏土抹上你的吻部、施加詛咒，任何違背承諾的行動，持續 −1。",
+      "new": "範例：當你向蠕蟲精魂許諾時，擲 +魅力。10+：牠們贈你一袋聖土；為履行承諾而行動時，持續 +1，完成時標記經驗。7–9：牠們贈你一塊泥餅；吃下後，下一次擲骰 +1。失手：精魂懷疑你；牠們把黏土抹上你的吻部、施加詛咒，任何違背承諾的行動，持續 −1。",
+      "source_evidence": "印刷140：worm spirit，與精魂嚮導及元素精魂用詞一致。；同段 spirits，與前句蠕蟲精魂一致。"
+    }
+  ],
+  "confirmed_rules": [
+    "龍主可在行動空檔、玩家失手或得到絕佳機會時出招；強硬程度依情境決定，不是每次失手必定強硬動作。",
+    "若玩家動作明定失手處置，先履行該結果。",
+    "龍主不替玩家決定尾聲中的角色行動；涉及其他夥伴須先取得其同意。",
+    "倒數之月只用於有向前推進驅力的危害，不是每項危害都強制配置。",
+    "可依情境推進或跳過月相；每次推進都向玩家呈現變化，不能為阻止英雄獲勝而改寫月相。",
+    "自訂動作供玩家角色使用，與龍主／危害動作分開。",
+    "危害分家庭、友誼、傳統、自然；沒有獨立的黑暗類型。"
+  ],
+  "unresolved": [
+    "本輪未包含核心112–128頁的實際遊玩長範例，將另批逐段校對。",
+    "原文136頁的NPC準備交叉引用指向97頁；實際主要NPC管理建議在95頁。既有正文保留原文指向並說明，不靜默修改原書頁碼。",
+    "本輪原文初校尚未取得獨立第二輪複核；semantic_status 保持 pending。"
+  ],
+  "visual_checks": [
+    {
+      "book_id": "core",
+      "printed_page": 137,
+      "pdf_page": 136,
+      "scope": "四階段月相圖與順序。"
+    },
+    {
+      "book_id": "core",
+      "printed_page": 143,
+      "pdf_page": 142,
+      "scope": "節慶宿怨的四階段、兩個自訂動作與備註。"
+    }
+  ]
+}

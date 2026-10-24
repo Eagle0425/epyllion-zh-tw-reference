@@ -4,13 +4,13 @@
   "semantic_pass": false,
   "gate_pass": true,
   "entries": 208,
-  "source_checked": 61,
+  "source_checked": 104,
   "semantic_pending": 208,
-  "aligned_target_blocks": 391,
+  "aligned_target_blocks": 641,
   "target_blocks": 1382,
   "errors": [],
   "warnings": [
     "208 existing entries await formal semantic review; structural success is not proof of complete translation.",
-    "991/1382 target blocks lack source-block alignment."
+    "741/1382 target blocks lack source-block alignment."
   ]
 }

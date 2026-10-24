@@ -988,7 +988,28 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "11d7ea6c97cca7e30a043d46bf8820de73ade15684e8bcc478f7ec91db0ba2f8",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p078:l002",
+          "core:p078:l004",
+          "core:p078:l006",
+          "core:p078:l007",
+          "core:p078:l008",
+          "core:p078:l009",
+          "core:p078:l010",
+          "core:p079:l004",
+          "core:p079:l005",
+          "core:p079:l006",
+          "core:p079:l007"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-principles": {
       "content_sha256": "5a9ea2b0fb648d7bb1b0b6add2b51d62365e8797f1fe9cd4d01b8ee154716902",
@@ -996,7 +1017,29 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "5a9ea2b0fb648d7bb1b0b6add2b51d62365e8797f1fe9cd4d01b8ee154716902",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p080:l005",
+          "core:p080:l006",
+          "core:p080:l007",
+          "core:p080:l008",
+          "core:p080:l009",
+          "core:p080:l010",
+          "core:p080:l011",
+          "core:p080:l012",
+          "core:p080:l013",
+          "core:p080:l014",
+          "core:p080:l015",
+          "core:p080:l016"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-principles-world-fiction": {
       "content_sha256": "e35fa2b3ce6b11ffc68e71a3cea529d3e7d374277978ef06a9efbb3b2f1f2c62",
@@ -1004,7 +1047,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "e35fa2b3ce6b11ffc68e71a3cea529d3e7d374277978ef06a9efbb3b2f1f2c62",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p081:l004",
+          "core:p081:l005",
+          "core:p081:l006",
+          "core:p081:l007",
+          "core:p081:l008",
+          "core:p081:l009"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-principles-history-houses-questions": {
       "content_sha256": "1caccbd264c382fefc6986d805fba8eeff34fcf51ce9219a285587dd4169810f",
@@ -1012,7 +1071,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "1caccbd264c382fefc6986d805fba8eeff34fcf51ce9219a285587dd4169810f",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p082:l004",
+          "core:p082:l005",
+          "core:p082:l006",
+          "core:p082:l007",
+          "core:p082:l008",
+          "core:p082:l009"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-principles-hierarchy-dragons": {
       "content_sha256": "d96b1d63fd76746d968a6f85a34f62cbd7478ccfbfd3605bb12dc70d08d7b68d",
@@ -1020,7 +1095,21 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "d96b1d63fd76746d968a6f85a34f62cbd7478ccfbfd3605bb12dc70d08d7b68d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p083:l004",
+          "core:p083:l005",
+          "core:p083:l006",
+          "core:p083:l007"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-principles-prejudice-fan-darkness": {
       "content_sha256": "3d6b2c876747a84a0956adeea2b0e06cb9a88d2d5f97574263917ea57ae83729",
@@ -1028,7 +1117,24 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "3d6b2c876747a84a0956adeea2b0e06cb9a88d2d5f97574263917ea57ae83729",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p084:l004",
+          "core:p084:l005",
+          "core:p084:l006",
+          "core:p084:l007",
+          "core:p084:l008",
+          "core:p084:l009",
+          "core:p084:l010"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-move-timing": {
       "content_sha256": "b6b848808c2e5c44f539dd6b828a847e88d1484627f1a349d3619949410af4e9",
@@ -1036,47 +1142,162 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "b6b848808c2e5c44f539dd6b828a847e88d1484627f1a349d3619949410af4e9",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p085:l005",
+          "core:p085:l006",
+          "core:p087:l005",
+          "core:p087:l006",
+          "core:p087:l007",
+          "core:p087:l008",
+          "core:p087:l009",
+          "core:p087:l010",
+          "core:p087:l011",
+          "core:p087:l012"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hard-soft-moves": {
-      "content_sha256": "935c7fd63fbda90ae007afa699540903f545af362f8384dc8e822ecc5104d3f2",
+      "content_sha256": "bf2ab9e3d4cfb8a20b62750287f1e2174da376d9ca1646a1f53c7a9d5ac930c8",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "bf2ab9e3d4cfb8a20b62750287f1e2174da376d9ca1646a1f53c7a9d5ac930c8",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p086:l005",
+          "core:p086:l006",
+          "core:p086:l007",
+          "core:p086:l008",
+          "core:p086:l009",
+          "core:p086:l010"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-culture-moves": {
-      "content_sha256": "b1cf5c5c409e6ca3df25c298dd8b00ca4cb2fd57ced7d89c62c6bf8947b2dc78",
+      "content_sha256": "fca8db9315a819771770b32354b34359b19dca3d102ca2049f78f034db1bcf0e",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "fca8db9315a819771770b32354b34359b19dca3d102ca2049f78f034db1bcf0e",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p088:l015",
+          "core:p088:l016",
+          "core:p088:l017",
+          "core:p088:l018",
+          "core:p088:l019",
+          "core:p088:l020",
+          "core:p088:l021",
+          "core:p088:l022",
+          "core:p088:l023",
+          "core:p090:l005"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-darkness-moves": {
-      "content_sha256": "696ec860ff686f99910ed8ebcb839aaba23dbc98e0dc8f642306727efa033eb1",
+      "content_sha256": "96641abf437b83425a9f3ab86ec6c95968edd376a7d8b1c95fd65f13f5f09878",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "96641abf437b83425a9f3ab86ec6c95968edd376a7d8b1c95fd65f13f5f09878",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p088:l025",
+          "core:p088:l026",
+          "core:p088:l027",
+          "core:p088:l028",
+          "core:p088:l029",
+          "core:p088:l030",
+          "core:p088:l031",
+          "core:p088:l032",
+          "core:p088:l033",
+          "core:p092:l005"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-wilderness-moves": {
-      "content_sha256": "457443595ef7556c9e1f9822c1967c6bd2e3ec23b7ff8bf1148ec4439b9dbce0",
+      "content_sha256": "4e3e5b8767a3c692f8746d5d8e2de7ab39f39a5b4bed69fc5d3a7c2be38ffe16",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "4e3e5b8767a3c692f8746d5d8e2de7ab39f39a5b4bed69fc5d3a7c2be38ffe16",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p088:l005",
+          "core:p088:l006",
+          "core:p088:l007",
+          "core:p088:l008",
+          "core:p088:l009",
+          "core:p088:l010",
+          "core:p088:l011",
+          "core:p088:l012",
+          "core:p088:l013",
+          "core:p089:l005"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-wilderness-examples": {
-      "content_sha256": "c547ad0b640a70e8a0e8d1aae8ac294d389af96666a44c1c420f91b4066f3303",
+      "content_sha256": "a39dc99207ccc2bdad8694a49ea9231d8402987cc6ae77198a34a1825ad184e0",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "a39dc99207ccc2bdad8694a49ea9231d8402987cc6ae77198a34a1825ad184e0",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p089:l006",
+          "core:p089:l007",
+          "core:p089:l008",
+          "core:p089:l009",
+          "core:p089:l010",
+          "core:p089:l011",
+          "core:p089:l012",
+          "core:p089:l013",
+          "core:p089:l014"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-culture-examples": {
       "content_sha256": "90eae7f59fdee3c86c28432976e6471043f3ecfb19c4e0172971a936559cc2b4",
@@ -1084,15 +1305,54 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "90eae7f59fdee3c86c28432976e6471043f3ecfb19c4e0172971a936559cc2b4",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p090:l006",
+          "core:p090:l007",
+          "core:p090:l008",
+          "core:p091:l004",
+          "core:p091:l005",
+          "core:p091:l006",
+          "core:p091:l007",
+          "core:p091:l008",
+          "core:p091:l009"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-darkness-examples": {
-      "content_sha256": "6991608b92ce614017f67c6d70f63e5a88287a4b9c84a5057595dfe6c4484f68",
+      "content_sha256": "2ca8b164e1211562b82903df95f92515be5a9d729bd25b40608da9002040ee12",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "2ca8b164e1211562b82903df95f92515be5a9d729bd25b40608da9002040ee12",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p092:l006",
+          "core:p092:l007",
+          "core:p092:l008",
+          "core:p092:l009",
+          "core:p092:l010",
+          "core:p092:l011",
+          "core:p093:l004",
+          "core:p093:l005",
+          "core:p093:l006",
+          "core:p093:l007"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-ignite-moves": {
       "content_sha256": "7df2e690d69a93ecff22f4aae68c3c4463224e5a23123c6e65cea9ae88d27f55",
@@ -1100,7 +1360,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "7df2e690d69a93ecff22f4aae68c3c4463224e5a23123c6e65cea9ae88d27f55",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p094:l005",
+          "core:p094:l006"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-npcs": {
       "content_sha256": "b9930ea081ea2caa420708a27512aa7fc1b705c02aa062cb1bb98d9831b5b772",
@@ -1108,31 +1380,85 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "b9930ea081ea2caa420708a27512aa7fc1b705c02aa062cb1bb98d9831b5b772",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p095:l005",
+          "core:p095:l007",
+          "core:p095:l008",
+          "core:p095:l009",
+          "core:p095:l010"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-orchestrating-darkness": {
-      "content_sha256": "855913969d04fde6c07921baddb1ae27c96bfb444bf7253d17793bccd678db25",
+      "content_sha256": "82c0b3a0dfbd20f2113dcf482358c15a010b4f9c5ac06235571a2ab9baa4c63d",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "82c0b3a0dfbd20f2113dcf482358c15a010b4f9c5ac06235571a2ab9baa4c63d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p096:l005",
+          "core:p096:l006"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-beneath-scales": {
-      "content_sha256": "234fb42e95565135ed8dafb2641d550562b7f75847923d3772af15d84732c774",
+      "content_sha256": "869e0d3ae95b2d8548d07e3d1e6546431f60d20c273e7e589aae1f1cf1a2a46c",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "869e0d3ae95b2d8548d07e3d1e6546431f60d20c273e7e589aae1f1cf1a2a46c",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p097:l005",
+          "core:p097:l006",
+          "core:p097:l007"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-academic": {
-      "content_sha256": "40b14af00a65bb3ce190b830bcbf424b38f164e0715ecf24e61582d228e28ebb",
+      "content_sha256": "4a0e844c5c964427e2587c4a4c71c0a16c7ae636d3b2fcc564a9ecb5f5833637",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "4a0e844c5c964427e2587c4a4c71c0a16c7ae636d3b2fcc564a9ecb5f5833637",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p098:l005",
+          "core:p098:l006",
+          "core:p098:l007",
+          "core:p098:l008"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-crafter": {
       "content_sha256": "1bc335e7c01852f6d4fdfc0d3f4a27627f4218cd5a3ddb2502540661131a0892",
@@ -1140,7 +1466,22 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "1bc335e7c01852f6d4fdfc0d3f4a27627f4218cd5a3ddb2502540661131a0892",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p099:l005",
+          "core:p099:l006",
+          "core:p099:l007",
+          "core:p099:l008",
+          "core:p099:l009"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-daredevil": {
       "content_sha256": "07f631d8d00ab081f131897c1e5799742ef749703d0e17a6b2e02588c3392d2f",
@@ -1148,23 +1489,65 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "07f631d8d00ab081f131897c1e5799742ef749703d0e17a6b2e02588c3392d2f",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p100:l005",
+          "core:p100:l006",
+          "core:p100:l007",
+          "core:p100:l008"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-nature-adept": {
-      "content_sha256": "ccd74e9128a36bc45200178ac88d298cad3343ba571a863fdd1873d04e58b7fb",
+      "content_sha256": "4d190d185543db296bdea9cc92d2e23c86dcf78cd785d03f0984f1990534e1f7",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "4d190d185543db296bdea9cc92d2e23c86dcf78cd785d03f0984f1990534e1f7",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p101:l005",
+          "core:p101:l006",
+          "core:p101:l007",
+          "core:p101:l008"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-seer": {
-      "content_sha256": "503441b37b2195bdefc77dae2a84dbd89240ae53db12e8d3a8566015e292fb30",
+      "content_sha256": "7341594c6de4ac07b94d0eba754ee4ca044beabb775acd57f161be75d5efbfb7",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "7341594c6de4ac07b94d0eba754ee4ca044beabb775acd57f161be75d5efbfb7",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p102:l005",
+          "core:p102:l006",
+          "core:p102:l007",
+          "core:p102:l008"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-warrior": {
       "content_sha256": "2b02b9cb9f7ad0a20fc16911bbf5c978a6c27530aebe043d49c32cbbb6a3cd92",
@@ -1172,15 +1555,61 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "2b02b9cb9f7ad0a20fc16911bbf5c978a6c27530aebe043d49c32cbbb6a3cd92",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p103:l005",
+          "core:p103:l006",
+          "core:p103:l007",
+          "core:p103:l008"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-first-session-preparation": {
-      "content_sha256": "de744d847c2dd933773f5c7a67b20f75d2d6f8a2b7ea663e05e8173769730f11",
+      "content_sha256": "41cca907a851f32d49aba3f2af07d801e048aad92430e9489fe28ab5a41521fe",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "41cca907a851f32d49aba3f2af07d801e048aad92430e9489fe28ab5a41521fe",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p104:l005",
+          "core:p104:l007",
+          "core:p104:l008",
+          "core:p104:l009",
+          "core:p104:l010",
+          "core:p104:l011",
+          "core:p104:l012",
+          "core:p104:l013",
+          "core:p104:l014",
+          "core:p104:l015",
+          "core:p104:l016",
+          "core:p104:l017",
+          "core:p104:l019",
+          "core:p104:l020",
+          "core:p105:l004",
+          "core:p105:l005",
+          "core:p105:l006",
+          "core:p105:l007",
+          "core:p105:l008",
+          "core:p105:l009",
+          "core:p105:l010",
+          "core:p105:l011"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-first-adventure": {
       "content_sha256": "f4bb917ee1c51f65924ff7138a6a8f975154a46f1c79dcb61f59f678b2f88a48",
@@ -1188,7 +1617,20 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "f4bb917ee1c51f65924ff7138a6a8f975154a46f1c79dcb61f59f678b2f88a48",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p106:l005",
+          "core:p106:l006",
+          "core:p106:l007"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-x-card": {
       "content_sha256": "d80b86fe8c5a4bbb76337a90cc2ec3ddbb4055cef07303bd8f14f92fdd984944",
@@ -1196,7 +1638,24 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "d80b86fe8c5a4bbb76337a90cc2ec3ddbb4055cef07303bd8f14f92fdd984944",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p107:l005",
+          "core:p107:l007",
+          "core:p107:l009",
+          "core:p107:l010",
+          "core:p107:l011",
+          "core:p107:l012",
+          "core:p107:l013"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-x-card-example": {
       "content_sha256": "20a2e9edd45cd93c46280d9e09b092f480239b3f19a10b2c15372d621ad481ba",
@@ -1204,7 +1663,23 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "20a2e9edd45cd93c46280d9e09b092f480239b3f19a10b2c15372d621ad481ba",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p108:l005",
+          "core:p108:l006",
+          "core:p108:l007",
+          "core:p108:l008",
+          "core:p108:l009",
+          "core:p108:l010"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-roses-thorns": {
       "content_sha256": "fd4d7b05787baf94e9134ec379a24a47b6f1df612cd4919b3fcb26049771822c",
@@ -1212,15 +1687,42 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "fd4d7b05787baf94e9134ec379a24a47b6f1df612cd4919b3fcb26049771822c",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p109:l005",
+          "core:p109:l006"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-ending": {
-      "content_sha256": "aebd01f8ed0681d430c0bf7cc8c6a273b394e2bfcbf57adb4ca92c3071d2c111",
+      "content_sha256": "0ac8671c242a195e10708995c9fbc9616856fe4687c172f6db2f85552161a9d0",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "0ac8671c242a195e10708995c9fbc9616856fe4687c172f6db2f85552161a9d0",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p110:l005",
+          "core:p110:l007",
+          "core:p110:l008",
+          "core:p110:l010",
+          "core:p111:l005"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-example-setup": {
       "content_sha256": "4326b22be2ac8c8362c4aa1f54dbc62d770397d5445fcbe9e584d4115e4313d1",
@@ -1300,7 +1802,20 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "9c322f185faaccbb9153f2b084cda3db137d32b9a7a541f306d84c1902821965",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p129:l002",
+          "core:p129:l003",
+          "core:p129:l005"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-creating-hazards": {
       "content_sha256": "ddfada43bd7e581f8eaab2efb33ba40870b094d136b5fc86f241781391f13b30",
@@ -1308,15 +1823,65 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "ddfada43bd7e581f8eaab2efb33ba40870b094d136b5fc86f241781391f13b30",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p130:l005",
+          "core:p130:l006",
+          "core:p130:l007",
+          "core:p130:l008",
+          "core:p130:l010",
+          "core:p130:l011",
+          "core:p130:l012",
+          "core:p130:l013",
+          "core:p131:l005",
+          "core:p131:l006",
+          "core:p131:l007",
+          "core:p131:l008",
+          "core:p131:l009",
+          "core:p131:l010",
+          "core:p131:l011",
+          "core:p131:l012"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hazard-family": {
-      "content_sha256": "aab43e826f7c9babbce9742f407fb72f7afb3cf8d2b71f4fc653d24674720f65",
+      "content_sha256": "48d5f540cfb81e55b27224465b699270738b86a559db98b84df0a52e03188716",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "48d5f540cfb81e55b27224465b699270738b86a559db98b84df0a52e03188716",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p132:l005",
+          "core:p132:l006",
+          "core:p132:l007",
+          "core:p132:l008",
+          "core:p132:l009",
+          "core:p132:l010",
+          "core:p132:l012",
+          "core:p132:l013",
+          "core:p132:l014",
+          "core:p132:l015",
+          "core:p132:l016",
+          "core:p132:l017",
+          "core:p132:l018",
+          "core:p132:l019"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hazard-friendship": {
       "content_sha256": "2b944dfaf5fe78af98aed6f0ef883ecfb43bd91ed0998f5104078be6efb284b2",
@@ -1324,7 +1889,31 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "2b944dfaf5fe78af98aed6f0ef883ecfb43bd91ed0998f5104078be6efb284b2",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p133:l005",
+          "core:p133:l006",
+          "core:p133:l007",
+          "core:p133:l008",
+          "core:p133:l009",
+          "core:p133:l010",
+          "core:p133:l012",
+          "core:p133:l013",
+          "core:p133:l014",
+          "core:p133:l015",
+          "core:p133:l016",
+          "core:p133:l017",
+          "core:p133:l018",
+          "core:p133:l019"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hazard-tradition": {
       "content_sha256": "e575f7e9000bc68f612149c82a787adf3449e9e35856d0d8691a48491213944b",
@@ -1332,15 +1921,63 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "e575f7e9000bc68f612149c82a787adf3449e9e35856d0d8691a48491213944b",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p134:l005",
+          "core:p134:l006",
+          "core:p134:l007",
+          "core:p134:l008",
+          "core:p134:l009",
+          "core:p134:l010",
+          "core:p134:l012",
+          "core:p134:l013",
+          "core:p134:l014",
+          "core:p134:l015",
+          "core:p134:l016",
+          "core:p134:l017",
+          "core:p134:l018",
+          "core:p134:l019"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hazard-nature": {
-      "content_sha256": "47082d63d22f46b3a91d8c58cd6d0f70950e7deb284ccdf21c12e29a506d249a",
+      "content_sha256": "f08eb037f735673d8f34f33f9d0d9599b1eb855f143d024d9bb1d47024ae6199",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "f08eb037f735673d8f34f33f9d0d9599b1eb855f143d024d9bb1d47024ae6199",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p135:l005",
+          "core:p135:l006",
+          "core:p135:l007",
+          "core:p135:l008",
+          "core:p135:l009",
+          "core:p135:l010",
+          "core:p135:l012",
+          "core:p135:l013",
+          "core:p135:l014",
+          "core:p135:l015",
+          "core:p135:l016",
+          "core:p135:l017",
+          "core:p135:l018",
+          "core:p135:l019"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hazard-moves-cast": {
       "content_sha256": "72488b87f6c768eab5f8de0470d992b91b717e3226736d30285ad36e031f221d",
@@ -1348,7 +1985,22 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "72488b87f6c768eab5f8de0470d992b91b717e3226736d30285ad36e031f221d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p136:l005",
+          "core:p136:l006",
+          "core:p136:l008",
+          "core:p136:l009",
+          "core:p136:l010"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-countdown-moons": {
       "content_sha256": "76abc88593b50fe9a671170b99b76b4cee47d8fb049c7b4d3f943ac1802359a8",
@@ -1356,23 +2008,80 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "76abc88593b50fe9a671170b99b76b4cee47d8fb049c7b4d3f943ac1802359a8",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p137:l005",
+          "core:p137:l006",
+          "core:p137:l007",
+          "core:p137:l008",
+          "core:p137:l009",
+          "core:p137:l010",
+          "core:p137:l011",
+          "core:p138:l005",
+          "core:p138:l006",
+          "core:p138:l007",
+          "core:p138:l008",
+          "core:p138:l009",
+          "core:p138:l010",
+          "core:p138:l011"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-countdown-example": {
-      "content_sha256": "6fdbaee228e3e620c7cf7802f6d0a55828890a036e7381cd7350fce8454b73db",
+      "content_sha256": "b208a1f1b649a56c2d00e2285eb0aa1b0d2fa1c22c39ae2ab730db201e2af50d",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "b208a1f1b649a56c2d00e2285eb0aa1b0d2fa1c22c39ae2ab730db201e2af50d",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p138:l012",
+          "core:p139:l004",
+          "core:p139:l005",
+          "core:p139:l006"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-custom-moves": {
-      "content_sha256": "c82ec7326b30d02c4c4bc9215702bf0b0cc98f3475a4a569ce31bebd69ada733",
+      "content_sha256": "0f3656281513f336ff558dcc32905d04e0194ceaa174826248a9f01221f3abe1",
       "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "0f3656281513f336ff558dcc32905d04e0194ceaa174826248a9f01221f3abe1",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p140:l005",
+          "core:p140:l006",
+          "core:p140:l007",
+          "core:p140:l008",
+          "core:p140:l009",
+          "core:p140:l010",
+          "core:p140:l011",
+          "core:p141:l005",
+          "core:p141:l006"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-hazards-darkness": {
       "content_sha256": "b4a306ad3ccaeabf2dbc9ed4e6942150b5e911c797828feb1f6bb29d6e8432e1",
@@ -1380,7 +2089,20 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "b4a306ad3ccaeabf2dbc9ed4e6942150b5e911c797828feb1f6bb29d6e8432e1",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p141:l008",
+          "core:p141:l009",
+          "core:p141:l010"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-festive-grudges-cast": {
       "content_sha256": "207374b154391fbfb9b1f57c84fa8d2b3fecef563eb01f80352efb6c1b59a6ce",
@@ -1388,7 +2110,37 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "207374b154391fbfb9b1f57c84fa8d2b3fecef563eb01f80352efb6c1b59a6ce",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p142:l005",
+          "core:p142:l006",
+          "core:p142:l007",
+          "core:p142:l009",
+          "core:p142:l010",
+          "core:p142:l011",
+          "core:p142:l012",
+          "core:p142:l013",
+          "core:p142:l014",
+          "core:p142:l015",
+          "core:p142:l016",
+          "core:p142:l017",
+          "core:p142:l018",
+          "core:p142:l019",
+          "core:p142:l020",
+          "core:p142:l021",
+          "core:p142:l022",
+          "core:p142:l023",
+          "core:p142:l024",
+          "core:p142:l025"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "gm-festive-grudges-moons": {
       "content_sha256": "cf28824fbf23e8fc893d0389708a28b6131848326ea7e01f43e7de92b8dd728a",
@@ -1396,7 +2148,24 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪完成原文初校及逐區塊對照；尚待獨立語義複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / GM and hazards batch 04",
+        "content_sha256": "cf28824fbf23e8fc893d0389708a28b6131848326ea7e01f43e7de92b8dd728a",
+        "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+        "evidence": [
+          "core:p143:l005",
+          "core:p143:l006",
+          "core:p143:l007",
+          "core:p143:l008",
+          "core:p143:l010",
+          "core:p143:l012",
+          "core:p143:l014"
+        ],
+        "scope": "龍主指引、六種扮演書主持建議、首次聚會、結局及完整危害章節原文初校；不含112–128頁實際遊玩長範例。尚未獨立複核。"
+      }
     },
     "core-afterword": {
       "content_sha256": "31f0bcc83f16d69e9d97b97027b121edd2deff9307996a71bebe611ae1bb7157",
