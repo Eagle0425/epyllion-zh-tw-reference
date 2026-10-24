@@ -1,0 +1,7 @@
+source/
+*.tar.gz
+*.tgz
+*.zip
+node_modules/
+__pycache__/
+.openai/*.local.*
