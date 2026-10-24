@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "terms": [
+    {
+      "id": "term-001",
+      "en": "Dragonia",
+      "zh": "龍域",
+      "entry_id": "dragonia-land",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-002",
+      "en": "Clutch",
+      "zh": "龍群",
+      "entry_id": "clutches",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-003",
+      "en": "Dragonmaster / DM",
+      "zh": "龍主",
+      "entry_id": "gm-agendas",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-004",
+      "en": "Charm",
+      "zh": "魅力",
+      "entry_id": "dice",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-005",
+      "en": "Courage",
+      "zh": "勇氣",
+      "entry_id": "dice",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-006",
+      "en": "Cunning",
+      "zh": "機巧",
+      "entry_id": "dice",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-007",
+      "en": "Friendship Gems",
+      "zh": "友誼寶石",
+      "entry_id": "gems",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-008",
+      "en": "Shadow",
+      "zh": "暗影",
+      "entry_id": "shadows",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-009",
+      "en": "Shadowself",
+      "zh": "暗影化身",
+      "entry_id": "shadowself",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-010",
+      "en": "Raw-Scaled Drake",
+      "zh": "若鱗幼龍",
+      "entry_id": "age-raw-scaled",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-011",
+      "en": "Winged Drake",
+      "zh": "青年飛龍",
+      "entry_id": "age-winged",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-012",
+      "en": "Long-Toothed Dragon",
+      "zh": "成年牙龍",
+      "entry_id": "age-long-toothed",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-013",
+      "en": "Bearded Dragon",
+      "zh": "壯年鬚龍",
+      "entry_id": "age-bearded",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-014",
+      "en": "Elder Dragon",
+      "zh": "上古巨龍",
+      "entry_id": "age-elder",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-015",
+      "en": "Ancient",
+      "zh": "遠古巨龍",
+      "entry_id": "ancients-mystics-lore",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-016",
+      "en": "Mystic",
+      "zh": "神話巨龍",
+      "entry_id": "ancients-mystics-lore",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-017",
+      "en": "Myndoth / House of Oak",
+      "zh": "敏鐸司／橡木家族",
+      "entry_id": "house-myndoth",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-018",
+      "en": "Semscale / House of Jade",
+      "zh": "雪思可／翡翠家族",
+      "entry_id": "house-semscale",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-019",
+      "en": "Kebros / House of Ruby",
+      "zh": "科布羅斯／紅玉家族",
+      "entry_id": "house-kebros",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-020",
+      "en": "Rothscar / House of Gold",
+      "zh": "洛斯加／黃金家族",
+      "entry_id": "house-rothscar",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-021",
+      "en": "Brynback / House of Steel",
+      "zh": "布蘭巴克／鋼鐵家族",
+      "entry_id": "house-brynback",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-022",
+      "en": "Tessith / House of Diamond",
+      "zh": "塔希絲／鑽石家族",
+      "entry_id": "house-tessith",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-023",
+      "en": "Void Moon",
+      "zh": "虛無之月",
+      "entry_id": "moon-magic",
+      "status": "established",
+      "forbidden": [
+        "虛空之月"
+      ],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-024",
+      "en": "Liberty Moon",
+      "zh": "自由之月",
+      "entry_id": "moon-magic",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-025",
+      "en": "Stone Moon",
+      "zh": "堅石之月",
+      "entry_id": "moon-magic",
+      "status": "established",
+      "forbidden": [
+        "磐石之月"
+      ],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-026",
+      "en": "Spirit Moon",
+      "zh": "靈魂之月",
+      "entry_id": "moon-magic",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-027",
+      "en": "Storm Moon",
+      "zh": "風暴之月",
+      "entry_id": "moon-magic",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-028",
+      "en": "Act Despite Danger",
+      "zh": "冒險行動",
+      "entry_id": "act-despite-danger",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-029",
+      "en": "Stand Up to an Older Dragon",
+      "zh": "以下犯上",
+      "entry_id": "stand-up",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-030",
+      "en": "Convince a Dragon",
+      "zh": "說服他龍",
+      "entry_id": "convince",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-031",
+      "en": "Mislead or Trick",
+      "zh": "誤導愚弄",
+      "entry_id": "mislead",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-032",
+      "en": "Study Another Dragon",
+      "zh": "研讀他龍",
+      "entry_id": "study",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-033",
+      "en": "Survey an Ancient or Arcane Area",
+      "zh": "勘查古老或神秘區域",
+      "entry_id": "survey",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-034",
+      "en": "Help or Hinder",
+      "zh": "協助或妨礙",
+      "entry_id": "help-hinder",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-035",
+      "en": "Appendix: Play Materials / The Drakes",
+      "zh": "附錄：遊戲材料與六種幼龍",
+      "entry_id": "core-playbooks-overview",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-036",
+      "en": "The Academic",
+      "zh": "學者",
+      "entry_id": "pb-academic",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-037",
+      "en": "An Ear for the Arcane",
+      "zh": "秘法音感",
+      "entry_id": "pb-academic-arcane-ear",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-038",
+      "en": "Field of Expertise",
+      "zh": "專精領域",
+      "entry_id": "pb-academic-expertise",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-039",
+      "en": "Old Debts",
+      "zh": "陳年舊帳",
+      "entry_id": "pb-academic-old-debts",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-040",
+      "en": "Familiar with the Old Ways",
+      "zh": "熟悉傳統",
+      "entry_id": "pb-academic-old-ways",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-041",
+      "en": "Peer Review",
+      "zh": "請教同儕",
+      "entry_id": "pb-academic-peer-review",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-042",
+      "en": "The Crafter",
+      "zh": "工匠",
+      "entry_id": "pb-crafter",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-043",
+      "en": "Crafty Claw",
+      "zh": "鬼爪神工",
+      "entry_id": "pb-crafter-crafty-claw",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-044",
+      "en": "Dragon Trade",
+      "zh": "巨龍手藝",
+      "entry_id": "pb-crafter-dragon-trade",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-045",
+      "en": "An Eye for Detail",
+      "zh": "洞察之眼",
+      "entry_id": "pb-crafter-eye-detail",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-046",
+      "en": "Monument to the Moons",
+      "zh": "月之聖碑",
+      "entry_id": "pb-crafter-monument-moons",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-047",
+      "en": "Saddlebag of Potential",
+      "zh": "潛力鞍囊",
+      "entry_id": "pb-crafter-saddlebag",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-048",
+      "en": "The Daredevil",
+      "zh": "勇者",
+      "entry_id": "pb-daredevil",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-049",
+      "en": "Beast Companion",
+      "zh": "動物夥伴",
+      "entry_id": "pb-daredevil-beast-companion",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-050",
+      "en": "Clear Headed",
+      "zh": "清晰思緒",
+      "entry_id": "pb-daredevil-clear-headed",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-051",
+      "en": "Danger Is My Middle Name",
+      "zh": "危險本性",
+      "entry_id": "pb-daredevil-danger",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-052",
+      "en": "Share the Load",
+      "zh": "承擔黑暗",
+      "entry_id": "pb-daredevil-share-load",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-053",
+      "en": "Slippery Scales",
+      "zh": "滑溜龍鱗",
+      "entry_id": "pb-daredevil-slippery-scales",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-054",
+      "en": "The Nature Adept",
+      "zh": "自然之民",
+      "entry_id": "pb-nature-adept",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-055",
+      "en": "Beast of the Land",
+      "zh": "大地獸靈",
+      "entry_id": "pb-nature-adept-beast-land",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-056",
+      "en": "Smokescreen",
+      "zh": "煙幕迷彩",
+      "entry_id": "pb-nature-adept-smokescreen",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-057",
+      "en": "Spirit Guide",
+      "zh": "精魂嚮導",
+      "entry_id": "pb-nature-adept-spirit-guide",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-058",
+      "en": "Master of Two Worlds",
+      "zh": "自然主宰",
+      "entry_id": "pb-nature-adept-two-worlds",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-059",
+      "en": "Wild Speech",
+      "zh": "荒野語言",
+      "entry_id": "pb-nature-adept-wild-speech",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-060",
+      "en": "The Seer",
+      "zh": "先知",
+      "entry_id": "pb-seer",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-061",
+      "en": "Haunting Visions",
+      "zh": "黑暗幻象",
+      "entry_id": "pb-seer-haunting-visions",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-062",
+      "en": "One of Them",
+      "zh": "黑暗之友",
+      "entry_id": "pb-seer-one-of-them",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-063",
+      "en": "Secret Catcher",
+      "zh": "窺密者",
+      "entry_id": "pb-seer-secret-catcher",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-064",
+      "en": "Touch the Darkness",
+      "zh": "黑暗之觸",
+      "entry_id": "pb-seer-touch-darkness",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-065",
+      "en": "Wyrmtongue",
+      "zh": "古龍之語",
+      "entry_id": "pb-seer-wyrmtongue",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-066",
+      "en": "The Warrior",
+      "zh": "戰士",
+      "entry_id": "pb-warrior",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-067",
+      "en": "All Fired Up",
+      "zh": "熾熱之心",
+      "entry_id": "pb-warrior-all-fired-up",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-068",
+      "en": "Battle Plan",
+      "zh": "戰鬥計策",
+      "entry_id": "pb-warrior-battle-plan",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-069",
+      "en": "Dragonheart",
+      "zh": "真龍之心",
+      "entry_id": "pb-warrior-dragonheart",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-070",
+      "en": "Lies Do Not Become Us",
+      "zh": "敞開心胸",
+      "entry_id": "pb-warrior-lies",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    },
+    {
+      "id": "term-071",
+      "en": "Scales of Honor",
+      "zh": "榮耀之鱗",
+      "entry_id": "pb-warrior-scales-honor",
+      "status": "established",
+      "forbidden": [],
+      "notes": "沿用既有發布版譯名；未聲稱另有人工作最終核准。"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "schema_version": 1,
+  "baseline": "b78916bbc29dd0560a5485a3750821f8e71d42a0",
+  "published_entry_count": 208,
+  "published_content_preserved": true,
+  "canonicalized_entries": [
+    {
+      "entry_id": "ed-kebros-story",
+      "before_sha256": "367b4c63af1361ac88d8fff887a1fd35a1499522f73a68067ce15f3e0ead6cf9",
+      "after_sha256": "a407cb0df988426b8a3c3c535d4d89f6e08a797c5d1e99124d4fb70b67802133",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-legends-story",
+      "before_sha256": "61b1bc258b3a6bf0f2d006ec2dc2dfefe82072ce6a63c09fe5f9785d6f744754",
+      "after_sha256": "3860465d2e32a94db80d86731877134cba1629217ac72337e7a8ec9988f20f3b",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-reckoning-story",
+      "before_sha256": "672407248a13f8c6ccdaff64d436b599c7473c63a312740d3cbbbc3626ef5885",
+      "after_sha256": "8ca672ae19b284afe35adefe809b34bd7a30933f3c516ab7fcda64624d72e53d",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-credits",
+      "before_sha256": "703dae18bfce578a8ed9feda009d45175a1770a435b7e409250df75140fde932",
+      "after_sha256": "9cbc7695c1176fd5ce27afa30ab7a1b0bd047715136a343e6074e2ef6b364065",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-introduction",
+      "before_sha256": "1e5b22b88cf3fb1689217c5e34012b8e0a6321d7037c3cd839ea8179c29278f8",
+      "after_sha256": "2ff0e540ab391ac13e7b11de48f55c1add4654cb5ac9d1db6966f4df6f7146b7",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-sage-moves",
+      "before_sha256": "0fd32e245dee21d19730ce9f4b9f01f4d1cd318cd5cefe754283d96f69b088d7",
+      "after_sha256": "4d94c5f932e6b90d2f09577cc72de641b0e7475793fb20e39747b114f76e913c",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-monastery-moves",
+      "before_sha256": "1541c6660066404c985730532789f16b5bc12f8d08730520a0f7dfbc898e8ec4",
+      "after_sha256": "67e566f2a832b594458d113025e99317849e1fdd3871049b70364f3becfe5bc5",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-yeraktos-moves",
+      "before_sha256": "93a1e99254b1af7d7c854f6ae758fc94cbf7601701f00b3125e9f487dc70c8a5",
+      "after_sha256": "8a35a59fd100b6c444e2eb7d2d75694f01c2da0088754791a168a3b1507faebc",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-cellani-moves",
+      "before_sha256": "19c9a0353b6b9dd7645cd9f769bd8550f18a4b14a3c745fc1bb263074818d0d5",
+      "after_sha256": "dda969c97e847c9e9652315213673cfb41e5fd9179e2380706931265ed624a1e",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-sky-city-move",
+      "before_sha256": "f381d435f5792e8d3d5791967557b967d2ec300d0214cc8f7c16614e59038c8e",
+      "after_sha256": "191932f2d7bf436125f48a760ee92e60abaf6cd854faacc546241645904f0d0e",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-umbra-move",
+      "before_sha256": "e6409ea5666a56d9f78d902d1569613220508a7e78bd6acc137899da83f1b7d4",
+      "after_sha256": "0fc5a6dec3dfefa7ed02923b92e58688ce713918695d11df2ebb262e1ef26110",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-stellar-moves",
+      "before_sha256": "57435d42e417cb2514a133866434f6e27d849e73e6b727d80901e4258500a17b",
+      "after_sha256": "e7af99169e2bcf6282728dfce94c4200640956bd3dd4cd33b61a320bec09f69e",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-far-reaches-move",
+      "before_sha256": "d8b66a0a56c4247d5d6fffe90fa4fcd3d6db78ee5c93b9a3fe69ff6443ce5ea1",
+      "after_sha256": "50dd54e70986b1a7ccf208bbd1de1ed494cbf4fb1992fb6d2bc72125e045bd1a",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-rites-ruby",
+      "before_sha256": "758ac4e534aa69d86fcaede5b75bdcd8ab883bc92cdf59abd82d79ac2b715a2f",
+      "after_sha256": "1111ad59a0edb68c51769589ffb13a592716ac5fe344904905e687231b451035",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-tessith-move",
+      "before_sha256": "72aaa14b98ad8b3d0b5223c4be7880c887b6cba57b796f255cef1d5a2008c9ac",
+      "after_sha256": "90a825c330c0ec444eb00dbfbab8c7444b6b244a9ab269a7ca5c6e180aedba72",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-reckoning-moves",
+      "before_sha256": "73b29b2d61b02d0763bca7cedb9b6381147f932cf29fe21321aa4d88a328ad8a",
+      "after_sha256": "ba545cbf74ac353f339964e286dadcf0ac53a87210013deedc9e67567ddc8c28",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-playbooks-intro",
+      "before_sha256": "2b56b825ec1c4cb0e35caf0a6da046cdcb2e2ae94876caf6010ed27efae4202d",
+      "after_sha256": "c00c9c1194dc4028eecca70ca91447a7ae51928d84e964d37aabd611cf2e4475",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-elementalist",
+      "before_sha256": "0efbc91f515befa1db646ab4a15517596885cf06e22a4c4912a4efaabba8fe65",
+      "after_sha256": "7ef7719be224caf9932359f41a23e61520f32c5521065ed22bd9213f529b3e27",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-elementalist-dm",
+      "before_sha256": "a6ae8e091586a614eb3e795249041a6cb69a41e28befd3bcda9646aa6a5878f9",
+      "after_sha256": "9619f4ef130974a2d09e420a17cba20a3230915c342e88fa4b147e7ec1f46423",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-envoy",
+      "before_sha256": "2d331aeac357072813b7cef852e2a0130ccd7f1772c4c53183f84add3c39d2d1",
+      "after_sha256": "2a6bed398ec6a4f3d16e93e1c35af54b65d2c9b4b799557d88953369cc79dbb0",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-envoy-dm",
+      "before_sha256": "cc4a32e097d8284c5f7db8d6458c09df8f09b6ddb35c7a49eebf74084dd1ca73",
+      "after_sha256": "b8ae36cff59f9202a4578f15525000250724d574496f97577d99d4ae3ee28e14",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-orphan",
+      "before_sha256": "73ba17f650c3945e5d9979dc3b5eb8061bfe7326dfda9b17e5a81b220cba305c",
+      "after_sha256": "7c0c9a36cdb67633a8647c94db68d5a6a33e57ec13b942a00f73051b6733a12e",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-orphan-dm",
+      "before_sha256": "a27dfc0e418feac525859225141c762769c995203c633479a470877a443792b5",
+      "after_sha256": "c2317ff1e2e5384063a7bd96a47675cfa6165a86aa38c3c9effaa69cbee90ecd",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-rebel",
+      "before_sha256": "f43d19022e84eafd32169ccdc4d526482b6cb3ecabc18c126d70bc4ec3531b47",
+      "after_sha256": "380e9627f60cac9b81abd514f34f3360146f6e63fcd57b75c74aef1423691ea7",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-rebel-dm",
+      "before_sha256": "22e3fb8d896a84e81112a5fdecbae927288c5ed275cb680b932cf5f5240eb0b8",
+      "after_sha256": "8abb26ed19257286c20da6aba48fe10bc4c9bbe2215dbd399d11e5b0877c8837",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-playbook-growth",
+      "before_sha256": "0e21dfc50e699c5a21c2aa087cf0ba3f5fdd7a3dfec74d3281bed9cf60d75953",
+      "after_sha256": "d652b8873b9de6df69c69d43d6bf97a511db1be6334c43c5e19c13e3710ad287",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "ed-stats-appendix",
+      "before_sha256": "6b705fbc8d9551c17279d67739195b8edce3eb9e2949a87c3c4ac66806825d8a",
+      "after_sha256": "44ff5839fe87b30f17f6ced9b7273baa15092cee3619d0a81a91b2c42423dde7",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-beneath-scales",
+      "before_sha256": "5e980e65f67cbfd8fdc7d7e113a9b3cbadf6991bbc077d7925ccf87cee52606c",
+      "after_sha256": "234fb42e95565135ed8dafb2641d550562b7f75847923d3772af15d84732c774",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-academic",
+      "before_sha256": "013cdb07ca9b78cbf075fcba3413ac9c590dbc51f5f48a22b4028a49dba7ca2e",
+      "after_sha256": "40b14af00a65bb3ce190b830bcbf424b38f164e0715ecf24e61582d228e28ebb",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-crafter",
+      "before_sha256": "e027b56b3c5da2ee29fc6012706423f614ac153997bf207a0df7cdce078ef90b",
+      "after_sha256": "1bc335e7c01852f6d4fdfc0d3f4a27627f4218cd5a3ddb2502540661131a0892",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-daredevil",
+      "before_sha256": "f1421e758d05deb13ff4f058fe72f37ec0ed5527eb460b6ddc6e38e97b118de0",
+      "after_sha256": "07f631d8d00ab081f131897c1e5799742ef749703d0e17a6b2e02588c3392d2f",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-nature-adept",
+      "before_sha256": "5199ec12dc123ed61aabd7344bbb3920d7d3fd4e7949d56145011d80844ca47c",
+      "after_sha256": "ccd74e9128a36bc45200178ac88d298cad3343ba571a863fdd1873d04e58b7fb",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-seer",
+      "before_sha256": "c39e841694f1443d205abfb80af135f85969c5ed341db18d0834a1651dc4d9ff",
+      "after_sha256": "503441b37b2195bdefc77dae2a84dbd89240ae53db12e8d3a8566015e292fb30",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-warrior",
+      "before_sha256": "c2ac812d568c20b288b3326fe2ab56ff0438a2391831232c33f080806cb0eda1",
+      "after_sha256": "2b02b9cb9f7ad0a20fc16911bbf5c978a6c27530aebe043d49c32cbbb6a3cd92",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-first-session-preparation",
+      "before_sha256": "39a09c7c5f967c5b3ff84be772b78037d128af5bdefd1d829072e31121efb03c",
+      "after_sha256": "de744d847c2dd933773f5c7a67b20f75d2d6f8a2b7ea663e05e8173769730f11",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-first-adventure",
+      "before_sha256": "cfdc869e4e24be97751e09a88ae4aa2739537df12efc9eb25773358d3cb0d0b6",
+      "after_sha256": "f4bb917ee1c51f65924ff7138a6a8f975154a46f1c79dcb61f59f678b2f88a48",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-ending",
+      "before_sha256": "c27dd772a0b722248d2bab492cb8906863e17020abef78e9100930bfe34ecaee",
+      "after_sha256": "aebd01f8ed0681d430c0bf7cc8c6a273b394e2bfcbf57adb4ca92c3071d2c111",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-example-setup",
+      "before_sha256": "551154e153bd82f311c9611de78034d0cd543dbf76648724622553d371262553",
+      "after_sha256": "4326b22be2ac8c8362c4aa1f54dbc62d770397d5445fcbe9e584d4115e4313d1",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-example-survey",
+      "before_sha256": "033830bf7b04a77e3a256c9c0b00a7ebc645d95baa7413aa6e4fb648f5f8d8f5",
+      "after_sha256": "ee6a014ef4587d5c9b081ddacdf6fbd667322526d54293be2a3036ccd65047b1",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-example-ritual",
+      "before_sha256": "ac7eea4ee06dd7c4e2e20044a2478fd30ad066f3f87adabf6236c8c8bd04125c",
+      "after_sha256": "007e8eb65fa23c038a8f4c06931ba696e80402295dc0262dabcd1af6a2225ef9",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-example-queen",
+      "before_sha256": "f770fb61fec1d10723525f93e8798f8609f3131a9f14c602caa07b20275c5362",
+      "after_sha256": "5e247a9c8729f70e627dae8568084ba04651fdde653bb5a5137c9e8cf5b1e8e2",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazards-introduction",
+      "before_sha256": "4015c2ea9a73544ad2edf6b839e718de572036ad4630fdf1dde876210a1ae1ce",
+      "after_sha256": "9c322f185faaccbb9153f2b084cda3db137d32b9a7a541f306d84c1902821965",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-creating-hazards",
+      "before_sha256": "110360c782292bd2be0f522f0a4d465ada1e491eb36ac37335b5b535e08c54e4",
+      "after_sha256": "ddfada43bd7e581f8eaab2efb33ba40870b094d136b5fc86f241781391f13b30",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazard-family",
+      "before_sha256": "32c07721a0610799103b08700472ff21020ba5473f30696aa71fe2177b64137d",
+      "after_sha256": "aab43e826f7c9babbce9742f407fb72f7afb3cf8d2b71f4fc653d24674720f65",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazard-friendship",
+      "before_sha256": "7c73423891d783bbf3ef54692580d820226b41dfbb90a6baba4b6d76786608db",
+      "after_sha256": "2b944dfaf5fe78af98aed6f0ef883ecfb43bd91ed0998f5104078be6efb284b2",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazard-tradition",
+      "before_sha256": "98a7ea08f09480cf266bce937954a304d949129dd72e308029fdd3f215dcd8c8",
+      "after_sha256": "e575f7e9000bc68f612149c82a787adf3449e9e35856d0d8691a48491213944b",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazard-nature",
+      "before_sha256": "d9b679e833954ac22bd48b44c9459333c373901e6c9931a1314380e955aaf13e",
+      "after_sha256": "47082d63d22f46b3a91d8c58cd6d0f70950e7deb284ccdf21c12e29a506d249a",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazard-moves-cast",
+      "before_sha256": "12a46c53e71de688d980f2c666c733c98e623eb3a451b17f9a05cc0bc53551c9",
+      "after_sha256": "72488b87f6c768eab5f8de0470d992b91b717e3226736d30285ad36e031f221d",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-countdown-moons",
+      "before_sha256": "84c4fe1eb40da994bddb3d972a8c4bb1290d25d1a5e3012723150b716610332c",
+      "after_sha256": "76abc88593b50fe9a671170b99b76b4cee47d8fb049c7b4d3f943ac1802359a8",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-countdown-example",
+      "before_sha256": "24a61e4a0b34ecbe4d4a05b9884d0de15f02e91a0754b901f075709df297b546",
+      "after_sha256": "6fdbaee228e3e620c7cf7802f6d0a55828890a036e7381cd7350fce8454b73db",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-custom-moves",
+      "before_sha256": "7f7ebc4b556c76573abde40cd1429f4c7036981a29d444305d78844d7f79ffc6",
+      "after_sha256": "c82ec7326b30d02c4c4bc9215702bf0b0cc98f3475a4a569ce31bebd69ada733",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-hazards-darkness",
+      "before_sha256": "18aadb0d32bd7af29b169f2a4b40e3fc2ac3f6fcb70b2621baa211e9b21024f9",
+      "after_sha256": "b4a306ad3ccaeabf2dbc9ed4e6942150b5e911c797828feb1f6bb29d6e8432e1",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-festive-grudges-cast",
+      "before_sha256": "f238109cfeeea385f1e9736c637f2d2828c2e60a5159c8d9db6420b5c862389d",
+      "after_sha256": "207374b154391fbfb9b1f57c84fa8d2b3fecef563eb01f80352efb6c1b59a6ce",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "gm-festive-grudges-moons",
+      "before_sha256": "f55b4cf92344a40aa2a72b61963469e0f4b015f589b62ce5cb0f5c7c3f3be54c",
+      "after_sha256": "cf28824fbf23e8fc893d0389708a28b6131848326ea7e01f43e7de92b8dd728a",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "pb-academic",
+      "before_sha256": "719a2dea47e91f2874ae03ddb36bd3ca6aa86ef00b32caed6de2a01ac99a9a6a",
+      "after_sha256": "b436332314d2377819dfefff037882de072377546f2c644dddcfc9ded1b231ab",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "pb-crafter",
+      "before_sha256": "008de524e2d3bcba506b44e0f766d43a00eaf3a0b78c6b323f4ab768f4f87492",
+      "after_sha256": "332cb95adb219b7cf8d09abf38515a957ce06c199d962d3db4e2b42a91bda5b1",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "pb-daredevil",
+      "before_sha256": "82474ef9ea44b3f617c000225c2613d29bedb2ae10703d86132b04e6ce0a084d",
+      "after_sha256": "55333d2b87614c75c67f1e3a7357410ea7ba75c5ae5ac23f1cf416b848557a9b",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "pb-nature-adept",
+      "before_sha256": "0cbf533dee8ef753743d4bd61d9215756fe48268e62f407675fb3a0f2c83d860",
+      "after_sha256": "8852197ed3f59187383f751f2c95b520bc3ef7fa1ee36c05fbcdc771d7905e25",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "pb-seer",
+      "before_sha256": "264f081bf1422f3a4678292d1015f429f73f1d080de608ac308320cefb534bc0",
+      "after_sha256": "64839b1da24ea583a46874c272847b032f9bd62ad733db1e2431bf98a875ee44",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "pb-warrior",
+      "before_sha256": "cc9e626a097eae7430ee77f04fb198e3c0061cd0215466c00fffcfceec6ca396",
+      "after_sha256": "bca17bc63114d081bbfc87da92425b60b21a400747788a93b5c3ad72a065d2db",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "play-materials",
+      "before_sha256": "3b8e06d99f62d306febe6594a8369e3433722506e2e21e26a14c6bb889e353f7",
+      "after_sha256": "c960b41a26a26d5f0c34b542d7a6a3b20a5f49f97a60c20e46ed32477b5ee61e",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "great-houses",
+      "before_sha256": "d2a9fc4b819e0a29e207069483a744d93a78988fee1cbbb887b1a549df8f4d8a",
+      "after_sha256": "23ffad1d5d79b03dcd7e1dfa37ed6b2a820be4daf8eba6f7ddea9aa7ac4de34a",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "house-kebros",
+      "before_sha256": "ab3b25c46712f3fa3540bcac7a1e46b2cb05f87585ab26209c73a5b37b88f3f0",
+      "after_sha256": "bf6b791c82d0ceb0b12163327cf0832220bf904d34cca5d7e5662f15b9107fda",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "five-moons",
+      "before_sha256": "94b63073963b76d1387db1d33e9f7d465ac25f82a8cee486e6372238d0078860",
+      "after_sha256": "be3718dde38225960318f5a90ae4c6f9e9e1edacc54a6386cb21559984ebdfbf",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "war-of-shadow",
+      "before_sha256": "fa5198de94a6a38aacee2f234bad37f191b5c619f6e2c26288a9c47be0c35e83",
+      "after_sha256": "b37b063ad4adf61534a333a9f416673a245e8fe9a7558c55206e4dbab011dc87",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "choose-playbook",
+      "before_sha256": "e81f1896f48fac290fe2d2b0a525343c6e37e142fff0134cbd987c1cd31d3f91",
+      "after_sha256": "36cb3f181f832efad36d25b007978a555cb5f54b39dc602f78d2e88c91c3a550",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "name-look",
+      "before_sha256": "8693f90dbb94b3efad7134d411b9179e2401d65e10db563ef34e92aaa26ebfad",
+      "after_sha256": "3c7fedaf6db3cd8e54475c7909cdb8fe0c3f4a1c47f33d6764e74d6b67aadd2d",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "character-stats",
+      "before_sha256": "83b02822c32981962bee385ad799195802213e589b41e843b333b3fe06b17e48",
+      "after_sha256": "3b7a133b722e7b946e02ffb62e889908b35da08ac7cc7991e7d12266daf8523b",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "virtues-gems-creation",
+      "before_sha256": "f966ce4cbb6805355b7a952a12c9bebaafeb83aefdcdfbef65d9f2aa99ada485",
+      "after_sha256": "4e3146970346614691e9867d28f5ebf39ad29e40d2f62e31e92ecba89ef0ecfa",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "picking-moves",
+      "before_sha256": "45fabffc3177cadc5d00e2dac21b2d1f0134fbb4e9af83fb25aefc2d8a377c56",
+      "after_sha256": "46ff8374aa04a0ee7bf3476ee7c88090cdaa47d740f8ed3889c1ed61058b0c81",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "growth-raw-scaled",
+      "before_sha256": "984735333ae33f26171264059f5f7bf6c615b87d00391a58809931e6919bcfd3",
+      "after_sha256": "0a1e2f597737267888f8415dd6f1a59e891ceeaafd8368678948537cb3a5cb70",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "growth-winged",
+      "before_sha256": "ddc1c07c4356cd8bc06f9d6d17b48c9f7243c3493e54e74cabff9a885eb241a5",
+      "after_sha256": "9d5c78fa2c247c4f0189bd6daf5faa1904a6746a9a7d90abb16d683075572628",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "growth-long-toothed",
+      "before_sha256": "757542517b41ae64b48da4521b124887de371333c540fb521a37dd58eb0c8802",
+      "after_sha256": "4d578020d171fa61519f3e3258d494e70ca890db47569504a733e23c86ff98bf",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "growth-bearded",
+      "before_sha256": "5bbcddfa5421d42f0f3978ed47fb291e1d021da1a0a2dde98b924d84c3b840ac",
+      "after_sha256": "e37238bd0fe7e9f5dc1e4fd85ddd64c95feb34675b3fb31e3346787fee387bcf",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    },
+    {
+      "entry_id": "house-rituals",
+      "before_sha256": "afd3d6687fc12145382c345acb119bcc5b4239f49a4415c85d57b581f37fb4a1",
+      "after_sha256": "cb6f8214700f107b218f886cfe2509dc951e60d32c5f12d52b03b96cc4e76650",
+      "reason": "將既有發布版的標準用詞寫回來源，取消建置時替換。"
+    }
+  ]
+}

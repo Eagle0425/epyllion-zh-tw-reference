@@ -1,18 +1,38 @@
 [
   {
-    "id": "core-opening-dedication", "title": "故事開端與獻辭", "en": "Opening / Dedication", "category": "world", "kind": "譯文", "source": {"book": "Epyllion 核心規則書", "pages": "3", "file": "core"},
+    "id": "core-opening-dedication",
+    "title": "故事開端與獻辭",
+    "en": "Opening / Dedication",
+    "category": "world",
+    "kind": "譯文",
+    "source": {
+      "book": "Epyllion 核心規則書",
+      "pages": "3",
+      "file": "core"
+    },
     "paragraphs": [
       "很久以前，龍域的龍驅退黑暗，拯救自己的生活方式，保護大地免遭腐化陰影侵襲。龍族取得勝利，繁榮了數千個日輪，然而黑暗又回來了，潛入曾被視為安全的所在，再次腐化龍的心靈。",
       "你們是一個新成立的幼龍巡禮龍群，幫助議會調查傳聞，探尋大地上日益滋長的陰影的真相。你和其他龍必須保護龍域，幫助龍族與荒野野獸克服困境，發現友誼的真正價值。",
       "獻辭：我將這款遊戲獻給新一代角色扮演玩家，以及我們之中勇敢懷抱遠大夢想、為重要事物奮鬥的每一位。謝謝！——MK"
-    ], "bullets": []
+    ],
+    "bullets": []
   },
   {
-    "id": "core-credits", "title": "製作名錄與致謝", "en": "Legalities & Credits", "category": "world", "kind": "譯文", "source": {"book": "Epyllion 核心規則書", "pages": "4", "file": "core"},
+    "id": "core-credits",
+    "title": "製作名錄與致謝",
+    "en": "Legalities & Credits",
+    "category": "world",
+    "kind": "譯文",
+    "source": {
+      "book": "Epyllion 核心規則書",
+      "pages": "4",
+      "file": "core"
+    },
     "paragraphs": [
       "規則靈感：《Epyllion》以 Powered by the Apocalypse 系統為基礎；《Apocalypse World》、《Dungeon World》、《Monsterhearts》、《Sagas of the Icelanders》、《Urban Shadows》等遊戲也使用這個系統。這套規則輕巧的系統，讓《Epyllion》以簡單機制，在幾乎不必事前準備的情況下產生有趣故事！",
       "特別感謝：Anastasia Kotsoglou、Ben Kaser、Ben Woerner、Brendan Conway、D. Vincent Baker、Eric Mersmann、Ian Miller、Jason Corley、John Adamus、John Harper、John Stavropoulos、John Wick、Jonathan Perrine、Katherine Fackrell、Mark Diaz Truman、Rich Flynn、Sage LaTorra、Sarah Richardson、Shelley Harlan、Suzette Presti、Thomas Deeny、Thomas Patrick Kelly II、Travis Scott，以及 The Indie Game Developer Network。"
-    ], "bullets": [
+    ],
+    "bullets": [
       "插畫：Jason Poole。",
       "美術指導：Marissa Kelly。",
       "地圖繪製：Stentor Danielson。",
@@ -24,17 +44,37 @@
     ]
   },
   {
-    "id": "core-afterword", "title": "後記", "en": "Afterword", "category": "world", "kind": "譯文", "source": {"book": "Epyllion 核心規則書", "pages": "144", "file": "core"},
+    "id": "core-afterword",
+    "title": "後記",
+    "en": "Afterword",
+    "category": "world",
+    "kind": "譯文",
+    "source": {
+      "book": "Epyllion 核心規則書",
+      "pages": "144",
+      "file": "core"
+    },
     "paragraphs": [
       "《Epyllion》誕生於我對史詩奇幻故事的熱愛，例如《哈比人》；那些複雜豐富的設定啟發了我的想像。這些故事是我總想追尋到底的兔子洞，通往讓我想迷失其中的土地。而在所有可講述的故事之中，我特別想更了解其中的龍，以及他們來自何方。",
       "如今，《Epyllion》的出版將我帶到一個美妙的地方，終於能與興奮的角色扮演玩家——無論資深或新手——分享龍域的世界；這些玩家都想講述龍與其來歷的故事。龍不只是貪婪、噴火的怪物，更是複雜而神祕的生物，擁有豐富、生氣蓬勃的傳統。",
       "將這款遊戲帶到你面前，本身就是一段史詩旅程。一切都要歸功於我出色的 Kickstarter 贊助者，以及由編輯、藝術家、朋友和支持者組成的夢幻團隊……謝謝你們。",
       "振翼高飛！"
-    ], "bullets": []
+    ],
+    "bullets": []
   },
   {
-    "id": "core-mediography", "title": "創作參考作品", "en": "Mediography", "category": "world", "kind": "譯文", "source": {"book": "Epyllion 核心規則書", "pages": "145", "file": "core"},
-    "paragraphs": [], "bullets": [
+    "id": "core-mediography",
+    "title": "創作參考作品",
+    "en": "Mediography",
+    "category": "world",
+    "kind": "譯文",
+    "source": {
+      "book": "Epyllion 核心規則書",
+      "pages": "145",
+      "file": "core"
+    },
+    "paragraphs": [],
+    "bullets": [
       "書籍／電影：《The Avengers》（復仇者聯盟）、《Dragonheart》、《Harry Potter》（哈利波特）、《The Hobbit》（哈比人）、《The Lord of the Rings Trilogy》（魔戒三部曲）、《Nausicaä of the Valley of the Wind》（風之谷）、《Princess Mononoke》（魔法公主）、《Percy Jackson》（波西傑克森）。",
       "遊戲：《7th Sea》、《Apocalypse World》、《Blood and Honor》、《Dungeon World》、《Houses of the Blooded》、《Monsterhearts》、《Mouse Guard》、《Urban Shadows》。",
       "電視：《My Little Pony: Friendship Is Magic》、《Sailor Moon》（美少女戰士）。",
@@ -42,8 +82,19 @@
     ]
   },
   {
-    "id": "core-playbooks-overview", "title": "附錄：遊戲材料與六種幼龍", "en": "Appendix: Play Materials / The Drakes", "category": "playbooks", "kind": "譯文", "source": {"book": "Epyllion 核心規則書", "pages": "146–147", "file": "core"},
-    "paragraphs": ["以下列出《Epyllion》的角色扮演書。《龍族百科》另有其他扮演書，但這六種是核心。每種均附介紹，以及擅長與較弱的屬性。"],
+    "id": "core-playbooks-overview",
+    "title": "附錄：遊戲材料與六種幼龍",
+    "en": "Appendix: Play Materials / The Drakes",
+    "category": "playbooks",
+    "kind": "譯文",
+    "source": {
+      "book": "Epyllion 核心規則書",
+      "pages": "146–147",
+      "file": "core"
+    },
+    "paragraphs": [
+      "以下列出《Epyllion》的角色扮演書。《龍族百科》另有其他扮演書，但這六種是核心。每種均附介紹，以及擅長與較弱的屬性。"
+    ],
     "bullets": [
       "學者（第 148–149 頁）：勤學、深思、鍥而不捨。學者獻身於追尋、保存並精通龍族文化的歷史、謎團與傳說。擅長屬性：機巧。較弱屬性：勇氣。",
       "工匠（第 150–151 頁）：聰明、耐心、堅定。工匠是所用媒材的大師，是盡心盡力的創作者，致力鍛造美麗、有力而堅強的物品。他理解並運用自己的作品，精準而優雅。擅長屬性：機巧。較弱屬性：魅力。",
@@ -52,13 +103,23 @@
       "先知（第 156–157 頁）：受幻象糾纏、充滿熱情、富有魅力。無論好壞，先知都與黑暗相連。他盡可能向黑暗學習，以保護其他龍免遭自己已見過的危險。擅長屬性：魅力。較弱屬性：機巧。",
       "戰士（第 158–159 頁）：勇敢、勤奮、誠實。戰士運用體魄與對龍域的奉獻，激勵其他龍、達成目標、保護弱小。擅長屬性：勇氣。較弱屬性：機巧。"
     ]
-  }
-  ,{
-    "id": "core-xp-track-lengths", "title": "各年齡的經驗軌格數", "en": "XP Tracks by Age", "category": "growth", "kind": "譯文", "source": {"book": "Epyllion 扮演書", "pages": "PDF 1–12", "file": "playbooks"},
+  },
+  {
+    "id": "core-xp-track-lengths",
+    "title": "各年齡的經驗軌格數",
+    "en": "XP Tracks by Age",
+    "category": "growth",
+    "kind": "譯文",
+    "source": {
+      "book": "Epyllion 扮演書",
+      "pages": "PDF 1–12",
+      "file": "playbooks"
+    },
     "paragraphs": [
       "六種核心扮演書的年齡圖表使用相同經驗軌。每次取得經驗，就填入目前年齡的一格。填滿該條經驗軌，依扮演書取得一項目前年齡的升級，再清空經驗軌。不同年齡的格數不同，應使用下列數值。",
       "圖表資料來自英文獨立扮演書的實際方格：學者 PDF 第 1 頁、工匠第 3 頁、勇者第 5 頁、自然之民第 7 頁、先知第 9 頁、戰士第 11 頁。"
-    ], "bullets": [
+    ],
+    "bullets": [
       "若鱗幼龍：5 格 XP 填滿一次。",
       "青年飛龍：4 格 XP 填滿一次。",
       "成年牙龍：4 格 XP 填滿一次。",

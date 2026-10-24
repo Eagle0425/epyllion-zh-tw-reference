@@ -4,4 +4,5 @@ source/
 *.zip
 node_modules/
 __pycache__/
+.quality-deps/
 .openai/*.local.*

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "decisions": [
+    {
+      "id": "source-priority",
+      "decision": "機制差異優先使用獨立英文扮演書與英文動作表，衝突須逐項記錄。"
+    },
+    {
+      "id": "presentation",
+      "decision": "保留現有速查網站與既有 ID，品質流程獨立於呈現框架。"
+    },
+    {
+      "id": "no-build-rewrite",
+      "decision": "建置不得批次改寫譯文；用詞變更直接修訂內容，附來源與決策紀錄。"
+    },
+    {
+      "id": "completion",
+      "decision": "收錄、結構檢查、來源段落對齊、語義校對分開計算，不以頁碼範圍或條目數當作全譯證據。"
+    },
+    {
+      "id": "review-invalidation",
+      "decision": "來源或譯文指紋改變時，既有校對結論失效。"
+    }
+  ]
+}

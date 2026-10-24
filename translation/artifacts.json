@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "path": "downloads/epyllion-moves-zh.pdf",
+      "sha256": "a58b1fe452e7e2cdedcebe0718bce19e13b4ae3f45ea071afc83e2695220d5dc",
+      "role": "retained-translation",
+      "review_status": "known-differences",
+      "notes": "既有翻譯，一頁。研讀他龍題數尚未同步網頁校訂。"
+    },
+    {
+      "path": "downloads/epyllion-playbooks-zh.pdf",
+      "sha256": "7d681d68671d996aeaf60effda8f43ddd0268b62e7dd4cf12f9f8fc8d77a0f49",
+      "role": "retained-translation",
+      "review_status": "known-differences",
+      "notes": "既有翻譯，六種角色、共十二頁。原始列印版。"
+    },
+    {
+      "path": "downloads/epyllion-core-en.pdf",
+      "sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "英文原書，2016 版。印刷頁碼比 PDF 頁序多一頁。"
+    },
+    {
+      "path": "downloads/epyllion-playbooks-en.pdf",
+      "sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "六種獨立角色表，作為網站規則校訂依據。"
+    },
+    {
+      "path": "downloads/epyllion-moves-en.pdf",
+      "sha256": "59225ca8d0801441dbf0f3e179b40668b8bbb320a407717e5c98fbbd7341faff",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "一頁基本動作原文，供數值與觸發條件核對。"
+    },
+    {
+      "path": "downloads/epyllion-dm-en.pdf",
+      "sha256": "ae6c4cfcb8b6cce5002d3795e1f5244faf8e0d102769934ddeda468441fd3853",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "目標、原則、龍主動作、NPC 靈感與危害紀錄。"
+    },
+    {
+      "path": "downloads/epyllion-map.pdf",
+      "sha256": "abe74a7de1e1acf1f450ef0b600e7ce3cde3146d9c60bb3b5b3c30f37c6666a1",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "2019 版空白地圖，適合列印後共同繪製。"
+    },
+    {
+      "path": "downloads/encyclopedia-draconica-en.pdf",
+      "sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "十七篇傳說、四種擴充扮演書與特殊動作。"
+    },
+    {
+      "path": "downloads/epyllion-ed-playbooks-en.pdf",
+      "sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "role": "source-reference",
+      "review_status": "reference-only",
+      "notes": "元素使、使節、孤龍、反叛者，八頁角色表。"
+    }
+  ],
+  "known_differences": [
+    {
+      "artifact": "downloads/epyllion-moves-zh.pdf",
+      "entry_id": "study",
+      "issue": "10+ 與 7–9 問題數對調；網頁已更正，既有 PDF 未重製。"
+    },
+    {
+      "artifact": "downloads/epyllion-playbooks-zh.pdf",
+      "entry_id": "pb-daredevil",
+      "issue": "家族義務欄位、成年牙龍跨扮演書成長及部分動作文字，以網站校訂為準。"
+    }
+  ]
+}

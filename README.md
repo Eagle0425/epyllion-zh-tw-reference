@@ -20,13 +20,22 @@
 網站直接發布 `dist/`，不需安裝套件或建置。所有資源使用相對路徑，適用 GitHub Pages 子目錄。
 
 1. 修改 `content/` 中相應的 JSON；保留 ID，避免破壞連結與收藏。
-2. 執行 `python scripts/sync-data.py`，同步 `dist/data.js`。PDF 已保存在 `dist/downloads/`；若上一層另有原文／翻譯資料夾，會優先同步其原檔。
-3. 執行 `node scripts/validate.mjs`，核對資料、角色、重要規則與下載檔。
-4. 推送至 `main`，GitHub Actions 驗證後自動部署 GitHub Pages。
+2. 術語只維護 `translation/glossary.json`；直接修正內容，建置不會再批次改寫譯文。修改後更新相應的來源、段落指紋及待校對紀錄。
+3. 執行 `python scripts/sync-data.py`，同步 `dist/data.js`。來源 PDF 版次與指紋保存在 `translation/sources.json`，不會在建置時悄悄換檔。
+4. 安裝 `requirements-quality.txt`，執行 `python scripts/quality_check.py`、`python -m unittest discover -s tests` 及 `node scripts/validate.mjs`。
+5. 推送至 `main`，GitHub Actions 驗證後自動部署 GitHub Pages。
 
 本機預覽：`python -m http.server 8765 --directory dist`。
 
 GitHub Pages 的發布來源使用 **GitHub Actions**。玩家入口是 `index.html`；龍主入口是 `gm.html`。
+
+## 品質與完整性狀態
+
+已收錄、結構檢查、來源段落對齊及語義校對分開記錄。目前 208 條既有內容的正式語義校對記錄仍待建立；頁碼涵蓋或驗證腳本成功，不能單獨證明全譯與語意正確。
+
+資料結構、校對失效規則、既有 PDF 差異及維護順序見 [翻譯品質流程](translation/README.md)。`python scripts/quality_check.py --require-semantic` 為嚴格語義關卡，目前預期不通過。一般發布檢查保留既有內容，但會攔下過期指紋、來源變更、術語錯誤與 content／網站資料漂移。
+
+2026-10-24 的針對性複查修正了 21 處內容，包含擴充成長表的額外升級誤讀、一般敘事詞遭全域替換，以及角色／月亮／特色動作譯名。來源證據見 [修正紀錄](translation/correction-log.json)。
 
 ## 校訂與來源
 

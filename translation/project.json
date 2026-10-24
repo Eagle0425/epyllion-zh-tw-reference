@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "project": "Epyllion",
+  "locale": "zh-TW",
+  "date": "2026-10-24",
+  "content_files": [
+    "corrections.json",
+    "expansion-narrative-01.json",
+    "expansion-narrative-02.json",
+    "expansion-narrative-03.json",
+    "expansion-narrative-04.json",
+    "expansion-narrative-05.json",
+    "expansion-narrative-06.json",
+    "expansion-narrative-07.json",
+    "expansion-narrative-08.json",
+    "expansion.json",
+    "gm.json",
+    "playbooks.json",
+    "rules.json",
+    "world.json"
+  ],
+  "roles": {
+    "academic": {
+      "title": "學者",
+      "image": "academic_ft3"
+    },
+    "crafter": {
+      "title": "工匠",
+      "image": "crafter_f3"
+    },
+    "daredevil": {
+      "title": "勇者",
+      "image": "dare_devil_ft3"
+    },
+    "nature-adept": {
+      "title": "自然之民",
+      "image": "nature_adept_ft3"
+    },
+    "seer": {
+      "title": "先知",
+      "image": "seer_ft3"
+    },
+    "warrior": {
+      "title": "戰士",
+      "image": "warier_ft3_rescan_(1)"
+    }
+  },
+  "expected_entries": 208,
+  "quality_policy": {
+    "legacy_semantic_review": "pending",
+    "page_range_is_not_paragraph_alignment": true,
+    "content_change_invalidates_review": true
+  },
+  "workflow_context": {
+    "theme": "友誼、共同創作、成長與內心黑暗；以動作觸發推進故事。",
+    "source_priority": [
+      "獨立英文動作表與扮演書核對機制",
+      "核心規則書提供完整解釋與範例",
+      "擴充百科及四份獨立擴充角色表"
+    ],
+    "open_review_topics": [
+      "原文段落到中文段落的對齊",
+      "條件、否定、選擇權與例外的逐段核對",
+      "圖表與正文差異",
+      "跨成果PDF與簡報版本一致性"
+    ]
+  }
+}

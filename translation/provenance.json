@@ -1,0 +1,4165 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "core-opening-dedication": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "3",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "core-credits": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "4",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "introduction": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "6",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "roleplaying": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "7",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "play-materials": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "8–9",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "dragonia-land": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "10",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "capital": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "11",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "council": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "12",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "society-gender": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "13",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "hatchery-guardians": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "14",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "age-society": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "15",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "age-raw-scaled": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "16",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "age-winged": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "16",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "age-bearded": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "17",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "age-long-toothed": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "17",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "age-elder": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "18",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ancients-mystics-lore": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "18–19",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 18,
+          "end": 19
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 17,
+          "end": 18
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "young-potential": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "20",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "great-houses": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "21",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-brynback": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "22",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-kebros": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "23",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-myndoth": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "24",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-rothscar": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "25",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-semscale": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "26",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-tessith": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "27",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 27,
+          "end": 27
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "moon-origins": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "28",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 27,
+          "end": 27
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "five-moons": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "29",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "wilderness": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "30",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 30,
+          "end": 30
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "monsters": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "31",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 31,
+          "end": 31
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 30,
+          "end": 30
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "clutches": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "32",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 32,
+          "end": 32
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 31,
+          "end": 31
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "war-of-shadow": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "33–34",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 33,
+          "end": 34
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 32,
+          "end": 33
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "darkness-today": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "35",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 34,
+          "end": 34
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "choose-playbook": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "36",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "name-look": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "37",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 37,
+          "end": 37
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "color-house-creation": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "38",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 38,
+          "end": 38
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 37,
+          "end": 37
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "character-stats": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "39",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 38,
+          "end": 38
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "virtues-gems-creation": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "40",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "fellowship-creation": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "41–42",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 41,
+          "end": 42
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 40,
+          "end": 41
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "picking-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "41",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "conversation": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "43–44",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 43,
+          "end": 44
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 42,
+          "end": 43
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "moves-fiction": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "45–46",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 45,
+          "end": 46
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 44,
+          "end": 45
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "dice": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "47–48",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 47,
+          "end": 48
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 46,
+          "end": 47
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gems": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "49–50",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 49,
+          "end": 50
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 48,
+          "end": 49
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "shadows": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "51–52",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 51,
+          "end": 52
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 50,
+          "end": 51
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "shadowself": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "53",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 53,
+          "end": 53
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "act-despite-danger": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "54–55",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 54,
+          "end": 55
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 53,
+          "end": 54
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "stand-up": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "56–57",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 56,
+          "end": 57
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 55,
+          "end": 56
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "convince": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "58–59",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 58,
+          "end": 59
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 57,
+          "end": 58
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "mislead": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "60–61",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 60,
+          "end": 61
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 59,
+          "end": 60
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "study": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "62–63",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 62,
+          "end": 63
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 61,
+          "end": 62
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "survey": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "64–65",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 64,
+          "end": 65
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 63,
+          "end": 64
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "moon-magic": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "66–67",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 66,
+          "end": 67
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 65,
+          "end": 66
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "shadow-magic": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "68–69",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 67,
+          "end": 68
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "help-hinder": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "70",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 70,
+          "end": 70
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "end-session": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "71",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 71,
+          "end": 71
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 70,
+          "end": 70
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "advancement": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "72",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 72,
+          "end": 72
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 71,
+          "end": 71
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "adult-advancement": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "73",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 73,
+          "end": 73
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 72,
+          "end": 72
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "growth-long-toothed": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "74",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 74,
+          "end": 74
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 73,
+          "end": 73
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "growth-raw-scaled": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "74",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 74,
+          "end": 74
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 73,
+          "end": 73
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "growth-winged": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "74",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 74,
+          "end": 74
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 73,
+          "end": 73
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "growth-bearded": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "75",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 75,
+          "end": 75
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 74,
+          "end": 74
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "house-rituals": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "75–76",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 75,
+          "end": 76
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 74,
+          "end": 75
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "growth-elder": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "76",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 76,
+          "end": 76
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 75,
+          "end": 75
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ascension": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "77",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 77,
+          "end": 77
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 76,
+          "end": 76
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-agendas": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "78–79",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 78,
+          "end": 79
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 77,
+          "end": 78
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-principles": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "80",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 80,
+          "end": 80
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 79,
+          "end": 79
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-principles-world-fiction": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "81",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 81,
+          "end": 81
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 80,
+          "end": 80
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-principles-history-houses-questions": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "82",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 82,
+          "end": 82
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 81,
+          "end": 81
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-principles-hierarchy-dragons": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "83",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 83,
+          "end": 83
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 82,
+          "end": 82
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-principles-prejudice-fan-darkness": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "84",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 84,
+          "end": 84
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 83,
+          "end": 83
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-move-timing": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "85、87",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 85,
+          "end": 85
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 84,
+          "end": 84
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hard-soft-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "86",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 86,
+          "end": 86
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 85,
+          "end": 85
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-culture-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "88、90–91",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 88,
+          "end": 88
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 87,
+          "end": 87
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-darkness-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "88、92–93",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 88,
+          "end": 88
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 87,
+          "end": 87
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-wilderness-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "88–89",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 88,
+          "end": 89
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 87,
+          "end": 88
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-wilderness-examples": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "89",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 89,
+          "end": 89
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 88,
+          "end": 88
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-culture-examples": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "90–91",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 90,
+          "end": 91
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 89,
+          "end": 90
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-darkness-examples": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "92–93",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 92,
+          "end": 93
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 91,
+          "end": 92
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-ignite-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "94",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 94,
+          "end": 94
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 93,
+          "end": 93
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-npcs": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "95",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 95,
+          "end": 95
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 94,
+          "end": 94
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-orchestrating-darkness": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "96",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 96,
+          "end": 96
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 95,
+          "end": 95
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-beneath-scales": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "97",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 97,
+          "end": 97
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 96,
+          "end": 96
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-academic": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "98",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 98,
+          "end": 98
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 97,
+          "end": 97
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-crafter": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "99",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 99,
+          "end": 99
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 98,
+          "end": 98
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-daredevil": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "100",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 100,
+          "end": 100
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 99,
+          "end": 99
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-nature-adept": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "101",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 101,
+          "end": 101
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 100,
+          "end": 100
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-seer": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "102",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 102,
+          "end": 102
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 101,
+          "end": 101
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-warrior": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "103",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 103,
+          "end": 103
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 102,
+          "end": 102
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-first-session-preparation": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "104–105",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 104,
+          "end": 105
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 103,
+          "end": 104
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-first-adventure": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "106",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 106,
+          "end": 106
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 105,
+          "end": 105
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-x-card": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "107",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 107,
+          "end": 107
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 106,
+          "end": 106
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-x-card-example": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "108",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 108,
+          "end": 108
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 107,
+          "end": 107
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-roses-thorns": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "109",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 109,
+          "end": 109
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 108,
+          "end": 108
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-ending": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "110–111",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 110,
+          "end": 111
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 109,
+          "end": 110
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-setup": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "112",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 112,
+          "end": 112
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 111,
+          "end": 111
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-survey": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "113–114",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 113,
+          "end": 114
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 112,
+          "end": 113
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-ritual": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "114–116",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 114,
+          "end": 116
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 113,
+          "end": 115
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-misses-trick": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "117–118",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 117,
+          "end": 118
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 116,
+          "end": 117
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-queen": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "119–120",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 119,
+          "end": 120
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 118,
+          "end": 119
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-silverwing": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "121–122",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 121,
+          "end": 122
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 120,
+          "end": 121
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-shadowself": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "123",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 123,
+          "end": 123
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 122,
+          "end": 122
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-finn": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "124–126",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 124,
+          "end": 126
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 123,
+          "end": 125
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-example-healing": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "126–128",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 126,
+          "end": 128
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 125,
+          "end": 127
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazards-introduction": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "129",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 129,
+          "end": 129
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 128,
+          "end": 128
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-creating-hazards": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "130–131",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 130,
+          "end": 131
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 129,
+          "end": 130
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazard-family": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "132",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 132,
+          "end": 132
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 131,
+          "end": 131
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazard-friendship": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "133",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 133,
+          "end": 133
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 132,
+          "end": 132
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazard-tradition": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "134",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 134,
+          "end": 134
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 133,
+          "end": 133
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazard-nature": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "135",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 135,
+          "end": 135
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 134,
+          "end": 134
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazard-moves-cast": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "136",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 136,
+          "end": 136
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 135,
+          "end": 135
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-countdown-moons": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "137–138",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 137,
+          "end": 138
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 136,
+          "end": 137
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-countdown-example": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "138–139",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 138,
+          "end": 139
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 137,
+          "end": 138
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-custom-moves": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "140–141",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 140,
+          "end": 141
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 139,
+          "end": 140
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-hazards-darkness": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "141",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 141,
+          "end": 141
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 140,
+          "end": 140
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-festive-grudges-cast": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "142",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 142,
+          "end": 142
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 141,
+          "end": 141
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "gm-festive-grudges-moons": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "143",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 143,
+          "end": 143
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 142,
+          "end": 142
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "core-afterword": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "144",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 144,
+          "end": 144
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 143,
+          "end": 143
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "core-mediography": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "145",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 145,
+          "end": 145
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 144,
+          "end": 144
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "core-playbooks-overview": {
+      "book_id": "core",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "label": "146–147",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 146,
+          "end": 147
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 145,
+          "end": 146
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "core-xp-track-lengths": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 1–12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 1,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 1,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-academic": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 1–2",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-academic-arcane-ear": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 2",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-academic-expertise": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 2",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-academic-old-debts": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 2",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-academic-old-ways": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 2",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-academic-peer-review": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 2",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-crafter": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 3–4",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-crafter-crafty-claw": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 4",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-crafter-dragon-trade": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 4",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-crafter-eye-detail": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 4",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-crafter-monument-moons": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 4",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-crafter-saddlebag": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 4",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-daredevil": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 5–6",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-daredevil-beast-companion": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 6",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-daredevil-clear-headed": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 6",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-daredevil-danger": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 6",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-daredevil-share-load": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 6",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-daredevil-slippery-scales": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 6",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-nature-adept": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 7–8",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-nature-adept-beast-land": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 8",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-nature-adept-smokescreen": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 8",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-nature-adept-spirit-guide": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 8",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-nature-adept-two-worlds": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 8",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-nature-adept-wild-speech": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 8",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-seer": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 9–10",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-seer-haunting-visions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 10",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-seer-one-of-them": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 10",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-seer-secret-catcher": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 10",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-seer-touch-darkness": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 10",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-seer-wyrmtongue": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 10",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-warrior": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 11–12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-warrior-all-fired-up": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-warrior-battle-plan": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-warrior-dragonheart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-warrior-lies": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "pb-warrior-scales-honor": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "label": "PDF 12",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-credits": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "PDF 2–4（卷首與製作名錄）",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-introduction": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "4–5",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-sage-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "6–12",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 6,
+          "end": 12
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 7,
+          "end": 13
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-sage-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "13",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-monastery-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "14–21",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 14,
+          "end": 21
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 15,
+          "end": 22
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-monastery-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "21",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-yeraktos-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "22–28",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 22,
+          "end": 28
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 23,
+          "end": 29
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-yeraktos-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "29",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 30,
+          "end": 30
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-cellani-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "30–36",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 30,
+          "end": 36
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 31,
+          "end": 37
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-cellani-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "37",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 37,
+          "end": 37
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 38,
+          "end": 38
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-sky-city-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "38–45",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 38,
+          "end": 45
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 39,
+          "end": 46
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-sky-city-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "45",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 46,
+          "end": 46
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-umbra-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "46–53",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 46,
+          "end": 53
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 47,
+          "end": 54
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-umbra-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "53",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 53,
+          "end": 53
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-stellar-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "54–60",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 54,
+          "end": 60
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 55,
+          "end": 61
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-stellar-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "61",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 61,
+          "end": 61
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 62,
+          "end": 62
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-far-reaches-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "62–69",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 62,
+          "end": 69
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 63,
+          "end": 70
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-far-reaches-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "70",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 70,
+          "end": 70
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 71,
+          "end": 71
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-epigraph": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "71",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 71,
+          "end": 71
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 72,
+          "end": 72
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-steel": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "72–73",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 72,
+          "end": 73
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 73,
+          "end": 74
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-ruby": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "74",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 74,
+          "end": 74
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 75,
+          "end": 75
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-oak": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "75",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 75,
+          "end": 75
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 76,
+          "end": 76
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-gold": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "76",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 76,
+          "end": 76
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 77,
+          "end": 77
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-jade": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "77",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 77,
+          "end": 77
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 78,
+          "end": 78
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rites-diamond": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "78",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 78,
+          "end": 78
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 79,
+          "end": 79
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-tessith-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "79–85",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 79,
+          "end": 85
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 80,
+          "end": 86
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-tessith-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "85",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 85,
+          "end": 85
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 86,
+          "end": 86
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-kebros-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "86–94",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 86,
+          "end": 94
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 87,
+          "end": 95
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-kebros-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "94",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 94,
+          "end": 94
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 95,
+          "end": 95
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-legends-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "95–101",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 95,
+          "end": 101
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 96,
+          "end": 102
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-legends-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "101",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 101,
+          "end": 101
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 102,
+          "end": 102
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-icons-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "102–107",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 102,
+          "end": 107
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 103,
+          "end": 108
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-icons-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "104–105",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 104,
+          "end": 105
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 105,
+          "end": 106
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-festival-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "108–114",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 108,
+          "end": 114
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 109,
+          "end": 115
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-festival-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "114",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 114,
+          "end": 114
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 115,
+          "end": 115
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-seekers-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "115–121",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 115,
+          "end": 121
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 116,
+          "end": 122
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-seekers-move": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "121",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 121,
+          "end": 121
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 122,
+          "end": 122
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-reckoning-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "122–129",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 122,
+          "end": 129
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 123,
+          "end": 130
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-reckoning-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "130",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 130,
+          "end": 130
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 131,
+          "end": 131
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-kraken-story": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "131–136",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 131,
+          "end": 136
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 132,
+          "end": 137
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-kraken-moves": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "137",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 137,
+          "end": 137
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 138,
+          "end": 138
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-playbooks-intro": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "139",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 139,
+          "end": 139
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 140,
+          "end": 140
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-elementalist-dm": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "140",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 140,
+          "end": 140
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 141,
+          "end": 141
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-envoy-dm": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "141",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 141,
+          "end": 141
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 142,
+          "end": 142
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-orphan-dm": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "142",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 142,
+          "end": 142
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 143,
+          "end": 143
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rebel-dm": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "143",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 143,
+          "end": 143
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 144,
+          "end": 144
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-stats-appendix": {
+      "book_id": "encyclopedia",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "label": "152",
+      "page_kind": "printed",
+      "ranges": [
+        {
+          "start": 152,
+          "end": 152
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 153,
+          "end": 153
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-elementalist": {
+      "book_id": "ed-playbooks",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "label": "PDF 1–2（獨立角色表）；正文 144–145",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-playbook-growth": {
+      "book_id": "ed-playbooks",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "label": "PDF 1–8（獨立角色表）",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 1,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 1,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-envoy": {
+      "book_id": "ed-playbooks",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "label": "PDF 3–4（獨立角色表）；正文 146–147",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-orphan": {
+      "book_id": "ed-playbooks",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "label": "PDF 5–6（獨立角色表）；正文 148–149",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    },
+    "ed-rebel": {
+      "book_id": "ed-playbooks",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "label": "PDF 7–8（獨立角色表）；正文 150–151",
+      "page_kind": "pdf",
+      "ranges": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "pdf_ranges": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "locator_level": "page-range",
+      "alignment_status": "pending"
+    }
+  }
+}

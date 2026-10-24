@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "structural_pass": true,
+  "semantic_pass": false,
+  "gate_pass": true,
+  "entries": 208,
+  "semantic_pending": 208,
+  "aligned_target_blocks": 0,
+  "target_blocks": 1382,
+  "errors": [],
+  "warnings": [
+    "208 existing entries await formal semantic review; structural success is not proof of complete translation.",
+    "1382/1382 target blocks lack source-block alignment."
+  ]
+}

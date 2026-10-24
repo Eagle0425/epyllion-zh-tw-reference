@@ -1,0 +1,92 @@
+{
+  "zh-moves": {
+    "title": "中文基本動作表",
+    "path": "downloads/epyllion-moves-zh.pdf",
+    "description": "既有翻譯，一頁。研讀他龍題數尚未同步網頁校訂。",
+    "language": "zh",
+    "offset": 0,
+    "sha256": "a58b1fe452e7e2cdedcebe0718bce19e13b4ae3f45ea071afc83e2695220d5dc",
+    "pdf_pages": 1,
+    "id": "zh-moves"
+  },
+  "zh-playbooks": {
+    "title": "中文核心角色卡",
+    "path": "downloads/epyllion-playbooks-zh.pdf",
+    "description": "既有翻譯，六種角色、共十二頁。原始列印版。",
+    "language": "zh",
+    "offset": 0,
+    "sha256": "7d681d68671d996aeaf60effda8f43ddd0268b62e7dd4cf12f9f8fc8d77a0f49",
+    "pdf_pages": 12,
+    "id": "zh-playbooks"
+  },
+  "core": {
+    "title": "Epyllion 核心規則書",
+    "path": "downloads/epyllion-core-en.pdf",
+    "description": "英文原書，2016 版。印刷頁碼比 PDF 頁序多一頁。",
+    "language": "en",
+    "offset": -1,
+    "sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+    "pdf_pages": 159,
+    "id": "core"
+  },
+  "playbooks": {
+    "title": "英文核心扮演書",
+    "path": "downloads/epyllion-playbooks-en.pdf",
+    "description": "六種獨立角色表，作為網站規則校訂依據。",
+    "language": "en",
+    "offset": 0,
+    "sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+    "pdf_pages": 12,
+    "id": "playbooks"
+  },
+  "moves": {
+    "title": "英文基本動作表",
+    "path": "downloads/epyllion-moves-en.pdf",
+    "description": "一頁基本動作原文，供數值與觸發條件核對。",
+    "language": "en",
+    "offset": 0,
+    "sha256": "59225ca8d0801441dbf0f3e179b40668b8bbb320a407717e5c98fbbd7341faff",
+    "pdf_pages": 1,
+    "id": "moves"
+  },
+  "dm": {
+    "title": "英文龍主工作表",
+    "path": "downloads/epyllion-dm-en.pdf",
+    "description": "目標、原則、龍主動作、NPC 靈感與危害紀錄。",
+    "language": "en",
+    "offset": 0,
+    "sha256": "ae6c4cfcb8b6cce5002d3795e1f5244faf8e0d102769934ddeda468441fd3853",
+    "pdf_pages": 2,
+    "id": "dm"
+  },
+  "map": {
+    "title": "龍域空白地圖",
+    "path": "downloads/epyllion-map.pdf",
+    "description": "2019 版空白地圖，適合列印後共同繪製。",
+    "language": "en",
+    "offset": 0,
+    "sha256": "abe74a7de1e1acf1f450ef0b600e7ce3cde3146d9c60bb3b5b3c30f37c6666a1",
+    "pdf_pages": 1,
+    "id": "map"
+  },
+  "encyclopedia": {
+    "title": "Encyclopedia Draconica",
+    "path": "downloads/encyclopedia-draconica-en.pdf",
+    "description": "十七篇傳說、四種擴充扮演書與特殊動作。",
+    "language": "en",
+    "offset": 1,
+    "sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+    "pdf_pages": 153,
+    "id": "encyclopedia"
+  },
+  "ed-playbooks": {
+    "title": "英文擴充扮演書",
+    "path": "downloads/epyllion-ed-playbooks-en.pdf",
+    "description": "元素使、使節、孤龍、反叛者，八頁角色表。",
+    "language": "en",
+    "offset": 0,
+    "sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+    "pdf_pages": 8,
+    "id": "ed-playbooks"
+  }
+}

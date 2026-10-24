@@ -1,0 +1,1669 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "core-opening-dedication": {
+      "content_sha256": "f8f10c590b4db3efb193b8d7a1e9ed0b3c6b337957dbd65c6a24dbd8ddc08f97",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "core-credits": {
+      "content_sha256": "353d4d6a588f855c76a963514f22a23c4aa3ccd73385b4c75168ae6987f8cbc6",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "introduction": {
+      "content_sha256": "b3d591ccacea2de506067f4707a7c8394ccd63c528221fbc1c805c181411044b",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "roleplaying": {
+      "content_sha256": "9c78b6bd9c6141ce3d870f078d49e70ca9bcf72d341306ec01a383240228daef",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "play-materials": {
+      "content_sha256": "c960b41a26a26d5f0c34b542d7a6a3b20a5f49f97a60c20e46ed32477b5ee61e",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "dragonia-land": {
+      "content_sha256": "8e4f31f8facf905cde2f920b75a20c1555aba93513171193ca1db72e8b8e9e65",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "capital": {
+      "content_sha256": "6b68ef48184d6f9ae7d8270872651a13bb52720c70c3003b85b471104f5a7b00",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "council": {
+      "content_sha256": "15b702cc393b6de805bfd00df58bbd721e76da0afeab88a4484677e7168b9e13",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "society-gender": {
+      "content_sha256": "43bb2a4a925cbbfabc4a793ea0488d6985b0e0cfc1bcc9c1ce788826c4b874c1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "hatchery-guardians": {
+      "content_sha256": "f61cce4f04dda355a0d163a11ed913d17c9b93f80cd03e49d72d79f576235b50",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "age-society": {
+      "content_sha256": "ce260abdf750ca8116382b8f0853c0f0167a7ef259af3c2e5e21796b2ca07875",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "age-raw-scaled": {
+      "content_sha256": "0efd33869d965f1a5a258d8b413c977260e7145c623291893cc3f475661aa186",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "age-winged": {
+      "content_sha256": "a0edb8e3f1c3256d7ed0d7c5b4126c3dbbc056b85ff8f78944180ec3ea6e16ac",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "age-bearded": {
+      "content_sha256": "27c6dab7cfde83f34754a420ff4ea6f807c971674eaa2276e5cb04ab4b501db4",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "age-long-toothed": {
+      "content_sha256": "29fe38343100e8f5234155fd388ddb23cd7b89bcc081da23c2d541addab676cc",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "age-elder": {
+      "content_sha256": "48de00f7ccbbcaa14c40e222d32aca363101235357ae360f6c6dc85cdac5e5f6",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ancients-mystics-lore": {
+      "content_sha256": "746077a7c998f96f3f12b6f85eb38b9e2229e7f62e87ea79b9c9ae77b56d7e68",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "young-potential": {
+      "content_sha256": "7ae54a3693e5ae06b03f03e98eccd75ddb81e735c6247366cf646e8963a7956a",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "great-houses": {
+      "content_sha256": "d2a9fc4b819e0a29e207069483a744d93a78988fee1cbbb887b1a549df8f4d8a",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "house-brynback": {
+      "content_sha256": "95ea3d4efc1ae9f0eb242d1c0a887154e484db0bc57d50dd92eeddc5405bcb5d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "house-kebros": {
+      "content_sha256": "bbe90c475639e33d023164b24334a43b4421fb765b4c51a0823128745a2eb8d1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "house-myndoth": {
+      "content_sha256": "0fe72208d230b77e5b1b3f7379b00e277b962a8440beaafa299ee81bb2cead0d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "house-rothscar": {
+      "content_sha256": "273c3746e5267057b7ab840fc9e565a1720930b40f08fd066fd2acb0085f4757",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "house-semscale": {
+      "content_sha256": "1f533fa88d33b49e94ef5299a96ca217d9d636a334fa06cf8001888516673821",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "house-tessith": {
+      "content_sha256": "70206efaaedad6e0db63aa88f45b1491e4da1570fbcc9ce1082b8e1fcda7e217",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "moon-origins": {
+      "content_sha256": "55a426c6894653e42631750b136e9ce7f1543eba29355e0b9b9ee5b36c7b162e",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "five-moons": {
+      "content_sha256": "be3718dde38225960318f5a90ae4c6f9e9e1edacc54a6386cb21559984ebdfbf",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "wilderness": {
+      "content_sha256": "acb7d666efb3ec1c42ce21b4e771cfe716934d6cdd6123ebb9e9747a99aebe9d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "monsters": {
+      "content_sha256": "d69da5a89db01123a66ce34f87cd0d5b45cee7388a3f4ca9e6f0f45fa8511646",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "clutches": {
+      "content_sha256": "1f5ae5020f6a721bb84687432e05a66c6c181502fa0e1b1be18a166b2aec7a72",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "war-of-shadow": {
+      "content_sha256": "b37b063ad4adf61534a333a9f416673a245e8fe9a7558c55206e4dbab011dc87",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "darkness-today": {
+      "content_sha256": "858545ce4f21d07ad6aefa61411545d089e6e53eac78b4af2f7795b095617766",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "choose-playbook": {
+      "content_sha256": "36cb3f181f832efad36d25b007978a555cb5f54b39dc602f78d2e88c91c3a550",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "name-look": {
+      "content_sha256": "3c7fedaf6db3cd8e54475c7909cdb8fe0c3f4a1c47f33d6764e74d6b67aadd2d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "color-house-creation": {
+      "content_sha256": "0bb882fc8ea0d4c09d880e193f37bf099858f49b3cf5c2dd4d2bb7ae211859e4",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "character-stats": {
+      "content_sha256": "3b7a133b722e7b946e02ffb62e889908b35da08ac7cc7991e7d12266daf8523b",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "virtues-gems-creation": {
+      "content_sha256": "4e3146970346614691e9867d28f5ebf39ad29e40d2f62e31e92ecba89ef0ecfa",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "fellowship-creation": {
+      "content_sha256": "90eb208611f017d275fca852c982db858f79bdd2e3b91dce58d6b5be9c501a39",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "picking-moves": {
+      "content_sha256": "46ff8374aa04a0ee7bf3476ee7c88090cdaa47d740f8ed3889c1ed61058b0c81",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "conversation": {
+      "content_sha256": "42ab022879353ea364d3b674b3072bace4d75eeaac43e5b2e6adab696ebca1b2",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "moves-fiction": {
+      "content_sha256": "c344816833e25c84f70dbff692e79f936f889316fa3741cb522b7764b7042393",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "dice": {
+      "content_sha256": "27d870321832fc843e006f251142e84a9c9af4eb1838d4d17a3290b4ce39db04",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gems": {
+      "content_sha256": "7b0ff0ae307b3f847cff76cb7f520d52acd079c3c875fb72cc87a676d420a706",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "shadows": {
+      "content_sha256": "0fe19b10139bf9edc0c29212e1ce4479f7dd6099dfa8dc4241536a7b56417f63",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "shadowself": {
+      "content_sha256": "7eeeac5f6a68012c19055629131982fb98974e0448ba9448679f62e153cc98d7",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "act-despite-danger": {
+      "content_sha256": "2477565d3aba1b6e2bcaeb7926957d08d578a9a5c7fd92d94563dd6e8057320a",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "stand-up": {
+      "content_sha256": "b61eb335c5a6d2cafe240a3ca0d391ae8b4a74fbf138d2590b17effec7002cdf",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "convince": {
+      "content_sha256": "89c7358cd74f0911a8e226c6f614028e612b8874521602b738a80e211f198d3d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "mislead": {
+      "content_sha256": "ff9781f750d50e29b1040214a2fde604d129e5d3202966100c5198fe51acf411",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "study": {
+      "content_sha256": "8daef763d813c19683e047c08dd333a6d7133d46ab7d6f29f9f5139e81b0b34e",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "survey": {
+      "content_sha256": "6a81a28b6337714566f4c13ec0d35c97d770d53efa8f292546e97310bf4a731e",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "moon-magic": {
+      "content_sha256": "4227577f64e9fbf7b22684377b14c516fc49fbd841c3a32893ac61d6d8914679",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "shadow-magic": {
+      "content_sha256": "569201b6f1478468d8e25c9a73550fc808bdf87090ed01ac3a8e02780ed3dbf5",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "help-hinder": {
+      "content_sha256": "b54d7141fc0e207e2f6857721af621997d2bce6b34250650601a7f0f3eab6316",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "end-session": {
+      "content_sha256": "d48b3fa49e3f0973cbacd42f9a42bee5735c63a2665ae842cbde5693fbdc9f8a",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "advancement": {
+      "content_sha256": "cd8e1bdd6ec2d03fffe32c614e2fa72d27bfc0bccc99222aee540b42d325e1f7",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "adult-advancement": {
+      "content_sha256": "5a32c57e971fabc360f5a03634b7a222aa37a2ec59984a5e6f929f26a30b85ad",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "growth-long-toothed": {
+      "content_sha256": "4d578020d171fa61519f3e3258d494e70ca890db47569504a733e23c86ff98bf",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "growth-raw-scaled": {
+      "content_sha256": "0a1e2f597737267888f8415dd6f1a59e891ceeaafd8368678948537cb3a5cb70",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "growth-winged": {
+      "content_sha256": "9d5c78fa2c247c4f0189bd6daf5faa1904a6746a9a7d90abb16d683075572628",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "growth-bearded": {
+      "content_sha256": "e37238bd0fe7e9f5dc1e4fd85ddd64c95feb34675b3fb31e3346787fee387bcf",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "house-rituals": {
+      "content_sha256": "cb6f8214700f107b218f886cfe2509dc951e60d32c5f12d52b03b96cc4e76650",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "growth-elder": {
+      "content_sha256": "da575673b69c2d3347cc7b1b51a0c42506bf2b8bba80f3a8a143fd0037574400",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ascension": {
+      "content_sha256": "f9430d59004da50c834dac9d2088728c2392a2fd313a372de6250d9af221a57d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-agendas": {
+      "content_sha256": "11d7ea6c97cca7e30a043d46bf8820de73ade15684e8bcc478f7ec91db0ba2f8",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-principles": {
+      "content_sha256": "5a9ea2b0fb648d7bb1b0b6add2b51d62365e8797f1fe9cd4d01b8ee154716902",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-principles-world-fiction": {
+      "content_sha256": "e35fa2b3ce6b11ffc68e71a3cea529d3e7d374277978ef06a9efbb3b2f1f2c62",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-principles-history-houses-questions": {
+      "content_sha256": "1caccbd264c382fefc6986d805fba8eeff34fcf51ce9219a285587dd4169810f",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-principles-hierarchy-dragons": {
+      "content_sha256": "d96b1d63fd76746d968a6f85a34f62cbd7478ccfbfd3605bb12dc70d08d7b68d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-principles-prejudice-fan-darkness": {
+      "content_sha256": "3d6b2c876747a84a0956adeea2b0e06cb9a88d2d5f97574263917ea57ae83729",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-move-timing": {
+      "content_sha256": "b6b848808c2e5c44f539dd6b828a847e88d1484627f1a349d3619949410af4e9",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hard-soft-moves": {
+      "content_sha256": "935c7fd63fbda90ae007afa699540903f545af362f8384dc8e822ecc5104d3f2",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-culture-moves": {
+      "content_sha256": "b1cf5c5c409e6ca3df25c298dd8b00ca4cb2fd57ced7d89c62c6bf8947b2dc78",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-darkness-moves": {
+      "content_sha256": "696ec860ff686f99910ed8ebcb839aaba23dbc98e0dc8f642306727efa033eb1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-wilderness-moves": {
+      "content_sha256": "457443595ef7556c9e1f9822c1967c6bd2e3ec23b7ff8bf1148ec4439b9dbce0",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-wilderness-examples": {
+      "content_sha256": "c547ad0b640a70e8a0e8d1aae8ac294d389af96666a44c1c420f91b4066f3303",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-culture-examples": {
+      "content_sha256": "90eae7f59fdee3c86c28432976e6471043f3ecfb19c4e0172971a936559cc2b4",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-darkness-examples": {
+      "content_sha256": "6991608b92ce614017f67c6d70f63e5a88287a4b9c84a5057595dfe6c4484f68",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-ignite-moves": {
+      "content_sha256": "7df2e690d69a93ecff22f4aae68c3c4463224e5a23123c6e65cea9ae88d27f55",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-npcs": {
+      "content_sha256": "b9930ea081ea2caa420708a27512aa7fc1b705c02aa062cb1bb98d9831b5b772",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-orchestrating-darkness": {
+      "content_sha256": "855913969d04fde6c07921baddb1ae27c96bfb444bf7253d17793bccd678db25",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-beneath-scales": {
+      "content_sha256": "234fb42e95565135ed8dafb2641d550562b7f75847923d3772af15d84732c774",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-academic": {
+      "content_sha256": "40b14af00a65bb3ce190b830bcbf424b38f164e0715ecf24e61582d228e28ebb",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-crafter": {
+      "content_sha256": "1bc335e7c01852f6d4fdfc0d3f4a27627f4218cd5a3ddb2502540661131a0892",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-daredevil": {
+      "content_sha256": "07f631d8d00ab081f131897c1e5799742ef749703d0e17a6b2e02588c3392d2f",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-nature-adept": {
+      "content_sha256": "ccd74e9128a36bc45200178ac88d298cad3343ba571a863fdd1873d04e58b7fb",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-seer": {
+      "content_sha256": "503441b37b2195bdefc77dae2a84dbd89240ae53db12e8d3a8566015e292fb30",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-warrior": {
+      "content_sha256": "2b02b9cb9f7ad0a20fc16911bbf5c978a6c27530aebe043d49c32cbbb6a3cd92",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-first-session-preparation": {
+      "content_sha256": "de744d847c2dd933773f5c7a67b20f75d2d6f8a2b7ea663e05e8173769730f11",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-first-adventure": {
+      "content_sha256": "f4bb917ee1c51f65924ff7138a6a8f975154a46f1c79dcb61f59f678b2f88a48",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-x-card": {
+      "content_sha256": "d80b86fe8c5a4bbb76337a90cc2ec3ddbb4055cef07303bd8f14f92fdd984944",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-x-card-example": {
+      "content_sha256": "20a2e9edd45cd93c46280d9e09b092f480239b3f19a10b2c15372d621ad481ba",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-roses-thorns": {
+      "content_sha256": "fd4d7b05787baf94e9134ec379a24a47b6f1df612cd4919b3fcb26049771822c",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-ending": {
+      "content_sha256": "aebd01f8ed0681d430c0bf7cc8c6a273b394e2bfcbf57adb4ca92c3071d2c111",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-setup": {
+      "content_sha256": "4326b22be2ac8c8362c4aa1f54dbc62d770397d5445fcbe9e584d4115e4313d1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-survey": {
+      "content_sha256": "ee6a014ef4587d5c9b081ddacdf6fbd667322526d54293be2a3036ccd65047b1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-ritual": {
+      "content_sha256": "007e8eb65fa23c038a8f4c06931ba696e80402295dc0262dabcd1af6a2225ef9",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-misses-trick": {
+      "content_sha256": "136441dc8881a92693cc17a523b0f45e711ae86448bfdf3a24ee77a3414852de",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-queen": {
+      "content_sha256": "5e247a9c8729f70e627dae8568084ba04651fdde653bb5a5137c9e8cf5b1e8e2",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-silverwing": {
+      "content_sha256": "744e8c252e7dad07cad8476646a25978e4e8291808e9d88376b1ff4807621cdd",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-shadowself": {
+      "content_sha256": "7b7b8e13184bced7ab056d7b4d595acd6094a7d26d485d334f75c33ce3081711",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-finn": {
+      "content_sha256": "cbd19b4d0633fc4c9d99f64019295901b722395864e66dcf425ccdeceb9c88f1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-example-healing": {
+      "content_sha256": "dd9b4bc520c766cd3a851f48ac38dfd987d23e23392383a1d74719133095ffb2",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazards-introduction": {
+      "content_sha256": "9c322f185faaccbb9153f2b084cda3db137d32b9a7a541f306d84c1902821965",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-creating-hazards": {
+      "content_sha256": "ddfada43bd7e581f8eaab2efb33ba40870b094d136b5fc86f241781391f13b30",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazard-family": {
+      "content_sha256": "aab43e826f7c9babbce9742f407fb72f7afb3cf8d2b71f4fc653d24674720f65",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazard-friendship": {
+      "content_sha256": "2b944dfaf5fe78af98aed6f0ef883ecfb43bd91ed0998f5104078be6efb284b2",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazard-tradition": {
+      "content_sha256": "e575f7e9000bc68f612149c82a787adf3449e9e35856d0d8691a48491213944b",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazard-nature": {
+      "content_sha256": "47082d63d22f46b3a91d8c58cd6d0f70950e7deb284ccdf21c12e29a506d249a",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazard-moves-cast": {
+      "content_sha256": "72488b87f6c768eab5f8de0470d992b91b717e3226736d30285ad36e031f221d",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-countdown-moons": {
+      "content_sha256": "76abc88593b50fe9a671170b99b76b4cee47d8fb049c7b4d3f943ac1802359a8",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-countdown-example": {
+      "content_sha256": "6fdbaee228e3e620c7cf7802f6d0a55828890a036e7381cd7350fce8454b73db",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-custom-moves": {
+      "content_sha256": "c82ec7326b30d02c4c4bc9215702bf0b0cc98f3475a4a569ce31bebd69ada733",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-hazards-darkness": {
+      "content_sha256": "b4a306ad3ccaeabf2dbc9ed4e6942150b5e911c797828feb1f6bb29d6e8432e1",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-festive-grudges-cast": {
+      "content_sha256": "207374b154391fbfb9b1f57c84fa8d2b3fecef563eb01f80352efb6c1b59a6ce",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "gm-festive-grudges-moons": {
+      "content_sha256": "cf28824fbf23e8fc893d0389708a28b6131848326ea7e01f43e7de92b8dd728a",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "core-afterword": {
+      "content_sha256": "31f0bcc83f16d69e9d97b97027b121edd2deff9307996a71bebe611ae1bb7157",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "core-mediography": {
+      "content_sha256": "52ff75b2943329cb7b20c8e222fa1aa60933665dd8afa559ff12b62d8e3c9300",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "core-playbooks-overview": {
+      "content_sha256": "00346a756b667ac76e13468e28bfd86d87f5ead88bf9ce97dcbd272d7ca44a8c",
+      "source_sha256": "50a2281aaeba6467c8521b3666cbf720f0833a6d63d95709f5b6b6e915dcf69e",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "core-xp-track-lengths": {
+      "content_sha256": "da3192a02c3e69ab7f85f35b9444e74ccdcd56c95d6ee033485a54f3f9521a0f",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-academic": {
+      "content_sha256": "b436332314d2377819dfefff037882de072377546f2c644dddcfc9ded1b231ab",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-academic-arcane-ear": {
+      "content_sha256": "50b5d5c0b5566e562f79669a13322269fdf02a7154c2746cfa713df6d57a78b9",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-academic-expertise": {
+      "content_sha256": "7652c852059c0626bcb4ee88f0b4ca9f7196a208789d04c02f5dc2f8647489ba",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-academic-old-debts": {
+      "content_sha256": "4e10293c1561110e0150962a16ba7d2f7301c42413999eaa98c19fa4cfc7e9d7",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-academic-old-ways": {
+      "content_sha256": "a8c882760452179a7231b53ec7406babbc0ba9995d4f8fc4cbbf369200a33a75",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-academic-peer-review": {
+      "content_sha256": "8ebad24b5c44add06e48414d9f91ed5ef988c76696d39d31c43b02aaca43ee2e",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-crafter": {
+      "content_sha256": "332cb95adb219b7cf8d09abf38515a957ce06c199d962d3db4e2b42a91bda5b1",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-crafter-crafty-claw": {
+      "content_sha256": "6d9c0bf4187f7000b11fdb3bbf12cf482a0d8266106dceafc91ec818725906c5",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-crafter-dragon-trade": {
+      "content_sha256": "89edc083eb5e9784208c5822e0883af6efe01ccff2494ca80e309969950dd6c5",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-crafter-eye-detail": {
+      "content_sha256": "47cb520289fd8c69bd37b366ed51080f53fb06ef4b38b05d33f86329bc39eb8c",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-crafter-monument-moons": {
+      "content_sha256": "7f3101b850297e5ef390558b78f01e29c42e030715981086b72d0b14e55f59d1",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-crafter-saddlebag": {
+      "content_sha256": "950aa0e7575b045fddd1e65ce816f53c6434f1b61eebe239a95c4ba0f6d31948",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-daredevil": {
+      "content_sha256": "55333d2b87614c75c67f1e3a7357410ea7ba75c5ae5ac23f1cf416b848557a9b",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-daredevil-beast-companion": {
+      "content_sha256": "3c8af5a9f90ea1a0700c30dc9c516bd2a3a2e731ece2994f7ff3b218f30c7979",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-daredevil-clear-headed": {
+      "content_sha256": "bb3162db903a23c010b7e1778fed903c22f2e5ee5c386f43ea94117bf5bf907b",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-daredevil-danger": {
+      "content_sha256": "408f2215a849c9786487b4f339bba141a723e085a462c602fa9c2eb9f528cda9",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-daredevil-share-load": {
+      "content_sha256": "8e3618ccf28724fb117e4bc526170b1acbaf2d02f133b9a95bdcc5a3d0ffe13a",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-daredevil-slippery-scales": {
+      "content_sha256": "32fbd8fcb37ac949b0f666429cbe1f571114c5c0edbdfd2a7e5330739d41f939",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-nature-adept": {
+      "content_sha256": "8852197ed3f59187383f751f2c95b520bc3ef7fa1ee36c05fbcdc771d7905e25",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-nature-adept-beast-land": {
+      "content_sha256": "f7aff090cc3a50a44af7c2612b0b0d2cf86eba7f7ff367b7aee04d6277ae0c9b",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-nature-adept-smokescreen": {
+      "content_sha256": "af23622cbe442b9620944bd1ce26a4cdee459d71e94a44bde9712e0963597faf",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-nature-adept-spirit-guide": {
+      "content_sha256": "d78df17575ae428c5bb3a8aa25ab43b96772bc23e15c2e631a5d4d118c2dba42",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-nature-adept-two-worlds": {
+      "content_sha256": "2b73b8ba66b45cbb64c2af9d4dda3611e41c46c1898d7db644367b5a4b9cb9b0",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-nature-adept-wild-speech": {
+      "content_sha256": "fb588220075f17d1c26ef86c0cd7b54611b8d717ec246a8204ffab6fb3bbbd78",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-seer": {
+      "content_sha256": "64839b1da24ea583a46874c272847b032f9bd62ad733db1e2431bf98a875ee44",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-seer-haunting-visions": {
+      "content_sha256": "41a84f000838b9bf8e567a8b0f5a1e8571ec7bd62da167654d815d07484e6ce3",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-seer-one-of-them": {
+      "content_sha256": "336e39c762e0f346fd17bdd9c6e1cb622636689c219155cf1fda57de4608d097",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-seer-secret-catcher": {
+      "content_sha256": "5f5dcb8941cad04c051cc1454b8d2ce4276b24c05a7bff24d9f9b64b659942fe",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-seer-touch-darkness": {
+      "content_sha256": "24273406c66e2243ad8c9353574e98e08e52dfd1b40096ec48e2df1128bb1af3",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-seer-wyrmtongue": {
+      "content_sha256": "3e3f3eb3e338590a75aac07c02d0f3220fe8ddb6594b0d349b8d32a02858248d",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-warrior": {
+      "content_sha256": "bca17bc63114d081bbfc87da92425b60b21a400747788a93b5c3ad72a065d2db",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-warrior-all-fired-up": {
+      "content_sha256": "4f92b6a41232a549d602c898ef89cc481e7dadcb6b3e6e454a180e9ab7d9177b",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-warrior-battle-plan": {
+      "content_sha256": "10e28bc6fbefcde1728193a44b41f3cca47dc465117448975b67c1c44bef755c",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-warrior-dragonheart": {
+      "content_sha256": "158fd692329b88ba091a6c6964f109a1650baaa930f3db69a2ae0400045e5966",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-warrior-lies": {
+      "content_sha256": "53638b0cd755016e3458fda4a0d2281fd0b699e4217b43584b89455607e2d5df",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "pb-warrior-scales-honor": {
+      "content_sha256": "158dcf843a4541899c14f4a8da3bce8eca25cffebd6939b1acda381976ae5bcb",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-credits": {
+      "content_sha256": "9cbc7695c1176fd5ce27afa30ab7a1b0bd047715136a343e6074e2ef6b364065",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-introduction": {
+      "content_sha256": "2ff0e540ab391ac13e7b11de48f55c1add4654cb5ac9d1db6966f4df6f7146b7",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-sage-story": {
+      "content_sha256": "ea3df1a2dcb7601434a5e637b548b61c0116143024667c144ae71e92911a9e71",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-sage-moves": {
+      "content_sha256": "4d94c5f932e6b90d2f09577cc72de641b0e7475793fb20e39747b114f76e913c",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-monastery-story": {
+      "content_sha256": "8425d33965e2fdec84e53cc0b3dd7b9af7e902ef45c20c2c22108eb3422fc9b7",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "ed-monastery-moves": {
+      "content_sha256": "67e566f2a832b594458d113025e99317849e1fdd3871049b70364f3becfe5bc5",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-yeraktos-story": {
+      "content_sha256": "65e686ffbaec55d6b1aa89aa8e043f6f5f86ad517b08866bcb4accd447606869",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-yeraktos-moves": {
+      "content_sha256": "8a35a59fd100b6c444e2eb7d2d75694f01c2da0088754791a168a3b1507faebc",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-cellani-story": {
+      "content_sha256": "0adcb8fe1fdc2b312cf547ec91ee8b9f5ffb9e06f2cb6d31520e937446aac64f",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-cellani-moves": {
+      "content_sha256": "dda969c97e847c9e9652315213673cfb41e5fd9179e2380706931265ed624a1e",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-sky-city-story": {
+      "content_sha256": "af7896bacc0735305b084886080595c1002bacce64c61b9e174e9ce55c5f49fd",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-sky-city-move": {
+      "content_sha256": "191932f2d7bf436125f48a760ee92e60abaf6cd854faacc546241645904f0d0e",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-umbra-story": {
+      "content_sha256": "52fd98f5f743398f22e13399363a1b1d25bdeda00949db3ed0b400e865966e59",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-umbra-move": {
+      "content_sha256": "0fc5a6dec3dfefa7ed02923b92e58688ce713918695d11df2ebb262e1ef26110",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-stellar-story": {
+      "content_sha256": "cf52a1875779d9a7416dba179b16c209de15bc1249263462f996323946fc2f57",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-stellar-moves": {
+      "content_sha256": "e7af99169e2bcf6282728dfce94c4200640956bd3dd4cd33b61a320bec09f69e",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-far-reaches-story": {
+      "content_sha256": "cff1e82600669409d0a3b0ae9836fbc1f3a5fe749438f1abe4abf29110ea318b",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-far-reaches-move": {
+      "content_sha256": "50dd54e70986b1a7ccf208bbd1de1ed494cbf4fb1992fb6d2bc72125e045bd1a",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-epigraph": {
+      "content_sha256": "3fb76664728d45a1147e91fffd15d07ba8a223e770b031d70384c3cf21532444",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-steel": {
+      "content_sha256": "3fde55cd2640c15dc436a1611fe4595bd613205756ab27a50372be005afb1524",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-ruby": {
+      "content_sha256": "1111ad59a0edb68c51769589ffb13a592716ac5fe344904905e687231b451035",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-oak": {
+      "content_sha256": "c4baf738d28f379709699d7ef0f40df84ccd1af0c1b488e9912a828e64a20d31",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-gold": {
+      "content_sha256": "8dd1e1671d405ec01f357d078027d9e27c0a6a70a039e888e94004624bb50cc6",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-jade": {
+      "content_sha256": "80ae52b97880d8f7583d55b0eedda3e9ee959a20f9a0b4c615d77acd313e7a0f",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rites-diamond": {
+      "content_sha256": "f7aba02658633dd66094b5135d5ca4221035601f8e5567df96aad31be9122874",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-tessith-story": {
+      "content_sha256": "9b58b6c3e25c04324ff3d0062fd0cfc198c0e7ce73ce979538fef007a436ca5f",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-tessith-move": {
+      "content_sha256": "90a825c330c0ec444eb00dbfbab8c7444b6b244a9ab269a7ca5c6e180aedba72",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-kebros-story": {
+      "content_sha256": "a407cb0df988426b8a3c3c535d4d89f6e08a797c5d1e99124d4fb70b67802133",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-kebros-move": {
+      "content_sha256": "50f4127d274bc598abd62383e3fddf4d283c8522801012276033341ed657c752",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-legends-story": {
+      "content_sha256": "3860465d2e32a94db80d86731877134cba1629217ac72337e7a8ec9988f20f3b",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-legends-move": {
+      "content_sha256": "d82c34a1ce404a19e2b1296e192ecf7ace081b1acc408217d76cb2898c41214d",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-icons-story": {
+      "content_sha256": "f35d8a4d678d8f9922eba5be2f02d455f12f989e3fadfecfe2682ae279881088",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-icons-moves": {
+      "content_sha256": "f202ceb88b8f6df26fd763d3ddffbb00e8ea48ed678843b7ea7a8a1994fe79e4",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-festival-story": {
+      "content_sha256": "b51f9e342087ad9e445d04c2894455265204a70d4325e03bae3cfc54f01afdfe",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-festival-move": {
+      "content_sha256": "189ecf5c035bc716f978b23d37a12fa35d4a30b0af822d35145ac2077a789bae",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-seekers-story": {
+      "content_sha256": "262b17fb1be38c45fd5b33f9b5ee905dcbe8f11f0573530b0a30836be20b2808",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-seekers-move": {
+      "content_sha256": "3758a96a7d84d71c6fb6c0a221380769bdaf9cbe0485c8736da226cd1aa5ab7b",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-reckoning-story": {
+      "content_sha256": "8ca672ae19b284afe35adefe809b34bd7a30933f3c516ab7fcda64624d72e53d",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-reckoning-moves": {
+      "content_sha256": "11c4c8644476993bf7ab9a43ce7791283236bee24378c5fe793b3284d8f57493",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "ed-kraken-story": {
+      "content_sha256": "ffeb2252d9eaaa95ba0afcf515a8fa9abeca59598d87bb3e83783aedd04ab2b5",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-kraken-moves": {
+      "content_sha256": "8866333b50295918489e71623d1fb87a3c31904d9011f21396b58018cf378fc4",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-playbooks-intro": {
+      "content_sha256": "c00c9c1194dc4028eecca70ca91447a7ae51928d84e964d37aabd611cf2e4475",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-elementalist-dm": {
+      "content_sha256": "9619f4ef130974a2d09e420a17cba20a3230915c342e88fa4b147e7ec1f46423",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-envoy-dm": {
+      "content_sha256": "b8ae36cff59f9202a4578f15525000250724d574496f97577d99d4ae3ee28e14",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-orphan-dm": {
+      "content_sha256": "c2317ff1e2e5384063a7bd96a47675cfa6165a86aa38c3c9effaa69cbee90ecd",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-rebel-dm": {
+      "content_sha256": "8abb26ed19257286c20da6aba48fe10bc4c9bbe2215dbd399d11e5b0877c8837",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-stats-appendix": {
+      "content_sha256": "44ff5839fe87b30f17f6ced9b7273baa15092cee3619d0a81a91b2c42423dde7",
+      "source_sha256": "5672ce8e985f5e1b21d4f11c5db3a6d0fe9293cd4877e91fcbe3eb72be4337ad",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+    },
+    "ed-elementalist": {
+      "content_sha256": "a9f0b78de2d67ce4195f1634428c3f871d36bfe05fe5dec10e90465d059128c8",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "ed-playbook-growth": {
+      "content_sha256": "80b848717c1f61c17a3f6e129b9b01f514aa08c3d50c03923de509233f26dc12",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "ed-envoy": {
+      "content_sha256": "d9a8b63421dc85cd80dba9fdbe6466d5aa198eebac5959097c346ab9f80ff6b8",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "ed-orphan": {
+      "content_sha256": "3a4321e8fcaf6bdfe11b161be5d87f2dc527731fdad8498e3ca959b5c8f12607",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    },
+    "ed-rebel": {
+      "content_sha256": "c81b9fd827d6a3a0b39841ccf1b0e29586fd825767ba8a003789597fc899d006",
+      "source_sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
+      "semantic_status": "pending",
+      "reviewer": null,
+      "evidence": [],
+      "notes": "本次已依 correction-log.json 修正個別問題；整條仍待逐段完整對照。"
+    }
+  }
+}
