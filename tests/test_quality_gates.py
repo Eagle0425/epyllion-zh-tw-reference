@@ -47,4 +47,7 @@ class QualityGates(unittest.TestCase):
     def test_source_comparison_is_bound_to_content(self):
         self.edit('translation/reviews.json',lambda d:d['entries']['study']['source_check'].__setitem__('content_sha256','0'*64))
         self.assertIn('source comparison record is stale',' '.join(check(self.root)['errors']))
+    def test_pdf_composition_changes_invalidate_generated_artifacts(self):
+        self.edit('translation/playbook-pdf-build.json',lambda d:d.__setitem__('composition_sha256','0'*64))
+        self.assertIn('Generated playbook PDFs are stale',' '.join(check(self.root)['errors']))
 if __name__=='__main__':unittest.main()

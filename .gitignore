@@ -5,4 +5,5 @@ source/
 node_modules/
 __pycache__/
 .quality-deps/
+.font-deps/
 .openai/*.local.*

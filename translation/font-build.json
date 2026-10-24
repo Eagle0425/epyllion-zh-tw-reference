@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-24",
+  "fonts": [
+    {
+      "original": "JasonHandwriting1-SemiBold.ttf",
+      "source_sha256": "20bbdc6d33c059aec392b4cc3138204a51ef38999e20d8fc1f743739aaaff51b",
+      "output": "jason-title.woff2",
+      "sha256": "d9cecc4e1f37d925fa163c6b4eb0700bd5db38270751eedc7899174bfb527b4e",
+      "bytes": 1237516,
+      "purpose": "角色與頁面大標",
+      "missing_cjk": []
+    },
+    {
+      "original": "JasonHandwriting1-Medium.ttf",
+      "source_sha256": "0f479b62a5fcc197b9089eef625308bf9724227295b37655b7cba524378aa073",
+      "output": "jason-section.woff2",
+      "sha256": "8b2933225d3c461f476d3eac778a2e1ae09075ae1f83c99f63226fdc32f2e8a8",
+      "bytes": 1238228,
+      "purpose": "區塊標題",
+      "missing_cjk": []
+    },
+    {
+      "original": "JasonHandwriting2-SemiBold.ttf",
+      "source_sha256": "e7c13cafa7f647783f30cac6738e8ac627e3acd1360023aba28536bcd23e117e",
+      "output": "jason-emphasis.woff2",
+      "sha256": "3b279f4be22c71101e95c18f62e342efeef2a55aab152f74d8fdc8d444d0e204",
+      "bytes": 1217028,
+      "purpose": "小標、導覽與重點",
+      "missing_cjk": []
+    },
+    {
+      "original": "JasonHandwriting2-Regular.ttf",
+      "source_sha256": "67c4e65ee9a39b1f98af6cc418778e16c111284b636ed9d2c1904138797b6c5b",
+      "output": "jason-body.woff2",
+      "sha256": "b75cc4a456ef21c395fbaeee61e4092d269290fa883bc8a405d55c4c977e5f87",
+      "bytes": 1038848,
+      "purpose": "正文與輔助資訊",
+      "missing_cjk": []
+    }
+  ]
+}

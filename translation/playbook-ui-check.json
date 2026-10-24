@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24",
+  "viewport_width": 667,
+  "tested_playbooks": [
+    "學者",
+    "工匠",
+    "勇者",
+    "自然之民",
+    "先知",
+    "戰士",
+    "元素使",
+    "使節",
+    "孤龍",
+    "反叛者"
+  ],
+  "inline_moves_per_playbook": 5,
+  "collapsed_full_content": 0,
+  "horizontal_overflow": false,
+  "tested_behaviors": [
+    "以動作名稱混沌篩選出元素使",
+    "頁內全部動作導覽",
+    "舊敞開心胸連結開啟完整戰士扮演書",
+    "十份角色卡PDF頁碼定位",
+    "正文JasonBody與大標JasonTitle顯示",
+    "十份正文皆保留玻璃心"
+  ],
+  "scope": "Local in-app browser DOM and visual checks; not a claim of all-device visual certification."
+}

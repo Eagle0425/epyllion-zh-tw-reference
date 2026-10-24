@@ -11,9 +11,11 @@ def load(root=ROOT):
     entries.sort(key=lambda e:(order.get(e['source']['file'],9),provenance[e['id']]['pdf_ranges'][0]['start'],e['id']))
     return project,entries,sources
 def public_data(root=ROOT):
+    from playbook_model import compose,validate_composition
     project,entries,sources=load(root);reviews=read(root/'translation/reviews.json')['entries'];provenance=read(root/'translation/provenance.json')['entries'];glossary=read(root/'translation/glossary.json')['terms']
     public_entries=[dict(e,review_status=reviews[e['id']]['semantic_status'],source_ref=provenance[e['id']]) for e in entries]
     stats={'total':len(entries),'categories':dict(collections.Counter(e['category'] for e in entries)),'chars':sum(len(''.join(e['paragraphs'])+''.join(e.get('bullets',[]))) for e in entries),'files':project['content_files']}
     states=collections.Counter(r['semantic_status'] for r in reviews.values())
-    return {'entries':public_entries,'sources':sources,'roles':project['roles'],'glossary':[[t['zh'],t['en'],t['entry_id']] for t in glossary if t['status']!='deprecated'],'stats':stats,'quality':{'schema_version':1,'source_checked':sum(r.get('source_check',{}).get('status')=='compared' for r in reviews.values()),'reviewed':states.get('verified',0),'pending':states.get('pending',0)+states.get('needs-revision',0),'scope':'Evidence-backed semantic review; page ranges alone do not establish completeness.','content_sha256':digest(entries)}}
+    books=compose(entries);validate_composition(books,entries)
+    return {'playbooks':books,'entries':public_entries,'sources':sources,'roles':project['roles'],'glossary':[[t['zh'],t['en'],t['entry_id']] for t in glossary if t['status']!='deprecated'],'stats':stats,'quality':{'schema_version':1,'source_checked':sum(r.get('source_check',{}).get('status')=='compared' for r in reviews.values()),'reviewed':states.get('verified',0),'pending':states.get('pending',0)+states.get('needs-revision',0),'scope':'Evidence-backed semantic review; page ranges alone do not establish completeness.','content_sha256':digest(entries)}}
 def data_js(root=ROOT):return 'window.EPYLLION = '+json.dumps(public_data(root),ensure_ascii=False,separators=(',',':'))+';\n'

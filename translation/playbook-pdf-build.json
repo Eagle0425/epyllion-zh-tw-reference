@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-24",
+  "generator": "scripts/build-playbook-pdfs.py",
+  "canonical_content_sha256": "46adfe5fa44d79b5aa7868ad32dfc798b1e6d7c4187d6863c6aaf2979ece0416",
+  "composition_sha256": "89ea6197997b0909ba3fb903823c844b1abfcce49102996ef69e6344b4b232a3",
+  "outputs": [
+    {
+      "name": "epyllion-playbooks-zh.pdf",
+      "sha256": "3b7384475d39d131f1cc5e7ed690d4637691b0412edc63043a01f38b92be0cac",
+      "bytes": 797883
+    },
+    {
+      "name": "epyllion-ed-playbooks-zh.pdf",
+      "sha256": "2a90617977e614ff06bc1d8671741f8b47c4d9cee9f4e69e8fd76a679c16ef1a",
+      "bytes": 655282
+    }
+  ],
+  "layout_checks": [
+    {
+      "playbook": "academic",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "academic",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "crafter",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "crafter",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "daredevil",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "daredevil",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "nature-adept",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "nature-adept",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "seer",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "seer",
+      "page_in_playbook": 2,
+      "body_font_size": 10.4,
+      "columns_fit": true
+    },
+    {
+      "playbook": "warrior",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "warrior",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "elementalist",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "elementalist",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "envoy",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "envoy",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "orphan",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "orphan",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "rebel",
+      "page_in_playbook": 1,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    },
+    {
+      "playbook": "rebel",
+      "page_in_playbook": 2,
+      "body_font_size": 10.7,
+      "columns_fit": true
+    }
+  ]
+}

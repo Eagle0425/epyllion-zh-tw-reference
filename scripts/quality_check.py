@@ -77,6 +77,14 @@ def check(root=ROOT,require_semantic=False):
             text=' '.join([e['title'],*e['paragraphs'],*e.get('bullets',[])])
             for forbidden in term['forbidden']:
                 if forbidden in text:error(f'{e["id"]}: prohibited term {forbidden!r}; expected {term["zh"]!r}.')
+    pdf_build_path=root/'translation/playbook-pdf-build.json'
+    if pdf_build_path.exists():
+        from playbook_model import compose
+        build=read(pdf_build_path)
+        if build['canonical_content_sha256']!=digest(entries) or build['composition_sha256']!=digest(compose(entries)):error('Generated playbook PDFs are stale; rebuild from current canonical content and composition.')
+        for output in build['outputs']:
+            path=root/'dist/downloads'/output['name']
+            if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=output['sha256']:error('Generated playbook PDF differs from its build manifest: '+output['name'])
     structural_errors=list(errors)
     if require_semantic and pending:error(f'{pending} entries lack evidence-backed semantic review.')
     if pending:warnings.append(f'{pending} existing entries await formal semantic review; structural success is not proof of complete translation.')

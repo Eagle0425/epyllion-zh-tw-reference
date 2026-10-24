@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-24",
+  "pages": 20,
+  "playbooks": 10,
+  "block_occurrences_checked": 301,
+  "missing_blocks": 0,
+  "content_sha256": "46adfe5fa44d79b5aa7868ad32dfc798b1e6d7c4187d6863c6aaf2979ece0416",
+  "composition_sha256": "89ea6197997b0909ba3fb903823c844b1abfcce49102996ef69e6344b4b232a3",
+  "visual_review": "All 20 pages rendered and inspected; full-size samples checked for font legibility, column bounds, XP boxes and headings."
+}

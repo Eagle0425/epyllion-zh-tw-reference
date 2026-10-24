@@ -10,14 +10,14 @@
     "id": "zh-moves"
   },
   "zh-playbooks": {
-    "title": "中文核心角色卡",
+    "id": "zh-playbooks",
+    "title": "中文核心角色卡（校訂版）",
     "path": "downloads/epyllion-playbooks-zh.pdf",
-    "description": "既有翻譯，六種角色、共十二頁。原始列印版。",
+    "description": "六種核心扮演書，各兩頁；完整創角選項、動作、成長與暗影，依網站同一份校訂資料產生。",
     "language": "zh",
     "offset": 0,
-    "sha256": "7d681d68671d996aeaf60effda8f43ddd0268b62e7dd4cf12f9f8fc8d77a0f49",
-    "pdf_pages": 12,
-    "id": "zh-playbooks"
+    "sha256": "3b7384475d39d131f1cc5e7ed690d4637691b0412edc63043a01f38b92be0cac",
+    "pdf_pages": 12
   },
   "core": {
     "title": "Epyllion 核心規則書",
@@ -88,5 +88,15 @@
     "sha256": "a2eb62dfba08fd3ed20d755491177016a014a234e603b76cc76af4b43e8fc2d6",
     "pdf_pages": 8,
     "id": "ed-playbooks"
+  },
+  "zh-ed-playbooks": {
+    "id": "zh-ed-playbooks",
+    "title": "中文擴充角色卡（校訂版）",
+    "path": "downloads/epyllion-ed-playbooks-zh.pdf",
+    "description": "元素使、使節、孤龍、反叛者，各兩頁；含完整動作、選項與各自成長差異。",
+    "language": "zh",
+    "offset": 0,
+    "sha256": "2a90617977e614ff06bc1d8671741f8b47c4d9cee9f4e69e8fd76a679c16ef1a",
+    "pdf_pages": 8
   }
 }

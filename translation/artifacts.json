@@ -10,10 +10,10 @@
     },
     {
       "path": "downloads/epyllion-playbooks-zh.pdf",
-      "sha256": "7d681d68671d996aeaf60effda8f43ddd0268b62e7dd4cf12f9f8fc8d77a0f49",
-      "role": "retained-translation",
-      "review_status": "known-differences",
-      "notes": "既有翻譯，六種角色、共十二頁。原始列印版。"
+      "sha256": "3b7384475d39d131f1cc5e7ed690d4637691b0412edc63043a01f38b92be0cac",
+      "role": "generated-translation",
+      "review_status": "source-compared",
+      "notes": "2026-10-24：從標準正文重製；逐區塊文字驗證及全頁渲染檢查，獨立語義複核仍待完成。"
     },
     {
       "path": "downloads/epyllion-core-en.pdf",
@@ -63,6 +63,13 @@
       "role": "source-reference",
       "review_status": "reference-only",
       "notes": "元素使、使節、孤龍、反叛者，八頁角色表。"
+    },
+    {
+      "path": "downloads/epyllion-ed-playbooks-zh.pdf",
+      "sha256": "2a90617977e614ff06bc1d8671741f8b47c4d9cee9f4e69e8fd76a679c16ef1a",
+      "role": "generated-translation",
+      "review_status": "source-compared",
+      "notes": "2026-10-24：從標準正文重製；逐區塊文字驗證及全頁渲染檢查，獨立語義複核仍待完成。"
     }
   ],
   "known_differences": [
@@ -70,11 +77,6 @@
       "artifact": "downloads/epyllion-moves-zh.pdf",
       "entry_id": "study",
       "issue": "10+ 與 7–9 問題數對調；網頁已更正，既有 PDF 未重製。"
-    },
-    {
-      "artifact": "downloads/epyllion-playbooks-zh.pdf",
-      "entry_id": "pb-daredevil",
-      "issue": "家族義務欄位、成年牙龍跨扮演書成長及部分動作文字，以網站校訂為準。"
     }
   ]
 }

@@ -4084,7 +4084,7 @@
         "id": "shadows:b004",
         "field": "bullets",
         "index": 3,
-        "target_sha256": "b483901ca7ec97b122525dde368fc65b62a39cef3397fd6250dd2237ff2385d9",
+        "target_sha256": "9eccc6fc95e8de7920d61b40b5f8af2fe1d2fe13eef21087088583644a2791fd",
         "source_blocks": [
           {
             "book_id": "core",
@@ -14046,7 +14046,7 @@
         "id": "pb-academic:p011",
         "field": "paragraphs",
         "index": 10,
-        "target_sha256": "edf6e0952809468d83bca751b3d3b8e565c65b85d1a3c7f2f6e253334702bf44",
+        "target_sha256": "cb1b2f6009256872e736437e296f861919c5ee104636acbccb597df34ff08276",
         "source_blocks": [
           {
             "book_id": "playbooks",
@@ -14666,7 +14666,7 @@
         "id": "pb-crafter:p011",
         "field": "paragraphs",
         "index": 10,
-        "target_sha256": "edf6e0952809468d83bca751b3d3b8e565c65b85d1a3c7f2f6e253334702bf44",
+        "target_sha256": "cb1b2f6009256872e736437e296f861919c5ee104636acbccb597df34ff08276",
         "source_blocks": [
           {
             "book_id": "playbooks",
@@ -15166,7 +15166,7 @@
         "id": "pb-daredevil:p011",
         "field": "paragraphs",
         "index": 10,
-        "target_sha256": "edf6e0952809468d83bca751b3d3b8e565c65b85d1a3c7f2f6e253334702bf44",
+        "target_sha256": "cb1b2f6009256872e736437e296f861919c5ee104636acbccb597df34ff08276",
         "source_blocks": [
           {
             "book_id": "playbooks",
@@ -15762,7 +15762,7 @@
         "id": "pb-nature-adept:p011",
         "field": "paragraphs",
         "index": 10,
-        "target_sha256": "edf6e0952809468d83bca751b3d3b8e565c65b85d1a3c7f2f6e253334702bf44",
+        "target_sha256": "cb1b2f6009256872e736437e296f861919c5ee104636acbccb597df34ff08276",
         "source_blocks": [
           {
             "book_id": "playbooks",
@@ -16238,7 +16238,7 @@
         "id": "pb-seer:p011",
         "field": "paragraphs",
         "index": 10,
-        "target_sha256": "edf6e0952809468d83bca751b3d3b8e565c65b85d1a3c7f2f6e253334702bf44",
+        "target_sha256": "cb1b2f6009256872e736437e296f861919c5ee104636acbccb597df34ff08276",
         "source_blocks": [
           {
             "book_id": "playbooks",
@@ -16874,7 +16874,7 @@
         "id": "pb-warrior:p011",
         "field": "paragraphs",
         "index": 10,
-        "target_sha256": "edf6e0952809468d83bca751b3d3b8e565c65b85d1a3c7f2f6e253334702bf44",
+        "target_sha256": "cb1b2f6009256872e736437e296f861919c5ee104636acbccb597df34ff08276",
         "source_blocks": [
           {
             "book_id": "playbooks",
@@ -24758,7 +24758,7 @@
         "id": "ed-playbook-growth:p005",
         "field": "paragraphs",
         "index": 4,
-        "target_sha256": "6b5bd79a63e6f9d1963cf92169cd92cb27cb77dde4b7c4b12654b84a7c662fd5",
+        "target_sha256": "b7278370a85e8c75b1c35c217d3d213637633727fcbd34ac53398e43bdc8e849",
         "source_blocks": [
           {
             "book_id": "ed-playbooks",

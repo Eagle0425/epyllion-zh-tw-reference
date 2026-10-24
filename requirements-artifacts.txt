@@ -1,0 +1,4 @@
+reportlab==4.4.9
+pypdfium2==5.14.0
+fonttools[woff]==4.67.0
+brotli==1.2.1
