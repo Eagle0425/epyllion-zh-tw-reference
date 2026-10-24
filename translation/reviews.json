@@ -1431,12 +1431,42 @@
       "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
     },
     "pb-academic": {
-      "content_sha256": "b436332314d2377819dfefff037882de072377546f2c644dddcfc9ded1b231ab",
+      "content_sha256": "9a18b3a85b164a4dc0b27b7125d0a042a863aff4abb8ba462b1a9f2a2f1107b9",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "9a18b3a85b164a4dc0b27b7125d0a042a863aff4abb8ba462b1a9f2a2f1107b9",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf001:age-chart",
+          "playbooks:pdf001:fellowship",
+          "playbooks:pdf001:intro",
+          "playbooks:pdf001:look-1",
+          "playbooks:pdf001:look-2",
+          "playbooks:pdf001:look-3",
+          "playbooks:pdf001:look-4",
+          "playbooks:pdf001:look-5",
+          "playbooks:pdf001:look-6",
+          "playbooks:pdf001:names-colors",
+          "playbooks:pdf002:academic-expertise",
+          "playbooks:pdf002:add-one-stat",
+          "playbooks:pdf002:choose-one-more",
+          "playbooks:pdf002:house-obligations-1",
+          "playbooks:pdf002:mandatory-signature",
+          "playbooks:pdf002:shadow-actions",
+          "playbooks:pdf002:shadow-track",
+          "playbooks:pdf002:shadowself",
+          "playbooks:pdf002:starting-stats",
+          "playbooks:pdf002:virtues"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-academic-arcane-ear": {
       "content_sha256": "50b5d5c0b5566e562f79669a13322269fdf02a7154c2746cfa713df6d57a78b9",
@@ -1444,7 +1474,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "50b5d5c0b5566e562f79669a13322269fdf02a7154c2746cfa713df6d57a78b9",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf002:academic-arcane-ear"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-academic-expertise": {
       "content_sha256": "7652c852059c0626bcb4ee88f0b4ca9f7196a208789d04c02f5dc2f8647489ba",
@@ -1452,7 +1493,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "7652c852059c0626bcb4ee88f0b4ca9f7196a208789d04c02f5dc2f8647489ba",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf002:academic-expertise"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-academic-old-debts": {
       "content_sha256": "4e10293c1561110e0150962a16ba7d2f7301c42413999eaa98c19fa4cfc7e9d7",
@@ -1460,7 +1512,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "4e10293c1561110e0150962a16ba7d2f7301c42413999eaa98c19fa4cfc7e9d7",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf002:academic-old-debts"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-academic-old-ways": {
       "content_sha256": "a8c882760452179a7231b53ec7406babbc0ba9995d4f8fc4cbbf369200a33a75",
@@ -1468,7 +1531,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "a8c882760452179a7231b53ec7406babbc0ba9995d4f8fc4cbbf369200a33a75",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf002:academic-old-ways"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-academic-peer-review": {
       "content_sha256": "8ebad24b5c44add06e48414d9f91ed5ef988c76696d39d31c43b02aaca43ee2e",
@@ -1476,15 +1550,56 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "8ebad24b5c44add06e48414d9f91ed5ef988c76696d39d31c43b02aaca43ee2e",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf002:academic-peer-review"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-crafter": {
-      "content_sha256": "332cb95adb219b7cf8d09abf38515a957ce06c199d962d3db4e2b42a91bda5b1",
+      "content_sha256": "b1b902c67ba4d387b12952cdfcfa06d3a49aaf6d9a9a081a9279b9ee7fc05916",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "b1b902c67ba4d387b12952cdfcfa06d3a49aaf6d9a9a081a9279b9ee7fc05916",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf003:age-chart",
+          "playbooks:pdf003:fellowship",
+          "playbooks:pdf003:intro",
+          "playbooks:pdf003:look-1",
+          "playbooks:pdf003:look-2",
+          "playbooks:pdf003:look-3",
+          "playbooks:pdf003:look-4",
+          "playbooks:pdf003:look-5",
+          "playbooks:pdf003:look-6",
+          "playbooks:pdf003:names-colors",
+          "playbooks:pdf004:add-one-stat",
+          "playbooks:pdf004:choose-one-more",
+          "playbooks:pdf004:crafter-dragon-trade",
+          "playbooks:pdf004:house-obligations-1",
+          "playbooks:pdf004:mandatory-signature",
+          "playbooks:pdf004:shadow-actions",
+          "playbooks:pdf004:shadow-track",
+          "playbooks:pdf004:shadowself",
+          "playbooks:pdf004:starting-stats",
+          "playbooks:pdf004:virtues"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-crafter-crafty-claw": {
       "content_sha256": "6d9c0bf4187f7000b11fdb3bbf12cf482a0d8266106dceafc91ec818725906c5",
@@ -1492,15 +1607,37 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "6d9c0bf4187f7000b11fdb3bbf12cf482a0d8266106dceafc91ec818725906c5",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf004:crafter-crafty-claw"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-crafter-dragon-trade": {
-      "content_sha256": "89edc083eb5e9784208c5822e0883af6efe01ccff2494ca80e309969950dd6c5",
+      "content_sha256": "c0451edb012ba940dc1e9e98aa391a957feaab28a90afa4f1c129ad341c4dd1c",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "c0451edb012ba940dc1e9e98aa391a957feaab28a90afa4f1c129ad341c4dd1c",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf004:crafter-dragon-trade"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-crafter-eye-detail": {
       "content_sha256": "47cb520289fd8c69bd37b366ed51080f53fb06ef4b38b05d33f86329bc39eb8c",
@@ -1508,7 +1645,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "47cb520289fd8c69bd37b366ed51080f53fb06ef4b38b05d33f86329bc39eb8c",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf004:crafter-eye-detail"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-crafter-monument-moons": {
       "content_sha256": "7f3101b850297e5ef390558b78f01e29c42e030715981086b72d0b14e55f59d1",
@@ -1516,23 +1664,76 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "7f3101b850297e5ef390558b78f01e29c42e030715981086b72d0b14e55f59d1",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf004:crafter-monument-moons"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-crafter-saddlebag": {
-      "content_sha256": "950aa0e7575b045fddd1e65ce816f53c6434f1b61eebe239a95c4ba0f6d31948",
+      "content_sha256": "339000d7a8705f13e1f2a7592af7c88f5c331c027c431ef1cd6c1b6828c25333",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "339000d7a8705f13e1f2a7592af7c88f5c331c027c431ef1cd6c1b6828c25333",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf004:crafter-saddlebag"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-daredevil": {
-      "content_sha256": "55333d2b87614c75c67f1e3a7357410ea7ba75c5ae5ac23f1cf416b848557a9b",
+      "content_sha256": "a1edd8c04fadc92c565617203012d267d5848e4bb2f8698dbade3414529cacad",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "a1edd8c04fadc92c565617203012d267d5848e4bb2f8698dbade3414529cacad",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf005:age-chart",
+          "playbooks:pdf005:fellowship",
+          "playbooks:pdf005:intro",
+          "playbooks:pdf005:look-1",
+          "playbooks:pdf005:look-2",
+          "playbooks:pdf005:look-3",
+          "playbooks:pdf005:look-4",
+          "playbooks:pdf005:look-5",
+          "playbooks:pdf005:look-6",
+          "playbooks:pdf005:names-colors",
+          "playbooks:pdf006:add-one-stat",
+          "playbooks:pdf006:choose-one-more",
+          "playbooks:pdf006:daredevil-beast-companion",
+          "playbooks:pdf006:house-obligations-1",
+          "playbooks:pdf006:house-obligations-2",
+          "playbooks:pdf006:mandatory-signature",
+          "playbooks:pdf006:shadow-actions",
+          "playbooks:pdf006:shadow-track",
+          "playbooks:pdf006:shadowself",
+          "playbooks:pdf006:starting-stats",
+          "playbooks:pdf006:virtues"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-daredevil-beast-companion": {
       "content_sha256": "3c8af5a9f90ea1a0700c30dc9c516bd2a3a2e731ece2994f7ff3b218f30c7979",
@@ -1540,15 +1741,37 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "3c8af5a9f90ea1a0700c30dc9c516bd2a3a2e731ece2994f7ff3b218f30c7979",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf006:daredevil-beast-companion"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-daredevil-clear-headed": {
-      "content_sha256": "bb3162db903a23c010b7e1778fed903c22f2e5ee5c386f43ea94117bf5bf907b",
+      "content_sha256": "3c885c93c9e04482154f8f2187668ce4f52e9a8206edcc9b4d2a571d900ee7e6",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "3c885c93c9e04482154f8f2187668ce4f52e9a8206edcc9b4d2a571d900ee7e6",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf006:daredevil-clear-headed"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-daredevil-danger": {
       "content_sha256": "408f2215a849c9786487b4f339bba141a723e085a462c602fa9c2eb9f528cda9",
@@ -1556,15 +1779,37 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "408f2215a849c9786487b4f339bba141a723e085a462c602fa9c2eb9f528cda9",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf006:daredevil-danger"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-daredevil-share-load": {
-      "content_sha256": "8e3618ccf28724fb117e4bc526170b1acbaf2d02f133b9a95bdcc5a3d0ffe13a",
+      "content_sha256": "c58feb93275924f9925537a7d53bb20fd29088bd5b3050df08d353b7e2d171dc",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "c58feb93275924f9925537a7d53bb20fd29088bd5b3050df08d353b7e2d171dc",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf006:daredevil-share-load"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-daredevil-slippery-scales": {
       "content_sha256": "32fbd8fcb37ac949b0f666429cbe1f571114c5c0edbdfd2a7e5330739d41f939",
@@ -1572,15 +1817,57 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "32fbd8fcb37ac949b0f666429cbe1f571114c5c0edbdfd2a7e5330739d41f939",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf006:daredevil-slippery-scales"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-nature-adept": {
-      "content_sha256": "8852197ed3f59187383f751f2c95b520bc3ef7fa1ee36c05fbcdc771d7905e25",
+      "content_sha256": "1af83962d3355efdf9aa0f8d1e0b49932905a8caf93e3cae99bb228324182a3d",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "1af83962d3355efdf9aa0f8d1e0b49932905a8caf93e3cae99bb228324182a3d",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf007:age-chart",
+          "playbooks:pdf007:fellowship",
+          "playbooks:pdf007:intro",
+          "playbooks:pdf007:look-1",
+          "playbooks:pdf007:look-2",
+          "playbooks:pdf007:look-3",
+          "playbooks:pdf007:look-4",
+          "playbooks:pdf007:look-5",
+          "playbooks:pdf007:look-6",
+          "playbooks:pdf007:names-colors",
+          "playbooks:pdf008:add-one-stat",
+          "playbooks:pdf008:choose-one-more",
+          "playbooks:pdf008:house-obligations-1",
+          "playbooks:pdf008:house-obligations-2",
+          "playbooks:pdf008:mandatory-signature",
+          "playbooks:pdf008:nature-adept-wild-speech",
+          "playbooks:pdf008:shadow-actions",
+          "playbooks:pdf008:shadow-track",
+          "playbooks:pdf008:shadowself",
+          "playbooks:pdf008:starting-stats",
+          "playbooks:pdf008:virtues"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-nature-adept-beast-land": {
       "content_sha256": "f7aff090cc3a50a44af7c2612b0b0d2cf86eba7f7ff367b7aee04d6277ae0c9b",
@@ -1588,7 +1875,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "f7aff090cc3a50a44af7c2612b0b0d2cf86eba7f7ff367b7aee04d6277ae0c9b",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf008:nature-adept-beast-land"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-nature-adept-smokescreen": {
       "content_sha256": "af23622cbe442b9620944bd1ce26a4cdee459d71e94a44bde9712e0963597faf",
@@ -1596,7 +1894,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "af23622cbe442b9620944bd1ce26a4cdee459d71e94a44bde9712e0963597faf",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf008:nature-adept-smokescreen"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-nature-adept-spirit-guide": {
       "content_sha256": "d78df17575ae428c5bb3a8aa25ab43b96772bc23e15c2e631a5d4d118c2dba42",
@@ -1604,7 +1913,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "d78df17575ae428c5bb3a8aa25ab43b96772bc23e15c2e631a5d4d118c2dba42",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf008:nature-adept-spirit-guide"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-nature-adept-two-worlds": {
       "content_sha256": "2b73b8ba66b45cbb64c2af9d4dda3611e41c46c1898d7db644367b5a4b9cb9b0",
@@ -1612,7 +1932,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "2b73b8ba66b45cbb64c2af9d4dda3611e41c46c1898d7db644367b5a4b9cb9b0",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf008:nature-adept-two-worlds"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-nature-adept-wild-speech": {
       "content_sha256": "fb588220075f17d1c26ef86c0cd7b54611b8d717ec246a8204ffab6fb3bbbd78",
@@ -1620,15 +1951,56 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "fb588220075f17d1c26ef86c0cd7b54611b8d717ec246a8204ffab6fb3bbbd78",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf008:nature-adept-wild-speech"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-seer": {
-      "content_sha256": "64839b1da24ea583a46874c272847b032f9bd62ad733db1e2431bf98a875ee44",
+      "content_sha256": "21095f16afe4436ea84e0353a4e0bf5178733a43eccbbb753a9dbc3322769cd5",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "21095f16afe4436ea84e0353a4e0bf5178733a43eccbbb753a9dbc3322769cd5",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf009:age-chart",
+          "playbooks:pdf009:fellowship",
+          "playbooks:pdf009:intro",
+          "playbooks:pdf009:look-1",
+          "playbooks:pdf009:look-2",
+          "playbooks:pdf009:look-3",
+          "playbooks:pdf009:look-4",
+          "playbooks:pdf009:look-5",
+          "playbooks:pdf009:look-6",
+          "playbooks:pdf009:names-colors",
+          "playbooks:pdf010:add-one-stat",
+          "playbooks:pdf010:choose-one-more",
+          "playbooks:pdf010:house-obligations-1",
+          "playbooks:pdf010:mandatory-signature",
+          "playbooks:pdf010:seer-haunting-visions",
+          "playbooks:pdf010:shadow-actions",
+          "playbooks:pdf010:shadow-track",
+          "playbooks:pdf010:shadowself",
+          "playbooks:pdf010:starting-stats",
+          "playbooks:pdf010:virtues"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-seer-haunting-visions": {
       "content_sha256": "41a84f000838b9bf8e567a8b0f5a1e8571ec7bd62da167654d815d07484e6ce3",
@@ -1636,7 +2008,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "41a84f000838b9bf8e567a8b0f5a1e8571ec7bd62da167654d815d07484e6ce3",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf010:seer-haunting-visions"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-seer-one-of-them": {
       "content_sha256": "336e39c762e0f346fd17bdd9c6e1cb622636689c219155cf1fda57de4608d097",
@@ -1644,7 +2027,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "336e39c762e0f346fd17bdd9c6e1cb622636689c219155cf1fda57de4608d097",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf010:seer-one-of-them"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-seer-secret-catcher": {
       "content_sha256": "5f5dcb8941cad04c051cc1454b8d2ce4276b24c05a7bff24d9f9b64b659942fe",
@@ -1652,39 +2046,113 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "5f5dcb8941cad04c051cc1454b8d2ce4276b24c05a7bff24d9f9b64b659942fe",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf010:seer-secret-catcher"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-seer-touch-darkness": {
-      "content_sha256": "24273406c66e2243ad8c9353574e98e08e52dfd1b40096ec48e2df1128bb1af3",
+      "content_sha256": "bf1b7f762e003d427aa1f074c5c56cb5903e10014cf846764b5ef742d61fd1be",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "bf1b7f762e003d427aa1f074c5c56cb5903e10014cf846764b5ef742d61fd1be",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf010:seer-touch-darkness"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-seer-wyrmtongue": {
-      "content_sha256": "3e3f3eb3e338590a75aac07c02d0f3220fe8ddb6594b0d349b8d32a02858248d",
+      "content_sha256": "4ac7a9a752133e4a1c49d3952fc6e5f587d1eba63808fbe00aac03ce644d61b7",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "4ac7a9a752133e4a1c49d3952fc6e5f587d1eba63808fbe00aac03ce644d61b7",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf010:seer-wyrmtongue"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-warrior": {
-      "content_sha256": "bca17bc63114d081bbfc87da92425b60b21a400747788a93b5c3ad72a065d2db",
+      "content_sha256": "5395be048e1427959c1f245bd0b9f677179d06f78f515f82309caed31b7783dd",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "5395be048e1427959c1f245bd0b9f677179d06f78f515f82309caed31b7783dd",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf011:age-chart",
+          "playbooks:pdf011:fellowship",
+          "playbooks:pdf011:intro",
+          "playbooks:pdf011:look-1",
+          "playbooks:pdf011:look-2",
+          "playbooks:pdf011:look-3",
+          "playbooks:pdf011:look-4",
+          "playbooks:pdf011:look-5",
+          "playbooks:pdf011:look-6",
+          "playbooks:pdf011:names-colors",
+          "playbooks:pdf012:add-one-stat",
+          "playbooks:pdf012:choose-one-more",
+          "playbooks:pdf012:house-obligations-1",
+          "playbooks:pdf012:mandatory-signature",
+          "playbooks:pdf012:shadow-actions",
+          "playbooks:pdf012:shadow-track",
+          "playbooks:pdf012:shadowself",
+          "playbooks:pdf012:starting-stats",
+          "playbooks:pdf012:virtues",
+          "playbooks:pdf012:warrior-scales-honor"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-warrior-all-fired-up": {
-      "content_sha256": "4f92b6a41232a549d602c898ef89cc481e7dadcb6b3e6e454a180e9ab7d9177b",
+      "content_sha256": "078e8ad50109f73e1576774cedb46832dec14cf7e4f1697ae9b89bbeed623167",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "078e8ad50109f73e1576774cedb46832dec14cf7e4f1697ae9b89bbeed623167",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf012:warrior-all-fired-up"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-warrior-battle-plan": {
       "content_sha256": "10e28bc6fbefcde1728193a44b41f3cca47dc465117448975b67c1c44bef755c",
@@ -1692,7 +2160,19 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "10e28bc6fbefcde1728193a44b41f3cca47dc465117448975b67c1c44bef755c",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf012:battle-plan-extra-questions",
+          "playbooks:pdf012:warrior-battle-plan"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-warrior-dragonheart": {
       "content_sha256": "158fd692329b88ba091a6c6964f109a1650baaa930f3db69a2ae0400045e5966",
@@ -1700,7 +2180,18 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "158fd692329b88ba091a6c6964f109a1650baaa930f3db69a2ae0400045e5966",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf012:warrior-dragonheart"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-warrior-lies": {
       "content_sha256": "53638b0cd755016e3458fda4a0d2281fd0b699e4217b43584b89455607e2d5df",
@@ -1708,15 +2199,38 @@
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "53638b0cd755016e3458fda4a0d2281fd0b699e4217b43584b89455607e2d5df",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf012:lies-extra-questions",
+          "playbooks:pdf012:warrior-lies"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "pb-warrior-scales-honor": {
-      "content_sha256": "158dcf843a4541899c14f4a8da3bce8eca25cffebd6939b1acda381976ae5bcb",
+      "content_sha256": "5496a8038d4b699c0094f33b187de1429f73751a05d988401ea8485350a93d7b",
       "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
       "semantic_status": "pending",
       "reviewer": null,
       "evidence": [],
-      "notes": "既有譯文匯入；未保存可驗證的逐段審查證據，因此不回填為已校對。"
+      "notes": "本輪已對照完整動作／角色卡欄位並記錄原文區塊；待獨立複核，不標為 verified。",
+      "source_check": {
+        "status": "compared",
+        "date": "2026-10-24",
+        "reviewer": "Codex / core-playbooks batch 03",
+        "content_sha256": "5496a8038d4b699c0094f33b187de1429f73751a05d988401ea8485350a93d7b",
+        "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+        "evidence": [
+          "playbooks:pdf012:warrior-scales-honor"
+        ],
+        "scope": "核心獨立扮演書原文初校；六份角色介紹、創角資料與30個動作。尚未獨立複核。"
+      }
     },
     "ed-credits": {
       "content_sha256": "9cbc7695c1176fd5ce27afa30ab7a1b0bd047715136a343e6074e2ef6b364065",

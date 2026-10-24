@@ -2150,6 +2150,1338 @@
       "text": "take +1 to any stat (max +3)",
       "text_sha256": "d69eb0416f6e32718f9d0f2fb912dbe6397c59afc0cc7638aa83a287f5c855da",
       "extraction": "English standalone playbook PDF text; cap also visually checked on the age chart."
+    },
+    "playbooks:pdf002:academic-expertise": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：academic-expertise",
+      "text": "FIELD OF EXPERTISE:  You carry one of the Great T omes of Dragon \nKnowledge. Mark which one you keep with you always:\nDagon’s History of the War with Darkness\nLung-Kwan’s Famous Dragons and What They Did\nFafnir von Grimtooth’s Famous Moments in Dragon History\nDewlash De Golderin’s Guide to the Creatures of Dragonia\nAmelia Drakovich’s Geographical Primer on Dragonia’s Rivers, Mountains, \nand Major Islands\nWhen you consult the tomes you carry for information, tell the DM what you find \nand roll +tomes consulted. On a 10+, the information is accurate and complete; take \n+1 forward to act on the answers. On a 7–9, something is missing or mythic, useful \nbut not everything you need. On a miss, you’ve got something terribly wrong; the \nDM will let you know what you got wrong when you need to know.\nSignature Move Advancement: Mark a new tome of knowledge. T ell the DM \nwhich dragon gave you this new source of wisdom.",
+      "text_sha256": "971985cfa51e270df949e10c4f20c5e532f6634a88d035825d6d1addd18ee3a4",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:academic-old-debts": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：academic-old-debts",
+      "text": "OLD DEBTS:  When you stand up to an older dragon by reminding them of \ndebts and obligations long forgotten, roll +Cunning instead of +Courage.",
+      "text_sha256": "49cb61cdd1b1d965f7a36efa8ed60360bcf6eff3ab63f92cba722d981f465762",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:academic-peer-review": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：academic-peer-review",
+      "text": "PEER REVIEW:  When you go to your friends for advice about a specific \nproblem, give them a Friendship Gem and hear what they have to say. If you follow \ntheir advice, tell them to mark experience; you get a +1 ongoing to see it through. If \nyou ignore their advice, mark a Shadow.",
+      "text_sha256": "d31a449c864f51238b5dc8e32937b38fa12e743476328d2bb236abac78980a19",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:academic-arcane-ear": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：academic-arcane-ear",
+      "text": "AN EAR FOR THE ARCANE:  When you listen closely to a magic ritual, roll \n+Cunning. On a 10+ ask 2. On a 7–9, ask 1. Take +1 forward to acting on the answers. \nOn a miss, the ritual ensnares you, the DM will tell you how. \n• What arcane effects does the ritual have?\n• How can I disrupt the ritual?\n• Who is the intended target?\n• How could I reproduce this ritual?",
+      "text_sha256": "3846f7aa888d1711857339cce40b0b915ddf2e512c6d976b53abd33b36edea76",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:academic-old-ways": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：academic-old-ways",
+      "text": "FAMILIAR WITH THE OLD W A YS: When you study a Bearded or Elder \nDragon, add these questions to the move study another dragon:\n• What is whispered about you within your House?\n• How are you vulnerable to the Darkness?\n• Who in Dragonia opposes your goals and machinations?",
+      "text_sha256": "da5e662f2517cd9c34adc24063c0611ab395d5857c2341d1e84646bb3778a769",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:crafter-dragon-trade": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：crafter-dragon-trade",
+      "text": "DRAGON TRADE:  You are known for your gifts in the draconic arts.  \nMark two mediums you have dedicated yourself to from the list below:  \nWhen you create something in your medium, roll +Cunning. On a 10+, pick 2. \nOn a 7–9, pick one.\nOn a miss the work is fundamentally flawed. The DM will reveal how at a later time. \nSignature Move Advancement: Mark two new mediums. T ell the DM which \ndragon helped you to master these new materials.\n ¨ paints\n ¨ wood\n ¨ stone\n ¨ pen and ink\n ¨ mortar\n ¨ glass\n ¨ metal\n ¨ tattoos\n ¨ piercing\n ¨ acting\n ¨ directing\n ¨ writing\n ¨ gardening\n ¨ cloth\n ¨ paper\n ¨ plastics\n ¨ engraving\n ¨ jewels\n ¨ precious  \nmetals\n ¨ ice\n ¨ wax\n ¨ clay\n ¨ sand\n ¨ beads\n ¨ wire\n ¨ sound\n ¨ instruments\n ¨ Your creation is durable\n ¨ Your creation is functional\n ¨ Your creation is attractive",
+      "text_sha256": "584a83215d2ba58cc4450171da2d5cfb58e396a268e171b390ce158ac289e0c2",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:crafter-eye-detail": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：crafter-eye-detail",
+      "text": "AN EYE FOR DETAIL:  When you study another dragon after complimenting \nthem on a unique feature or object they possess, roll +Cunning instead of +Charm.",
+      "text_sha256": "d492ae6245db15eea69db372b9ac4decc91a9677c24933e79874f2d8ba000cbf",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:crafter-monument-moons": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：crafter-monument-moons",
+      "text": "MONUMENT TO THE MOONS:  When you create (and describe) a work of \nart, you can call upon the Moons and store the effects inside your piece. Name an \nevent that will activate the item, and the magic will be released when it is triggered.",
+      "text_sha256": "25483627ca5e70e48021ffb25821e4b8c1da5141c88e70d344a363e0e7ff4861",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:crafter-crafty-claw": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：crafter-crafty-claw",
+      "text": "CRAFTY CLA W: When you repair broken equipment or machinery, roll \n+Cunning. On a 10+, you do it, no problem. On a 7–9, it’s possible to get it moving \nagain, but only at a cost. The DM will tell you what you have to do to fix it up. On a \nmiss, something vital is missing or permanently broken.",
+      "text_sha256": "337645d8155a8820b345ade6cc1b728cd4b7ed1f2c064269b3aaf284a72dae25",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:crafter-saddlebag": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：crafter-saddlebag",
+      "text": "SADDLEBAG OF POTENTIAL:  You collect odds and ends, including bits of \narmament and ancient artifacts, just in case the inspiration strikes. When you search \nyour saddlebag for something small enough to be carried with you, roll +Cunning. \nOn a 10+, you have just the thing, or close enough. On a 7–9, you have something \nsimilar, but it’s incomplete or flawed. On a miss, you’ve used it recently, but you \nmight be able to get it back.",
+      "text_sha256": "07a012c155027b30d794476a4d81178042b53fa25e2d9efb3f720ab185f1432a",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:daredevil-beast-companion": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：daredevil-beast-companion",
+      "text": "BEAST COMPANION:  You find yourself in precarious situations that other \ndragonkin avoid, but your beast companion will follow you anywhere. Just like \nother wildlife in Dragonia, your beast companion has aspects of many different \nanimals. Choose up to three. If you only circle one, other creatures of Dragonia \nwill view your companion as a monster, but somehow you two manage.\nSignature Move Advancement: Mark a new ability for your beast companion. T ell \nus how your beast companion discovered (or grew into) their newfound talents.\nABILITIES (choose one):\n ¨ parrot\n ¨ rhino\n ¨ rat\n ¨ lion\n ¨ turtle\n ¨ insect\n ¨ wolf\n ¨ horse\n ¨ alligator\n ¨ salamander\n ¨ badger\n ¨ bear\n ¨ frog\n ¨ ram\n ¨ squid\n ¨ bat\n ¨ armadillo\n ¨ urchin\n ¨  \n ¨ Large: your beast is large enough to ride long distances. \n ¨ T racking: your beast can track down a nearby creature. \n ¨ Burrowing: your beast can dig through solid earth. \n ¨ Messenger: your beast can carry messages far and wide.\n ¨ Camouflage: your beast can blend in with its surroundings at will.\n ¨ Perform: your beast can entertain dragonkin and other wildlife.  \n ¨ Labor: your beast can haul and move heavy objects.",
+      "text_sha256": "792fd16525d915cd8e37e1bafffab1efc3fa98052a4d60ff845f45055874f2ef",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:daredevil-danger": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：daredevil-danger",
+      "text": "DANGER IS MY MIDDLE NAME:  Take +1 ongoing to acting despite danger  \nto overcome physical obstacles.",
+      "text_sha256": "12feeb90a4c1e64e4d5bcc68173c09e6640b72e8f961ba3c47ff9f487d5814f3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:daredevil-slippery-scales": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：daredevil-slippery-scales",
+      "text": "SLIPPERY SCALES:  When you attempt to escape any form of physical \nentrapment, roll +Courage. On a 10+, you escape. On a 7-9, you slip away, but you leave \nsomething important behind or attract unwanted attention; the DM will tell you which. \nOn a miss, you still get away, but the costs are great: mark a Shadow.",
+      "text_sha256": "e1a3c6210c88e0c652abc67d01550cf55d097dff1a120b6892c3fd5e0170c469",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:daredevil-clear-headed": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：daredevil-clear-headed",
+      "text": "CLEAR HEADED:  When you charge headfirst into a dangerous situation, roll \n+Courage.  On a hit, ask the DM one or more questions from the following list. Take \n+1 forward to act on the answers. On a 10+, ask 2. On a 7–9, ask 1:\n• Where’s my best escape route/way in/way past?\n• What should I be on the lookout for?\n• Who’s in control here?\nOn a miss, someone gets the jump on you before you can get your bearings, putting \nyou in a tough spot and separating you from your friends.",
+      "text_sha256": "45cd546d573bad26f16e21f5d8c29f11364ea1b800f8431f5bfeb68ec151068f",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:daredevil-share-load": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：daredevil-share-load",
+      "text": "SHARE THE LOAD:  When a fellow dragon is about to mark a Shadow, you \ncan mark off a Shadow on your Shadow T rack instead. You don’t have to act on the \nShadow, but it stays marked until you clear your Shadow T rack.",
+      "text_sha256": "6f82eac1f77f2ccccb082a90884671ee9bb294fe04cfeaba747ceca3f3aa0f4f",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:nature-adept-wild-speech": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：nature-adept-wild-speech",
+      "text": "WILD SPEECH:  You share this world with beasts and creatures of the \nwild. The calls of these creatures are a second language to you. You can \nunderstand and communicate with animals in a basic tongue of the land, \nallowing you to study them, insist they accept your help, and mislead or trick \nthem as if they were dragons.\nSignature Move Advancement: Mark one of the following as an additional \nnative tongue: stone, water, earth, fire, wind, ice, wood, or metal. T ell the DM \nhow you mastered a new language of the elements.",
+      "text_sha256": "f25ca740d8e172138265bfc9725d8829df906751721db396877c3f0add3eeb40",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:nature-adept-two-worlds": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：nature-adept-two-worlds",
+      "text": "MASTER OF TWO WORLDS:  When you act despite danger while traveling \nthrough the wild, roll +Charm instead of +Courage.",
+      "text_sha256": "6287f90e91237ce9f30a4fd7a9c0d3a2bbdfcc1bfcdfa1a6b919f9990302986c",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:nature-adept-smokescreen": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：nature-adept-smokescreen",
+      "text": "SMOKESCREEN:  When you keep still in natural surroundings, you blend in and \nare nearly invisible. Enemies cannot spot you until you move or speak.",
+      "text_sha256": "92a112dec9b8817d66093c31b0c57a5bbd03fc5a3a7dc6e30c6c87117aca474d",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:nature-adept-spirit-guide": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：nature-adept-spirit-guide",
+      "text": "SPIRIT GUIDE:  You have attracted the attention of the land itself. A small spirit \nguide follows you wherever you go, offering aid and counsel. When you ask your \nspirit guide for advice, roll +Charm. On a 10+, mark experience and take +1 forward \nif you follow its guidance. On a 7–9, take a +1 forward if you do as it says and mark \na Shadow if you don’t. On a miss, the spirit is insistent; if you ignore its advice, it \nleaves your side until you are able to make amends.",
+      "text_sha256": "6b9f0a2e7326bab9c4c295675a2dae5e4019abeb6974d3b83595e8c2fca04a69",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:nature-adept-beast-land": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：nature-adept-beast-land",
+      "text": "BEAST OF THE LAND:  When you commune with the spirits native to the \nland, roll +Charm. On a 10+, they impart their wisdom upon you; ask two of the \nfollowing questions. On a 7–9, ask 1. On a miss, the spirits are in trouble and need \nhelp with a ritual of their own. \n• How can I nurture this place?\n• What does this place want from us?\n• What last visited this place?\n• What spirits dance here?",
+      "text_sha256": "90a8104a591faf1b03788b7f6edb142dd1854ddf585e3d7566264aca07914bf3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:seer-haunting-visions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：seer-haunting-visions",
+      "text": "HAUNTING VISIONS:  You are haunted by visions of the Darkness. At the start \nof the session, roll +Charm. On a hit, you’ve seen a vision of the Darkness that will \naid your Clutch’s efforts; learn something useful and interesting about the tasks at \nhand. On a 10+, you’ve seen the true face of the Darkness; ask the DM a followup \nquestion as well. On a miss, your vision is too dark to aid you; the future it foretells \nis grim and painful. \nSignature Move Advancement: Mark a new feature for your visions. When you \n \nroll Haunting Vision, you may:\n ¨ share your vision with a Clutchmate; take +1 forward to your Haunting Vision roll.\n ¨ prepare your mind; ask an additional question (even on a miss).\n ¨ guide your vision; tell the DM what aspect of Dragonia your vision will concern.\n ¨ defy your future; offer a +1 forward to a Clutchmate to alter what you have seen. \nT ell the DM which dragons helped you gain the strength to master your visions.",
+      "text_sha256": "1f809034ed04edc9b8fc630bab8960050f149a2bbafa153a8dcc3b6ceedec3bf",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:seer-one-of-them": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：seer-one-of-them",
+      "text": "ONE OF THEM:  When you mislead or trick a dragon corrupted by the \nDarkness, roll +Charm instead of +Cunning.",
+      "text_sha256": "c816862b8cb8db42ed33c44e0a618ee1cfcacdd9428abb33227a13c11c227353",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:seer-wyrmtongue": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：seer-wyrmtongue",
+      "text": "WYRMTONGUE:  Return a Gem and ask the Darkness for something you need. \nThe DM will tell you what it costs. If you pay the price, the Darkness will deliver it.",
+      "text_sha256": "1c102aacf859be6ecc5f21ed72f842364c6a4c693dea081e152a44b20625b3d7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:seer-secret-catcher": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：seer-secret-catcher",
+      "text": "SECRET CATCHER: Add the following options to study another dragon \nbefore they have seen you:\n• What secrets is your character hiding?\n• What has the Darkness offered to you in your moments of weakness?\n• How do you think we are alike?",
+      "text_sha256": "11927f3561236d3a50e73640826869554b10f843a829fb8f2a41c986997e1b5d",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:seer-touch-darkness": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：seer-touch-darkness",
+      "text": "TOUCH THE DARKNESS:  When you consume a piece of the Darkness, roll \n+Charm. On a hit, the Darkness gives you a vision and answers your questions. \nOn a hit, choose one from the list below. On a 10+, choose two. The visions... \n• … are lucid and detailed; clear a Shadow.\n• … show you what you need to do; take +1 forward to do it.\n• … reveal the role a dragon will play in the events to come; give +1 forward  \nto a Clutchmate.\nOn a 7-9, choose one from the list below as well. The visions...\n• ... corrupt your soul; mark a Shadow.\n• … distance you from others; return a Gem.\n• … attack your weakened body, take -1 forward. \nOn a miss, you attract the attention of the Darkness itself.",
+      "text_sha256": "e42a51c1b689e6850401c48da719efdf7bc8229df4a56ed780e60e023f7a6088",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:warrior-scales-honor": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：warrior-scales-honor",
+      "text": "SCALES OF HONOR:  You have dedicated your life to the betterment  \nof Dragonia. Choose one boon:\n ¨ A mark of lunar authority; take +1 ongoing to call upon the Moons.\n ¨ A voice that penetrates the Darkness; take +1 ongoing to act despite \ndanger in the face of the Darkness.\n ¨ A lineage that commands respect; take +1 Charm (max +3).\n ¨ An heirloom from the War of Shadow; take +1 ongoing to stand up to an \nolder dragon.\n ¨ A large and valuable hoard; take +1 ongoing to give into the Darkness.\nMark a Shadow each time you conceal or hide one or more of your boons. \nSignature Move Advancement: Mark a new boon. T ell the DM which of your \nadventures has earned you such an honor.",
+      "text_sha256": "9f36cd032571ecba852d72dc811e80eedddccc78383a5545a4fec9f6b945bd1e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:warrior-battle-plan": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：warrior-battle-plan",
+      "text": "BATTLE PLAN:  When you face an enemy in combat, roll +Courage. On a hit, you \ncan ask the DM questions. Whenever you act on one of the DM’s answers, take +1. \nOn a 10+, ask 2. On a 7–9, ask 1:\n• Which enemy is most vulnerable to me?\n• What’s my enemy’s true position?\nOn a miss, they catch you off guard. Take a -1 ongoing until you can assert your \ndominance or rally your allies.",
+      "text_sha256": "9395c432ddef687778910348d79e942d01696fd028ef748805c8882a7e6d96fd",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:battle-plan-extra-questions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：battle-plan-extra-questions",
+      "text": "• Which enemy is the biggest threat?\n• What’s my enemy’s mission or objective?",
+      "text_sha256": "4b62038d5e381beb4017b5e458704e2c071b6647145ca250c9e48af477b64069",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:warrior-lies": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：warrior-lies",
+      "text": "LIES DO NOT BECOME US:  When you speak frankly with a character, you \ncan ask their player a question from the list below. If they answer it truthfully, they \nmay then ask you a question from the list. You must answer truthfully. \n• Whom do you really serve?\n• What do you most desire?",
+      "text_sha256": "fd53d5f4369e9583528e845eff7928255a9e3750ac05a09a1d41019bf6747e0f",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:lies-extra-questions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：lies-extra-questions",
+      "text": "• What do you most regret?\n• Who have you truly wronged?",
+      "text_sha256": "c0efeb823aa7637f3553da6a3db61a8181e4f9045d75b1ec97ddd6e106306ae1",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:warrior-all-fired-up": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：warrior-all-fired-up",
+      "text": "ALL FIRED UP:  Once per session, you can return a Friendship Gem to act \ndespite danger with a 10+.",
+      "text_sha256": "9048f850bed1d5718ac095d4c3444d9028ec6f49cb13ca319b6110b60676d5ff",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:warrior-dragonheart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：warrior-dragonheart",
+      "text": "DRAGONHEART : You are a true friend to your Clutchmates; you may give \nGems to characters that act according to either of your virtues (Daring or Humor).",
+      "text_sha256": "fb75fae877c7cbd9a468c3fe44094dac49038a2c3405cbd43968a68c9fee46eb",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:starting-stats": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：starting-stats",
+      "text": "Starting Stats: Charm +0, Courage -1, Cunning +1",
+      "text_sha256": "8197a9632aa272329416d0c043bcaa5bfcecc98dcebeda1603f946ecb18e089c",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:add-one-stat": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：add-one-stat",
+      "text": "STATS: ADD ONE TO one of these.",
+      "text_sha256": "7e246840853f888a67d83e01c4a8418f9563239890425e17f66c99ba7ad9ca80",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:virtues": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：virtues",
+      "text": "VIRTUE  \n(circle one)\nCuriosity\nHonesty",
+      "text_sha256": "b641000aedabffa390a0c3dd494bd6ee7a28062c466a7d17a3b586ee6670785a",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:choose-one-more": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：choose-one-more",
+      "text": "AND CHOOSE ONE MORE:",
+      "text_sha256": "50dcd56bc96d3d6ca387c97419c2c86e0012c0f51646648035ee78851699b928",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:intro": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：intro",
+      "text": "YOU WORK HARD to learn as much as you can. Knowledge is power, and \nyou fight to pursue and protect it. Sometimes it is hard to balance your \npassions for the past with living in the present, but you don’t want to miss \nout on any adventures…or friendships. After all, the heroes you read about \nhad to put down their parchment and get their scales dirty eventually.",
+      "text_sha256": "6127f93a936a3211845691a388ae7c392d723057f7f60e3de29d7366b5f88100",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:house-obligations-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：house-obligations-1",
+      "text": "MYNDOTH, The House of Oak\nDiscover something important about an  \nancient mystery. \nSEMSCALE,  The House of Jade\nDefuse a tense situation between dragons from \ndifferent houses.",
+      "text_sha256": "816209f39b2ea2e0b48385698927459c812f3644f2dabb2848b33a94163c8d52",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:names-colors": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：names-colors",
+      "text": "COLORS\nNAME (circle one)\nStars\nLudvizk\nHachiro\nWeneth\nZandyl\nStevarath\nTHE ACADEMIC",
+      "text_sha256": "d16a1c30a1c1ec8093f720b813473ff01d3938e6938206b4b7b12dadb4be8ee3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:fellowship": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：fellowship",
+      "text": "FELLOWSHIP \n      guided your Clutch when you were lost in the \ncapital. Explain how they exemplified your virtue and give them a Friendship Gem.\n      showed you the threat the Darkness posed by \ngetting your snout out of a book. Give them a Friendship Gem.\n      doesn’t understand dragon history and the \nimportance of the old ways; you will teach them all you can. Take a Friendship Gem from them.\nEVERYONE INTRODUCES THEIR DRAKES by name, look, and color. Then list your \nClutchmates’ names in the blanks below and go around again to read aloud your fellowship ties.",
+      "text_sha256": "1c487263529130ed8df1bb98d7a90b863443dadf55f192d3428429de8fbf862a",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:shadowself": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：shadowself",
+      "text": "YOU’VE HELD YOUR tongue for too long. You have the best plans to move your Clutch \nforward and no one knows the history of Dragonia better than you do. Make sure your clutch \nknows how smart you truly are. You are The Academic. Return from your Shadowself when a \nfriend convinces you to admit that you don’t have all the answers.",
+      "text_sha256": "6873d68626e1c3805714122d0c31da65dba0394c8185c0f9b9dcccc930f2f233",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:age-chart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：age-chart",
+      "text": "THERE ARE FIVE AGES of a dragon lifespan. Each time your XP track fills, select an \nadvancement from the list and erase your XP track. When you have taken all three \nadvancements, you grow into your next age. \nAs you grow your connection to the Moons changes and shifts. Every time you take an Adult \nadvancement, cross off one moon. You can no longer call on that moon for strength. \nADULT ADV ANCEMENT\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n1. RA W SCALED DRAKE\nXP:\nMoons +0\nXP:\n4. BEARDED DRAGON\n ¨ take a ritual of your House\n ¨ advance your signature move\nMoons +2\nXP:\n5. ELDER DRAGON\n ¨ your House dedicates a stronghold to you\n ¨ retire your character; arise as a Mystic or Ancient \nMoons +3\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n2. WINGED DRAKE\nXP:\nMoons +0\nXP:\n3. LONG-TOOTHED DRAGON\n ¨ take another move from another playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\nMoons +1\nVOID LIBERTY STONE SPIRIT STORM",
+      "text_sha256": "d47842ba429d07245329c90258b2e7edbd420db159a611c6a2c2bf07bb043526",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:shadow-track": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：shadow-track",
+      "text": "THE SHADOW TRACK represents how much hold the Darkness has on your dragon.\nYou can mark Shadows in any order. When you mark a Shadow, you must take the action \nassociated with the Shadow. When you mark the last Shadow, you lose yourself to the \nDarkness and become your Shadowself. While you are lost to the Darkness, do not mark \nany further Shadows, even if a move asks you to do so.",
+      "text_sha256": "a52510ac7e6a0136ccade429598c72d033ed29ad794a4f646e3806af6b7cb985",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:shadow-actions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：shadow-actions",
+      "text": "ANGER\n• Lash out at a friend.\n• Break something valuable\n• Escalate a delicate situation\nSHAME\n• Blame a friend for your mistakes\n• Mock or belittle someone vulnerable\n• Seek isolation or solitude\nDOUBT\n• Question a friend’s loyalty\n• Steal something valuable\n• Reject a tradition of Dragonia\nFEAR\n• Hide something from your friends\n• Avoid a difficult task\n• Exaggerate the danger of the situation",
+      "text_sha256": "05eb0ec9d516d2f0a6c8fb17064cfb7b46492565b40a91f2c880eafb528345ae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:look-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：look-1",
+      "text": "Antennae, Antlers, Curling horns, Many horns",
+      "text_sha256": "5012fedff62254074519fac273c95e591ffd1e0be1e856b2a5b8e9500f32caa8",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:look-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：look-2",
+      "text": "Baggy hide, Feathered, Furry, Scaled",
+      "text_sha256": "27b46f8fa9e4a718310b2f113fd599dc231eca534463c9f01939070ac02717a7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:look-3": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：look-3",
+      "text": "Long snout, Overbite, Pointy skull, Short snout",
+      "text_sha256": "3e0fdd10d7fdb6ce8d4a937b665cf549af46f4cdce9c82a21ba28f0badea734f",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:look-4": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：look-4",
+      "text": "Maned tail, No tail, Prehensile tail, Stinger",
+      "text_sha256": "46a3ab0b0fbf5e2ab3268ad4b4e1d6b52a32bd0e34c30203125e297131cd29f6",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:look-5": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：look-5",
+      "text": "Adhesive toes, Boney digits, Splayed fingers, Talons",
+      "text_sha256": "d6f26525ff066755e88fea472484b530f0b960fcdf398c39440193a716641d3e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf001:look-6": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 1,
+      "locator": "獨立扮演書 PDF 1：look-6",
+      "text": "Bloated body, Graceful body, Thin, Wingless",
+      "text_sha256": "c6f03c7935fe759a6ffb31035752d519b1e061de361bdf7cf5e4ad871e062d36",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:starting-stats": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：starting-stats",
+      "text": "Starting Stats: Charm -1, Courage +0, Cunning +1",
+      "text_sha256": "e2d10955c5483d7541799b6a190d2afe6689793b4d2d405b6399eece9c58b305",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:add-one-stat": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：add-one-stat",
+      "text": "STATS: ADD ONE TO one of these.",
+      "text_sha256": "7e246840853f888a67d83e01c4a8418f9563239890425e17f66c99ba7ad9ca80",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:virtues": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：virtues",
+      "text": "VIRTUE  \n(circle one)\nAmbition\nTradition",
+      "text_sha256": "af13390ddb536c247b7e60c6a69c33cbf0e0d5814d93df03d7f123f67c7dcc06",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:choose-one-more": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：choose-one-more",
+      "text": "AND CHOOSE ONE MORE:",
+      "text_sha256": "50dcd56bc96d3d6ca387c97419c2c86e0012c0f51646648035ee78851699b928",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:intro": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：intro",
+      "text": "YOU UNDERSTAND THAT beauty goes beyond a flashy new look, and you \nknow how much hard work and dedication it takes to make great art. But it is \nimportant for all great crafters to remember that your trade is a dangerous \npractice: many like you have fallen to their obsessions. Your friendships will \nkeep you grounded while you pursue perfection.",
+      "text_sha256": "26016632bcd5bfeb8df08e2600f91bdbffa5e1c9fa2a6c21cb23e349fb70a4d2",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:house-obligations-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：house-obligations-1",
+      "text": "KEBROS, The House of Ruby\nPut yourself in danger to obtain rare  \nmaterials or treasures. \nROTHSCAR,  The House of Gold\nDesign something to help a friend solve  \na tricky problem.",
+      "text_sha256": "57dbea506c26528301242fb0ebb10f3bf74a95565269951953aebe983524a9e8",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:names-colors": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：names-colors",
+      "text": "COLORS\nNAME (circle one)\nDeep Eyes\nNeo\nAzrael\nBolograth\nAngus\nSamsmilt\nTHE CRAFTER",
+      "text_sha256": "716e0b8eba15c320669a68b74816e716498c121f4ab05011857f4e1cb2871b29",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:fellowship": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：fellowship",
+      "text": "FELLOWSHIP \n      asked you to craft something useful for your \nClutch.  Explain what it is, and take a Friendship Gem from them.\n      inspired you to leave your workshop to fight against \nthe Darkness. Explain how they exemplified your virtue, and give them a Friendship Gem.\n      has your back when your tinkering gets you into \ntrouble. Explain how they exemplified your virtue, and give them a Friendship Gem.\nEVERYONE INTRODUCES THEIR DRAKES by name, look, and color. Then list your \nClutchmates’ names in the blanks below and go around again to read aloud your fellowship ties.",
+      "text_sha256": "41b215fbd3f9b6554b82f145d9b6bad039f043d02f35660725db1fb3ebe41a04",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:shadowself": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：shadowself",
+      "text": "MORE THAN AN artist, you are a machinist. You see dragons as tools to be wielded, \nmanipulated, and forced to see their true potential.  Make sure your clutch sees your vision \nfor Dragonia. You are The Crafter. Return from your Shadowself when a friend convinces you \nto admit that you care more about dragons than objects.",
+      "text_sha256": "bdf9a8a6564c1c54cab5222f9b2cd090e596c1f73688e964d30c0e0168d33153",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:age-chart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：age-chart",
+      "text": "THERE ARE FIVE AGES of a dragon lifespan. Each time your XP track fills, select an \nadvancement from the list and erase your XP track. When you have taken all three \nadvancements, you grow into your next age. \nAs you grow your connection to the Moons changes and shifts. Every time you take an Adult \nadvancement, cross off one moon. You can no longer call on that moon for strength. \nADULT ADV ANCEMENT\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n1. RA W SCALED DRAKE\nXP:\nMoons +0\nXP:\n4. BEARDED DRAGON\n ¨ take a ritual of your House\n ¨ advance your signature move\nMoons +2\nXP:\n5. ELDER DRAGON\n ¨ your House dedicates a stronghold to you\n ¨ retire your character; arise as a Mystic or Ancient \nMoons +3\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n2. WINGED DRAKE\nXP:\nMoons +0\nXP:\n3. LONG-TOOTHED DRAGON\n ¨ take another move from another playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\nMoons +1\nVOID LIBERTY STONE SPIRIT STORM",
+      "text_sha256": "d47842ba429d07245329c90258b2e7edbd420db159a611c6a2c2bf07bb043526",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:shadow-track": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：shadow-track",
+      "text": "THE SHADOW TRACK represents how much hold the Darkness has on your dragon.\nYou can mark Shadows in any order. When you mark a Shadow, you must take the action \nassociated with the Shadow. When you mark the last Shadow, you lose yourself to the \nDarkness and become your Shadowself. While you are lost to the Darkness, do not mark \nany further Shadows, even if a move asks you to do so.",
+      "text_sha256": "a52510ac7e6a0136ccade429598c72d033ed29ad794a4f646e3806af6b7cb985",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf004:shadow-actions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：shadow-actions",
+      "text": "ANGER\n• Lash out at a friend.\n• Break something valuable\n• Escalate a delicate situation\nSHAME\n• Blame a friend for your mistakes\n• Mock or belittle someone vulnerable\n• Seek isolation or solitude\nDOUBT\n• Question a friend’s loyalty\n• Steal something valuable\n• Reject a tradition of Dragonia\nFEAR\n• Hide something from your friends\n• Avoid a difficult task\n• Exaggerate the danger of the situation",
+      "text_sha256": "05eb0ec9d516d2f0a6c8fb17064cfb7b46492565b40a91f2c880eafb528345ae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:look-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：look-1",
+      "text": "Antennae, Charred horns, Curling horns, T usks",
+      "text_sha256": "debe535c1eadbc7599f12c4501e02bf3e434fd0d031c97a390cc0c4224941c31",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:look-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：look-2",
+      "text": "Baggy hide, painted scales, Bumpy skin, Shelled",
+      "text_sha256": "353d461310d3e58df73ce228e3ad02a1b3e729c3a480bf5a0d24328691abe2db",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:look-3": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：look-3",
+      "text": "Boney skull, Scarred snout, Short snout, Underbite",
+      "text_sha256": "56f1c8c4c3397feda3ca110ec74b6353f8e7e83faf811e5eedd790b7bff8f3e6",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:look-4": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：look-4",
+      "text": "Barbed tail, Club tail, No tail, Prehensile tail",
+      "text_sha256": "fee6abc6f8e17bc48eb0614bf506bf973d16a21ffcdab308896be5c68192c735",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:look-5": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：look-5",
+      "text": "Boney digits, Claws, Splayed fingers, Webbed feet",
+      "text_sha256": "406b45e5754e200d9f9ca25c8d4dd9ddcdd3c398c8538e9d1f556a56ea4e04c7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf003:look-6": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 3,
+      "locator": "獨立扮演書 PDF 3：look-6",
+      "text": "Angular body, Bloated body, Sleek body, T wisty body",
+      "text_sha256": "07f4c4ce1ff5507aa591bcf1285620490da87b8592ebd714e3435ba09a77075e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:starting-stats": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：starting-stats",
+      "text": "Starting Stats: Charm -1, Courage +1, Cunning +0",
+      "text_sha256": "331dd212beba49295401a04ebe8499d70af6e788b77db3d0a39e4e638469860e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:add-one-stat": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：add-one-stat",
+      "text": "STATS: ADD ONE TO one of these.",
+      "text_sha256": "7e246840853f888a67d83e01c4a8418f9563239890425e17f66c99ba7ad9ca80",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:virtues": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：virtues",
+      "text": "VIRTUE  \n(circle one)\nCooperation\nDiscretion",
+      "text_sha256": "3bae12ea41837839fefa616fe0ce76fef1c38487247f2b5913916ec7f3545a07",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:choose-one-more": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：choose-one-more",
+      "text": "AND CHOOSE ONE MORE:",
+      "text_sha256": "50dcd56bc96d3d6ca387c97419c2c86e0012c0f51646648035ee78851699b928",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:intro": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：intro",
+      "text": "THE SKY IS no limit for you. When you shoot for the stars, you achieve great \nthings you never thought possible. Sometimes the rush can make you lose \nyour head; don’t fly so high that you forget about those who look up to you. \nYour friendships will give you reasons to fly and all you could ever need to \nkeep your wings and heart busy.",
+      "text_sha256": "833e603b173d39221eeac49d872ff03553191b8169e4503a5dd8523ad71f21e1",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:house-obligations-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：house-obligations-1",
+      "text": "BRYNBAK, The House of Steel\nConvince a member of your Clutch to  \nundertake a dangerous task.",
+      "text_sha256": "87384b43b99da8177ef9f44391bc60f9b80d7fae790c5533f25c45ab4e818ca8",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:house-obligations-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：house-obligations-2",
+      "text": "ROTHSCAR,  The House of Gold\nPut yourself in between danger and  \na Clutchmate.",
+      "text_sha256": "a89a22027d17d37a1081102ebcca86f3544f2594809a92d826a362f67c3125b7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:names-colors": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：names-colors",
+      "text": "COLORS\nNAME (circle one)\nQuoloth\nVol\nOnyx\nHonedstar\nSpirit\nSirat\nTHE DAREDEVIL",
+      "text_sha256": "9a7da4fb8fd4517e848ab46ab4db7c65b42c8fdaee00322f200c5f797b51b25b",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:fellowship": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：fellowship",
+      "text": "FELLOWSHIP \n      made you feel welcome in the Clutch when your beast \ncompanion fell ill. Explain how they exemplified your virtue, and give them a Friendship Gem.\n      taught you not to underestimate the Darkness. \nExplain how they exemplified your virtue, and give them a Friendship Gem.\nYou saved        from a dangerous monster. Take a \nFriendship Gem from them.\nEVERYONE INTRODUCES THEIR DRAKES by name, look, and color. Then list your \nClutchmates’ names in the blanks below and go around again to read aloud your fellowship ties.",
+      "text_sha256": "8496c357ff4b59903977e6ab7808a51cab07d8a6ae1bed5aeb649f6b14493e85",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:shadowself": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：shadowself",
+      "text": "YOU ARE FAST , furious, and unstoppable. No danger is too great for you to face, and you \ndon’t need a Clutch to slow you down. Make sure your clutch always sees you out in front. \nYou are The Daredevil. Return from your Shadowself when a friend convinces you to admit \nthat you need your Clutch.",
+      "text_sha256": "4fac590712d9281b094d13e98b7fe75ef949adf8e0d00122c1fb8f772d5e2c1a",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:age-chart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：age-chart",
+      "text": "THERE ARE FIVE AGES of a dragon lifespan. Each time your XP track fills, select an \nadvancement from the list and erase your XP track. When you have taken all three \nadvancements, you grow into your next age. \nAs you grow your connection to the Moons changes and shifts. Every time you take an Adult \nadvancement, cross off one moon. You can no longer call on that moon for strength. \nADULT ADV ANCEMENT\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n1. RA W SCALED DRAKE\nXP:\nMoons +0\nXP:\n4. BEARDED DRAGON\n ¨ take a ritual of your House\n ¨ advance your signature move\nMoons +2\nXP:\n5. ELDER DRAGON\n ¨ your House dedicates a stronghold to you\n ¨ retire your character; arise as a Mystic or Ancient \nMoons +3\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n2. WINGED DRAKE\nXP:\nMoons +0\nXP:\n3. LONG-TOOTHED DRAGON\n ¨ take another move from another playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\nMoons +1\nVOID LIBERTY STONE SPIRIT STORM",
+      "text_sha256": "d47842ba429d07245329c90258b2e7edbd420db159a611c6a2c2bf07bb043526",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:shadow-track": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：shadow-track",
+      "text": "THE SHADOW TRACK represents how much hold the Darkness has on your dragon.\nYou can mark Shadows in any order. When you mark a Shadow, you must take the action \nassociated with the Shadow. When you mark the last Shadow, you lose yourself to the \nDarkness and become your Shadowself. While you are lost to the Darkness, do not mark \nany further Shadows, even if a move asks you to do so.",
+      "text_sha256": "a52510ac7e6a0136ccade429598c72d033ed29ad794a4f646e3806af6b7cb985",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf006:shadow-actions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：shadow-actions",
+      "text": "ANGER\n• Lash out at a friend.\n• Break something valuable\n• Escalate a delicate situation\nSHAME\n• Blame a friend for your mistakes\n• Mock or belittle someone vulnerable\n• Seek isolation or solitude\nDOUBT\n• Question a friend’s loyalty\n• Steal something valuable\n• Reject a tradition of Dragonia\nFEAR\n• Hide something from your friends\n• Avoid a difficult task\n• Exaggerate the danger of the situation",
+      "text_sha256": "05eb0ec9d516d2f0a6c8fb17064cfb7b46492565b40a91f2c880eafb528345ae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:look-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：look-1",
+      "text": "Broken horns, Head frill, Pointed horns, T usks",
+      "text_sha256": "0333833220236b71fee8d170e287a7dc2c1522ccfb8508658732fa26dcba31f4",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:look-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：look-2",
+      "text": "Bumpy skin, Feathered, Iridescent, Spiney",
+      "text_sha256": "22ef3a34a32f81ed84faa6ac7cac082bcd5a3476e16802461da9ae5d89f1187f",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:look-3": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：look-3",
+      "text": "Beak, Long snout, Overbite, Short snout",
+      "text_sha256": "4e725d65e7286e25a92a567bbd3c9669bd3a643e9d861d759678a5f39d7d37fe",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:look-4": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：look-4",
+      "text": "Barbed tail, No tail, Prehensile tail, Whip tail",
+      "text_sha256": "d7f2c2f2abb34076019e0046c6b1640cb0f2c84f04c61ec48ddaf73aa16d6335",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:look-5": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：look-5",
+      "text": "Adhesive toes, Claws, Paws, Webbed feet",
+      "text_sha256": "76336aefa5abd7cff598dd13af5a6acb4a4eb27632110a96febb4c8da824e7f7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf005:look-6": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 5,
+      "locator": "獨立扮演書 PDF 5：look-6",
+      "text": "Angular body, Boney body, Muscular body, T wisty body",
+      "text_sha256": "66d8e83a92fcc9b88f2108c0129bd28ded56fa54d274598cb43ddc7db7405ed7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:starting-stats": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：starting-stats",
+      "text": "Starting Stats: Charm +1, Courage -1, Cunning +0",
+      "text_sha256": "3af2985519f15514d8356290f24312eb1680aa7f05e19c193dc81ec1d4d8b10e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:add-one-stat": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：add-one-stat",
+      "text": "STATS: ADD ONE TO one of these.",
+      "text_sha256": "7e246840853f888a67d83e01c4a8418f9563239890425e17f66c99ba7ad9ca80",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:virtues": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：virtues",
+      "text": "VIRTUE  \n(circle one)\nHonor\nIndependence",
+      "text_sha256": "23c18cb2e1c9bfa9fa0242483322c0362d257d46dc9d90a4c5518849a1debd16",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:choose-one-more": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：choose-one-more",
+      "text": "AND CHOOSE ONE MORE:",
+      "text_sha256": "50dcd56bc96d3d6ca387c97419c2c86e0012c0f51646648035ee78851699b928",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:intro": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：intro",
+      "text": "YOU KNOW THE true splendor of the wilds. Creatures of the land sing \na familiar song that reminds you of home, and they hear your roar as they \nwould hear one of their own. But what is Dragonia to you? Can it be your \nhome as well? Only your friendships can help you see the value of dragon \nculture and realize the promise of living in two worlds.",
+      "text_sha256": "c073968e80cc72189bd3d59b2d79a0f8cb77ef0fcb9e2f2d1ec963a91d5918bd",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:house-obligations-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：house-obligations-1",
+      "text": "TESSITH,  The House of Diamond\nRestore a symbol or sanctuary of the wild.",
+      "text_sha256": "d194261e1edd4455d3e9fccaa5dc1beb0b76eb04015a073818014217968c1542",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:house-obligations-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：house-obligations-2",
+      "text": "MYNDOTH, The House of Oak\nAvoid detection or infiltrate a location.",
+      "text_sha256": "b68845629214afe1e9a814f3e0a4c7d1950d43734e943dec4979a0c6d2fad4c4",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:names-colors": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：names-colors",
+      "text": "COLORS\nNAME (circle one)\nLionell\nHunter\nT alon\nAhna\nT overinn\nKemoth\nTHE NATURE ADEPT",
+      "text_sha256": "5e6f6d6c190812857be84d9b79f7961c267aa4d8d5e1ea5d8838618be11092ab",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:fellowship": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：fellowship",
+      "text": "FELLOWSHIP \n      was a voice of reason in your Clutch when dealing \nwith older dragons.  Explain how they exemplified your virtue, and give them a Gem.\n      helped you defend a sacred space against the \nDarkness. Explain how they exemplified your virtue, and give them a Gem.\nYou have taught                  to listen to an animal of the wilds. \nTell them which wild creature. Take a Gem from them.\nEVERYONE INTRODUCES THEIR DRAKES by name, look, and color. Then list your \nClutchmates’ names in the blanks below and go around again to read aloud your fellowship ties.",
+      "text_sha256": "8543be8461c4d91709d5e0480030bfe3c82ea5134f1d5d336a12c2b68c2d289b",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:shadowself": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：shadowself",
+      "text": "YOU ARE PURE and one with nature. Dragonia is a distant memory, a false artifice obscuring \nthe true destiny of the land. Make sure your clutch knows how much you value the wild over \nDragonia. You are The Nature Adept. Return from your Shadowself when a friend convinces \nyou to acknowledge the value of dragon culture.",
+      "text_sha256": "239cb72f4a5604c806cb8d7a330da643da20c78773ce76451cb60d2e79bf994e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:age-chart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：age-chart",
+      "text": "THERE ARE FIVE AGES of a dragon lifespan. Each time your XP track fills, select an \nadvancement from the list and erase your XP track. When you have taken all three \nadvancements, you grow into your next age. \nAs you grow your connection to the Moons changes and shifts. Every time you take an Adult \nadvancement, cross off one moon. You can no longer call on that moon for strength. \nADULT ADV ANCEMENT\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n1. RA W SCALED DRAKE\nXP:\nMoons +0\nXP:\n4. BEARDED DRAGON\n ¨ take a ritual of your House\n ¨ advance your signature move\nMoons +2\nXP:\n5. ELDER DRAGON\n ¨ your House dedicates a stronghold to you\n ¨ retire your character; arise as a Mystic or Ancient \nMoons +3\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n2. WINGED DRAKE\nXP:\nMoons +0\nXP:\n3. LONG-TOOTHED DRAGON\n ¨ take another move from another playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\nMoons +1\nVOID LIBERTY STONE SPIRIT STORM",
+      "text_sha256": "d47842ba429d07245329c90258b2e7edbd420db159a611c6a2c2bf07bb043526",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:shadow-track": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：shadow-track",
+      "text": "THE SHADOW TRACK represents how much hold the Darkness has on your dragon.\nYou can mark Shadows in any order. When you mark a Shadow, you must take the action \nassociated with the Shadow. When you mark the last Shadow, you lose yourself to the \nDarkness and become your Shadowself. While you are lost to the Darkness, do not mark \nany further Shadows, even if a move asks you to do so.",
+      "text_sha256": "a52510ac7e6a0136ccade429598c72d033ed29ad794a4f646e3806af6b7cb985",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf008:shadow-actions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：shadow-actions",
+      "text": "ANGER\n• Lash out at a friend.\n• Break something valuable\n• Escalate a delicate situation\nSHAME\n• Blame a friend for your mistakes\n• Mock or belittle someone vulnerable\n• Seek isolation or solitude\nDOUBT\n• Question a friend’s loyalty\n• Steal something valuable\n• Reject a tradition of Dragonia\nFEAR\n• Hide something from your friends\n• Avoid a difficult task\n• Exaggerate the danger of the situation",
+      "text_sha256": "05eb0ec9d516d2f0a6c8fb17064cfb7b46492565b40a91f2c880eafb528345ae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:look-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：look-1",
+      "text": "Antlers, Bone crest, Curling horns, T usks",
+      "text_sha256": "29c6831f9577901bb85f84f88d6ddc56f5eb5faad2d575db19e2b9f5fe7595aa",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:look-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：look-2",
+      "text": "Bumpy skin, Feathered, Furry, Spiney",
+      "text_sha256": "cb21b3b31632cfb20a72546128984680b6aa1b774ecbbf0a2bc2c44a64e1272c",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:look-3": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：look-3",
+      "text": "Beak, Broad snout, Bulbous skull, Short snout",
+      "text_sha256": "5f0ec29f5f2397e580740de1062bb990b30d41a1d33555bdd2a07801766b8523",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:look-4": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：look-4",
+      "text": "Club tail, Maned tail, Prehensile tail, Stinger",
+      "text_sha256": "af04a19058d57219d49ea6d4cbd7a1539ccc83dc13b92caaab9dd4c6b4f47ca3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:look-5": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：look-5",
+      "text": "Clubbed feet, Hooves, Talons, Webbed feet",
+      "text_sha256": "f53863048af9dbd311aba61dc4b6efa6124c36aebe795adf7c1fb17e4db5d635",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf007:look-6": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 7,
+      "locator": "獨立扮演書 PDF 7：look-6",
+      "text": "Flat body, Graceful body, Knobby body, Small body",
+      "text_sha256": "beded433853b8fcaf15c70d74c1f479fb1d8bce686670a230a3c81aab69cedea",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:starting-stats": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：starting-stats",
+      "text": "Starting Stats: Charm +1, Courage +0, Cunning -1",
+      "text_sha256": "dac6565cb3f2135467273a54e9c23e2c6c1830d8945b4fad182bea53b5a9121e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:add-one-stat": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：add-one-stat",
+      "text": "STATS: ADD ONE TO one of these.",
+      "text_sha256": "7e246840853f888a67d83e01c4a8418f9563239890425e17f66c99ba7ad9ca80",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:virtues": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：virtues",
+      "text": "VIRTUE  \n(circle one)\nCreativity\nEmpathy",
+      "text_sha256": "51f0fb5c1865a24cb30ce0b0a64dbff04c48d9fa91ab17f6e38d71e4fa53ceaa",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:choose-one-more": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：choose-one-more",
+      "text": "AND CHOOSE ONE MORE:",
+      "text_sha256": "50dcd56bc96d3d6ca387c97419c2c86e0012c0f51646648035ee78851699b928",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:intro": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：intro",
+      "text": "THE DARKNESS SPOKE to you at an early age. You see the approaching \nhorror and work to fight against it, yet others don’t always trust or believe \nyou. You have grown close to the Darkness to learn its secrets, but do not \nforget your true allies. Your friendships are the light that keeps you from \nfalling to the Darkness.",
+      "text_sha256": "c434ffb17b55320ede2f32cad5aba28b20a367c226ac9eb27506b61db2618a58",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:house-obligations-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：house-obligations-1",
+      "text": "KEBROS, The House of Ruby\nMark a Shadow while engaging the Darkness. \nSEMSCALE,  The House of Jade\nUse secret knowledge of the Darkness  \nto aid another.",
+      "text_sha256": "2587aeda49e362a92ff5a6bf177242ecd0647d28aa094b78e54b2024cd42feae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:names-colors": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：names-colors",
+      "text": "COLORS\nNAME (circle one)\nRen\nVeri\nRyoko\nLuneth\nDraven\nHamundil\nTHE SEER",
+      "text_sha256": "f8e0f34f75f10da6edef58915c86e1d5460f54bb166da7ed1a072df4c6eaae94",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:fellowship": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：fellowship",
+      "text": "FELLOWSHIP \n      ’s knowledge is unparalleled within the Clutch, but \nthey do not see the danger ahead.  Take a Gem from them.\n      helped save you from the Darkness. Explain how \nthey exemplified your virtue. Give them a Gem.\nYou dreamed of               long before you two met. Tell them \nwhat the dream was about and take a Gem from them.\nEVERYONE INTRODUCES THEIR DRAKES by name, look, and color. Then list your \nClutchmates’ names in the blanks below and go around again to read aloud your fellowship ties.",
+      "text_sha256": "85c46500716a0ce16580b79b03c1ea15157004a7ec7a443920ac147901bf4bb2",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:shadowself": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：shadowself",
+      "text": "YOU ARE MAGNETIC and persuasive. You know dragonkin cannot be trusted any more \nthan the Darkness can; you may have to traffic in lies and backroom deals to get things done. \nMake sure your clutch knows you are willing to sacrifice their feelings to get the job done. \nYou are the Seer. Return from your Shadowself when a friend convinces you to trust a dragon \nyou do not know.",
+      "text_sha256": "df3fa4fce580bc568738d807b6a549d4950dc1792c992fbe97edcc10352a0121",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:age-chart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：age-chart",
+      "text": "THERE ARE FIVE AGES of a dragon lifespan. Each time your XP track fills, select an \nadvancement from the list and erase your XP track. When you have taken all three \nadvancements, you grow into your next age. \nAs you grow your connection to the Moons changes and shifts. Every time you take an Adult \nadvancement, cross off one moon. You can no longer call on that moon for strength. \nADULT ADV ANCEMENT\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n1. RA W SCALED DRAKE\nXP:\nMoons +0\nXP:\n4. BEARDED DRAGON\n ¨ take a ritual of your House\n ¨ advance your signature move\nMoons +2\nXP:\n5. ELDER DRAGON\n ¨ your House dedicates a stronghold to you\n ¨ retire your character; arise as a Mystic or Ancient \nMoons +3\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n2. WINGED DRAKE\nXP:\nMoons +0\nXP:\n3. LONG-TOOTHED DRAGON\n ¨ take another move from another playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\nMoons +1\nVOID LIBERTY STONE SPIRIT STORM",
+      "text_sha256": "d47842ba429d07245329c90258b2e7edbd420db159a611c6a2c2bf07bb043526",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:shadow-track": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：shadow-track",
+      "text": "THE SHADOW TRACK represents how much hold the Darkness has on your dragon.\nYou can mark Shadows in any order. When you mark a Shadow, you must take the action \nassociated with the Shadow. When you mark the last Shadow, you lose yourself to the \nDarkness and become your Shadowself. While you are lost to the Darkness, do not mark \nany further Shadows, even if a move asks you to do so.",
+      "text_sha256": "a52510ac7e6a0136ccade429598c72d033ed29ad794a4f646e3806af6b7cb985",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf010:shadow-actions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：shadow-actions",
+      "text": "ANGER\n• Lash out at a friend.\n• Break something valuable\n• Escalate a delicate situation\nSHAME\n• Blame a friend for your mistakes\n• Mock or belittle someone vulnerable\n• Seek isolation or solitude\nDOUBT\n• Question a friend’s loyalty\n• Steal something valuable\n• Reject a tradition of Dragonia\nFEAR\n• Hide something from your friends\n• Avoid a difficult task\n• Exaggerate the danger of the situation",
+      "text_sha256": "05eb0ec9d516d2f0a6c8fb17064cfb7b46492565b40a91f2c880eafb528345ae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:look-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：look-1",
+      "text": "Curling horns, Head fins, Many horns, T usks",
+      "text_sha256": "17014546cf4ebfc5a13088538fe3d8d34c9f8ba98a5f1512dcc3571937d7b4cd",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:look-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：look-2",
+      "text": "Broad scales, Iridescent, Scaled, Smooth skin",
+      "text_sha256": "1611e1edec6a4591a735664319f68393372fc7cf1c9a085a7411d50cd2f192c7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:look-3": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：look-3",
+      "text": "Beak, Hardened skull, Overbite, Pointy snout",
+      "text_sha256": "d58537675eedc6b4e98e9a52fe25da3ab891b39987b1d363e0c6c869a808a487",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:look-4": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：look-4",
+      "text": "Maned tail, No tail, Stinger, Whip tail",
+      "text_sha256": "74e3da548d05281dfdbf5db930b2bc5aa005177a485422e9ffcc51a1f4153979",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:look-5": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：look-5",
+      "text": "Hooves, Splayed fingers, Talons, Webbed feet",
+      "text_sha256": "39427c24ac998f5e73ec5452caf43a53dff2c7a3905a86485d1cbf3437b35922",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf009:look-6": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 9,
+      "locator": "獨立扮演書 PDF 9：look-6",
+      "text": "Boney body, Elegant Body, Flat body, Thin body",
+      "text_sha256": "c29ada6aaf2f8832b4237cd08f0d93af1162d70c44ec1129fb3aa90ce8272b9b",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:starting-stats": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：starting-stats",
+      "text": "Starting Stats: Charm +0, Courage +1, Cunning -1",
+      "text_sha256": "e2e6f23150993e4c09ebbeb7ffe4b5386e473cbe820cf96954ef5a23f5e41e3e",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:add-one-stat": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：add-one-stat",
+      "text": "STATS: ADD ONE TO one of these.",
+      "text_sha256": "7e246840853f888a67d83e01c4a8418f9563239890425e17f66c99ba7ad9ca80",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:virtues": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：virtues",
+      "text": "VIRTUE  \n(circle one)\nDaring\nHumor",
+      "text_sha256": "2512d1264ae341da3612e29439f5a86ed86d093e872641a412a584df5158e3e4",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:choose-one-more": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：choose-one-more",
+      "text": "AND CHOOSE ONE MORE:",
+      "text_sha256": "50dcd56bc96d3d6ca387c97419c2c86e0012c0f51646648035ee78851699b928",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:intro": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：intro",
+      "text": "YOU ARE NOBLE and strong. Dragonia is your home and you fight to \ndefend it. You are an inspiration to your fellow dragons, but don’t try to take \non too much by yourself. Your friends are strong and capable; give them a \nchance and they will surprise you.",
+      "text_sha256": "ddb9309ba4c0f8081985be275784eb83fd9e8cc8e8697a81bb83d3e2cfa05517",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:house-obligations-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：house-obligations-1",
+      "text": "TESSITH,  The House of Diamond\nDefend someone weaker than you from  \nthe Darkness.\nBRYNBAK, The House of Steel\nDestroy an unnatural menace born of Darkness.",
+      "text_sha256": "98ed9e8b3c520045113cf71aa25ddfdb47e2da8439da621680481cb68c5fb1b3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:names-colors": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：names-colors",
+      "text": "COLORS\nNAME (circle one)\nMorning\nBuck\nVera\nKimrath\nAx\nGracks\nTHE WARRIOR",
+      "text_sha256": "d11a97cacc96b53d49cbf2e8422f6ea37be5755bda32acf6d2b93a435a59ddc3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:fellowship": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：fellowship",
+      "text": "FELLOWSHIP \n      has recently joined your Clutch and you are \ntraining them in the art of capital politics. Take a Gem from them.\n      has stood by your side in a fight against a monster \nof the Darkness. Explain how they exemplified your virtue. Give them a Gem.\n      was there when you were most vulnerable. Give \nthem a Gem.\nEVERYONE INTRODUCES THEIR DRAKES by name, look, and color. Then list your \nClutchmates’ names in the blanks below and go around again to read aloud your fellowship ties.",
+      "text_sha256": "f13ee11727875f6b007199a23466aeb5089a19aa5f1834bb037afc61716584c7",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:shadowself": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：shadowself",
+      "text": "YOU ARE UNSTOPPABLE, a hurricane whose might will singlehandedly shatter the \nDarkness. Dragonia must be protected and no one else is strong enough to help you. Make \nsure the clutch knows you are the only one who can save Dragonia. You are The Warrior. \nReturn from your Shadowself when a friend convinces you to ask your Clutch for help.",
+      "text_sha256": "0143224d096ce41df3f6682f72d99992d0572eb5cc2656a19aa6b9b51821c5e3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:age-chart": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：age-chart",
+      "text": "THERE ARE FIVE AGES of a dragon lifespan. Each time your XP track fills, select an \nadvancement from the list and erase your XP track. When you have taken all three \nadvancements, you grow into your next age. \nAs you grow your connection to the Moons changes and shifts. Every time you take an Adult \nadvancement, cross off one moon. You can no longer call on that moon for strength. \nADULT ADV ANCEMENT\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n1. RA W SCALED DRAKE\nXP:\nMoons +0\nXP:\n4. BEARDED DRAGON\n ¨ take a ritual of your House\n ¨ advance your signature move\nMoons +2\nXP:\n5. ELDER DRAGON\n ¨ your House dedicates a stronghold to you\n ¨ retire your character; arise as a Mystic or Ancient \nMoons +3\n ¨ take another move from your playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\n2. WINGED DRAKE\nXP:\nMoons +0\nXP:\n3. LONG-TOOTHED DRAGON\n ¨ take another move from another playbook\n ¨ take +1 to any stat (max +3)\n ¨ advance your signature move\nMoons +1\nVOID LIBERTY STONE SPIRIT STORM",
+      "text_sha256": "d47842ba429d07245329c90258b2e7edbd420db159a611c6a2c2bf07bb043526",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:shadow-track": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：shadow-track",
+      "text": "THE SHADOW TRACK represents how much hold the Darkness has on your dragon.\nYou can mark Shadows in any order. When you mark a Shadow, you must take the action \nassociated with the Shadow. When you mark the last Shadow, you lose yourself to the \nDarkness and become your Shadowself. While you are lost to the Darkness, do not mark \nany further Shadows, even if a move asks you to do so.",
+      "text_sha256": "a52510ac7e6a0136ccade429598c72d033ed29ad794a4f646e3806af6b7cb985",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf012:shadow-actions": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：shadow-actions",
+      "text": "ANGER\n• Lash out at a friend.\n• Break something valuable\n• Escalate a delicate situation\nSHAME\n• Blame a friend for your mistakes\n• Mock or belittle someone vulnerable\n• Seek isolation or solitude\nDOUBT\n• Question a friend’s loyalty\n• Steal something valuable\n• Reject a tradition of Dragonia\nFEAR\n• Hide something from your friends\n• Avoid a difficult task\n• Exaggerate the danger of the situation",
+      "text_sha256": "05eb0ec9d516d2f0a6c8fb17064cfb7b46492565b40a91f2c880eafb528345ae",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:look-1": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：look-1",
+      "text": "Curling horns, Feathered crest, Many horns, T usks",
+      "text_sha256": "69e298a4e11c35bc0e0846667644bdb941fbfe2389faf31e988f02d8677c4046",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:look-2": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：look-2",
+      "text": "Broad scales, Shelled, Spiney, T ough hide",
+      "text_sha256": "8f4ee69a8d78ab4ff833e04b05804932f1839d05df05a77de5f0a6967d5fdf93",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:look-3": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：look-3",
+      "text": "Broad skull, Long snout, Scarred snout, Underbite",
+      "text_sha256": "49aa259a1c473d270c2029d9006c8eee704973b0ab35862ec2197b4f7cf1e74a",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:look-4": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：look-4",
+      "text": "Barbed tail, Club tail, Stubby tail, Whip tail",
+      "text_sha256": "036977528e415c03174c9cc10720896446f91af32999f21ffa5d535be47ee4b9",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:look-5": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：look-5",
+      "text": "Claws, Clubbed feet, Hooves, Paws",
+      "text_sha256": "dfae33df895714c33be32ee8d9500de8b1e0b7a257fe10278417f8bdd33fa3f3",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf011:look-6": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 11,
+      "locator": "獨立扮演書 PDF 11：look-6",
+      "text": "Barrel-chested, Elegant body, Huge body, Muscular body",
+      "text_sha256": "354168be31e265c4b8ce17548a19f935b6dc3273c084a4c2d15fcc36c8793f4a",
+      "extraction": "Exact section of supplied PDF text; multi-column question placement checked visually where needed."
+    },
+    "playbooks:pdf002:mandatory-signature": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 2,
+      "locator": "獨立扮演書 PDF 2：起始必選動作標頭",
+      "text": "ACADEMIC MOVES: YOU GET THIS ONE",
+      "text_sha256": "482a629485ee53d014633e65586714bc49c857aac411f416ac1ac100c3e119c8",
+      "extraction": "Exact mandatory signature-move heading from supplied PDF."
+    },
+    "playbooks:pdf004:mandatory-signature": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 4,
+      "locator": "獨立扮演書 PDF 4：起始必選動作標頭",
+      "text": "CRAFTER MOVES: YOU GET THIS ONE",
+      "text_sha256": "b936efbffdd84ee32bbc7da5dd73b42439c1383affe8a14138b0caed47e425a5",
+      "extraction": "Exact mandatory signature-move heading from supplied PDF."
+    },
+    "playbooks:pdf006:mandatory-signature": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 6,
+      "locator": "獨立扮演書 PDF 6：起始必選動作標頭",
+      "text": "DAREDEVIL MOVES: YOU GET THIS ONE",
+      "text_sha256": "7373f0374b9148186213096af52a98147adda25aeff76fa3ca62a247683826a3",
+      "extraction": "Exact mandatory signature-move heading from supplied PDF."
+    },
+    "playbooks:pdf008:mandatory-signature": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 8,
+      "locator": "獨立扮演書 PDF 8：起始必選動作標頭",
+      "text": "NATURE ADEPT MOVES: YOU GET THIS ONE",
+      "text_sha256": "7fa2649e93146ce058c248d3f854815cda548f637618e837cbf1ad19830b4b7e",
+      "extraction": "Exact mandatory signature-move heading from supplied PDF."
+    },
+    "playbooks:pdf010:mandatory-signature": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 10,
+      "locator": "獨立扮演書 PDF 10：起始必選動作標頭",
+      "text": "SEER MOVES: YOU GET THIS ONE",
+      "text_sha256": "a03410ba662f8d91efd488072133b650e4b720204880b5cf212a78d265615819",
+      "extraction": "Exact mandatory signature-move heading from supplied PDF."
+    },
+    "playbooks:pdf012:mandatory-signature": {
+      "book_id": "playbooks",
+      "source_sha256": "8e1119f60be48a5775710496fc0ec65b5008b624d26874872a227a4df313d0e2",
+      "pdf_page": 12,
+      "locator": "獨立扮演書 PDF 12：起始必選動作標頭",
+      "text": "W ARRIOR MOVES: YOU GET THIS ONE",
+      "text_sha256": "88ac38ff0e98bf9ce286ab9a15d7b358eb0a5e49de5ee13d602ac08490fb45d3",
+      "extraction": "Exact mandatory signature-move heading from supplied PDF."
     }
   }
 }
